@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "prompt": "O'zbekistonning mustaqillik kunini nishonlash haqida qisqa hikoya yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈200-300 words",
+            "style": "narrative",
+            "topic": "Independence Day of Uzbekistan"
+        }
+    },
+    {
+        "id": 2,
+        "prompt": "Sog'lom ovqatlanishning foydalari haqida 6 jumladan iborat maqola parchasi yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "6 sentences",
+            "style": "informative",
+            "topic": "benefits of healthy eating"
+        }
+    },
+    {
+        "id": 3,
+        "prompt": "Yomg'irli kun haqida 5 misradan iborat she'r yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "5 lines",
+            "style": "poetic",
+            "topic": "rainy day"
+        }
+    },
+    {
+        "id": 4,
+        "prompt": "Amir Temur hayoti va yutuqlari haqida qisqa biografiya yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈150 words",
+            "style": "biographical",
+            "topic": "life of Amir Timur"
+        }
+    },
+    {
+        "id": 5,
+        "prompt": "Kelajakdagi texnologiyalar haqida fikringizni bildiruvchi insho yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈250 words",
+            "style": "persuasive",
+            "topic": "future technologies"
+        }
+    },
+    {
+        "id": 6,
+        "prompt": "O'zbek milliy taomlari orasida palovning retsepti haqida batafsil yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈200 words",
+            "style": "instructional",
+            "topic": "recipe for plov"
+        }
+    },
+    {
+        "id": 7,
+        "prompt": "Tabiatni muhofaza qilish muhimligi haqida 4 paragrafdan iborat matn yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "4 paragraphs",
+            "style": "explanatory",
+            "topic": "importance of nature conservation"
+        }
+    },
+    {
+        "id": 8,
+        "prompt": "Do'stlik haqida o'zbek maqollaridan foydalanib, qisqa hikoya yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈150-200 words",
+            "style": "narrative with proverbs",
+            "topic": "friendship"
+        }
+    },
+    {
+        "id": 9,
+        "prompt": "Matematikada kvadrat tenglamani yechish usullarini tushuntiruvchi matn yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈100 words",
+            "style": "educational",
+            "topic": "solving quadratic equations"
+        }
+    },
+    {
+        "id": 10,
+        "prompt": "O'zbek adabiyotida Navoiy asarlarining ahamiyati haqida insho yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈300 words",
+            "style": "analytical",
+            "topic": "importance of Navoi's works"
+        }
+    },
+    {
+        "id": 11,
+        "prompt": "Kunlik hayotda vaqtni boshqarish bo'yicha maslahatlar yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "5-7 tips",
+            "style": "advisory",
+            "topic": "time management"
+        }
+    },
+    {
+        "id": 12,
+        "prompt": "Qish fasli haqida tasviriy she'r yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "8 lines",
+            "style": "descriptive poetic",
+            "topic": "winter season"
+        }
+    },
+    {
+        "id": 13,
+        "prompt": "Iqlim o'zgarishi sabablari va oqibatlarini muhokama qiluvchi matn yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈250 words",
+            "style": "discursive",
+            "topic": "causes and effects of climate change"
+        }
+    },
+    {
+        "id": 14,
+        "prompt": "O'zbekistonning mashhur shaharlari haqida qisqa ta'riflar yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "3-5 cities, 2-3 sentences each",
+            "style": "descriptive",
+            "topic": "famous cities of Uzbekistan"
+        }
+    },
+    {
+        "id": 15,
+        "prompt": "Sun'iy intellektning afzalliklari va kamchiliklari haqida insho yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈200 words",
+            "style": "balanced argumentative",
+            "topic": "pros and cons of AI"
+        }
+    },
+    {
+        "id": 16,
+        "prompt": "Bolalik xotiralari haqida shaxsiy hikoya yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈150 words",
+            "style": "personal narrative",
+            "topic": "childhood memories"
+        }
+    },
+    {
+        "id": 17,
+        "prompt": "Fizikada Nyuton qonunlarini oddiy tilda tushuntiring.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "3 laws, 1-2 sentences each",
+            "style": "simplified explanatory",
+            "topic": "Newton's laws of motion"
+        }
+    },
+    {
+        "id": 18,
+        "prompt": "O'zbek folklorida ertaklarning roli haqida matn yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈100 words",
+            "style": "informative",
+            "topic": "role of folktales in Uzbek folklore"
+        }
+    },
+    {
+        "id": 19,
+        "prompt": "Sog'liqni saqlash uchun sportning ahamiyati haqida insho yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈250 words",
+            "style": "persuasive",
+            "topic": "importance of sports for health"
+        }
+    },
+    {
+        "id": 20,
+        "prompt": "Yoz faslining go'zalligi haqida she'r yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "6 lines",
+            "style": "poetic",
+            "topic": "beauty of summer"
+        }
+    },
+    {
+        "id": 21,
+        "prompt": "Tarixdagi buyuk kashfiyotlar haqida qisqa ro'yxat yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "5 discoveries, brief description each",
+            "style": "list-based informative",
+            "topic": "great historical discoveries"
+        }
+    },
+    {
+        "id": 22,
+        "prompt": "Oilaviy qadriyatlar haqida fikr-mulohazalar yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈200 words",
+            "style": "reflective",
+            "topic": "family values"
+        }
+    },
+    {
+        "id": 23,
+        "prompt": "Biologiyada o'simliklarning fotosintez jarayonini tushuntiring.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈150 words",
+            "style": "scientific explanatory",
+            "topic": "photosynthesis in plants"
+        }
+    },
+    {
+        "id": 24,
+        "prompt": "O'zbek san'ati va hunarmandchiligi haqida matn yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈100 words",
+            "style": "descriptive",
+            "topic": "Uzbek art and crafts"
+        }
+    },
+    {
+        "id": 25,
+        "prompt": "Muvaffaqiyatga erishish yo'llari haqida maslahatlar yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "4-6 tips",
+            "style": "motivational",
+            "topic": "paths to success"
+        }
+    },
+    {
+        "id": 26,
+        "prompt": "Kuz fasli haqida tasviriy she'r yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "7 lines",
+            "style": "poetic descriptive",
+            "topic": "autumn season"
+        }
+    },
+    {
+        "id": 27,
+        "prompt": "Iqtisodiyotda inflyatsiya sabablari haqida insho yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈200 words",
+            "style": "analytical",
+            "topic": "causes of inflation"
+        }
+    },
+    {
+        "id": 28,
+        "prompt": "O'zbekiston tabiatining go'zal joylari haqida ta'rif yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "3 places, 2-3 sentences each",
+            "style": "descriptive",
+            "topic": "beautiful natural sites in Uzbekistan"
+        }
+    },
+    {
+        "id": 29,
+        "prompt": "Psixologiyada stressni boshqarish usullari haqida matn yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈150 words",
+            "style": "practical advisory",
+            "topic": "stress management techniques"
+        }
+    },
+    {
+        "id": 30,
+        "prompt": "Adabiyotda fantastik janrning xususiyatlari haqida yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈100 words",
+            "style": "informative",
+            "topic": "features of fantasy genre"
+        }
+    },
+    {
+        "id": 31,
+        "prompt": "O'zbek tilining rivojlanishi haqida tarixiy obzor yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈250 words",
+            "style": "historical review",
+            "topic": "development of Uzbek language"
+        }
+    },
+    {
+        "id": 32,
+        "prompt": "Hayvonlar dunyosi haqida qiziqarli faktlar yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "5 facts",
+            "style": "factual entertaining",
+            "topic": "interesting animal facts"
+        }
+    },
+    {
+        "id": 33,
+        "prompt": "Kimyo fanida atom tuzilishi haqida tushuntirish yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈150 words",
+            "style": "scientific",
+            "topic": "atomic structure"
+        }
+    },
+    {
+        "id": 34,
+        "prompt": "O'zbek musiqasining an'anaviy asboblari haqida matn yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈100 words",
+            "style": "descriptive",
+            "topic": "traditional Uzbek musical instruments"
+        }
+    },
+    {
+        "id": 35,
+        "prompt": "Shaxsiy rivojlanish uchun kitob o'qishning foydalari haqida insho yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈200 words",
+            "style": "persuasive",
+            "topic": "benefits of reading for personal growth"
+        }
+    },
+    {
+        "id": 36,
+        "prompt": "Dengiz haqida romantik she'r yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "10 lines",
+            "style": "romantic poetic",
+            "topic": "the sea"
+        }
+    },
+    {
+        "id": 37,
+        "prompt": "Tarixdagi ayollarning roli haqida misollar keltirib yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "3 examples, brief each",
+            "style": "historical illustrative",
+            "topic": "role of women in history"
+        }
+    },
+    {
+        "id": 38,
+        "prompt": "O'zbekiston iqtisodiyoti rivojlanish yo'llari haqida fikr yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈150 words",
+            "style": "opinion-based",
+            "topic": "paths for Uzbekistan's economic development"
+        }
+    },
+    {
+        "id": 39,
+        "prompt": "Astronomiyada Quyosh tizimi haqida qisqa ma'lumot yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈100 words",
+            "style": "informative",
+            "topic": "solar system"
+        }
+    },
+    {
+        "id": 40,
+        "prompt": "Madaniy merosni saqlash muhimligi haqida insho yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈250 words",
+            "style": "argumentative",
+            "topic": "importance of preserving cultural heritage"
+        }
+    },
+    {
+        "id": 41,
+        "prompt": "O'zbek adabiyotidagi zamonaviy yozuvchilar haqida ro'yxat yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "4-5 writers, short bio each",
+            "style": "biographical list",
+            "topic": "modern Uzbek writers"
+        }
+    },
+    {
+        "id": 42,
+        "prompt": "Ekologik muammolarni hal qilish usullari haqida maslahatlar yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "5 methods",
+            "style": "practical",
+            "topic": "solutions to ecological problems"
+        }
+    },
+    {
+        "id": 43,
+        "prompt": "Geografiyada O'zbekistonning joylashuvi haqida tushuntirish yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈150 words",
+            "style": "geographical descriptive",
+            "topic": "geographical location of Uzbekistan"
+        }
+    },
+    {
+        "id": 44,
+        "prompt": "O'zbek raqs san'ati haqida qisqa matn yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈100 words",
+            "style": "cultural informative",
+            "topic": "Uzbek dance art"
+        }
+    },
+    {
+        "id": 45,
+        "prompt": "Ilm-fan rivojlanishidagi ayollarning hissasi haqida insho yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈200 words",
+            "style": "highlighting contributions",
+            "topic": "women's contributions to science"
+        }
+    },
+    {
+        "id": 46,
+        "prompt": "Tog'lar haqida ilhomlantiruvchi she'r yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "8 lines",
+            "style": "inspirational poetic",
+            "topic": "mountains"
+        }
+    },
+    {
+        "id": 47,
+        "prompt": "Siyosatda demokratiya tamoyillari haqida muhokama yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈150 words",
+            "style": "discursive",
+            "topic": "principles of democracy"
+        }
+    },
+    {
+        "id": 48,
+        "prompt": "O'zbekistonning turistik joylari haqida reklama matni yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈100 words",
+            "style": "promotional",
+            "topic": "tourist attractions in Uzbekistan"
+        }
+    },
+    {
+        "id": 49,
+        "prompt": "Filosofiyada baxt tushunchasi haqida fikr yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈200 words",
+            "style": "philosophical reflective",
+            "topic": "concept of happiness"
+        }
+    },
+    {
+        "id": 50,
+        "prompt": "Zamonaviy ta'lim tizimidagi o'zgarishlar haqida insho yozing.",
+        "expected_criteria": {
+            "language": "uz",
+            "length": "≈250 words",
+            "style": "analytical",
+            "topic": "changes in modern education system"
+        }
+    }
+]

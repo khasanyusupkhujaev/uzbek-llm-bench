@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "context": "Pompey shahri 79-yilda Vezuviy vulqonining otilishi natijasida vulqon kuli ostida qoldi. Bu hodisa shaharni ajoyib tarzda saqlab qoldi, arxeologlarga Rim hayoti haqida ma’lumot berdi, ammo minglab odamlarning o‘limiga sabab bo‘ldi.",
+    "question": "Pompey shahrining saqlanishi vulqon otilishi tabiatini va tarixiy tushunchani qanday ochib beradi?",
+    "expected": "Tez ko‘milish artefaktlar va tuzilmalarni saqlab qoldi, Rim hayotini ochib berdi, lekin birdaniga sodir bo‘lgan o‘limlar hodisaning fojiali tezligini ko‘rsatadi."
+  },
+  {
+    "id": 2,
+    "context": "Kvant o‘zaro bog‘lanish ikki zarra bir-biriga bog‘langan holatda bo‘lib, birining holati boshqasiga masofadan qat’i nazar ta’sir qiladi. Bu Eynshteyn tomonidan 'masofadagi sirli harakat' deb atalgan.",
+    "question": "Kvant o‘zaro bog‘lanishi klassik fizika tushunchalariga qanday zid keladi va qanday ilovalariga ega?",
+    "expected": "U masofada bir zumda ta’sir qilish orqali ma’lumotning yorug‘likdan tez yurishi mumkin emasligi haqidagi tushunchaga zid keladi; ilovalari xavfsiz aloqa va kvant hisoblashni o‘z ichiga oladi."
+  },
+  {
+    "id": 3,
+    "context": "Shekspirning 'Gamlet' asarida bosh qahramon otasining o‘ldirilishini tekshirish uchun o‘zini aqldan ozgandek ko‘rsatadi. Uning harakatlari podshohning aybini fosh qiladi.",
+    "question": "Gamletning soxta jinniligi qanday qilib syujetda psixologik manipulyatsiya vositasi sifatida ishlaydi?",
+    "expected": "Bu unga shubhasiz boshqalarni sinash, podshohning aybini tasdiqlash va intiqom yo‘lida tartibsizlik yaratish imkonini beradi."
+  },
+  {
+    "id": 4,
+    "context": "Iqlim o‘zgarishi qutb muzliklarining erishini tezlashtirdi, bu dengiz sathining ko‘tarilishiga va ekstremal ob-havo hodisalarining ko‘payishiga olib keldi.",
+    "question": "Qutb muzliklarining erishi global ekologik beqarorlikka qanday ta’sir qiladi?",
+    "expected": "Dengiz sathining ko‘tarilishi, ekotizimlarning buzilishi va ob-havo o‘zgarishi iqlim isishini kuchaytiradi."
+  },
+  {
+    "id": 5,
+    "context": "Sanoat inqilobi 18-asr oxirida Angliyada boshlanib, bug‘ dvigateli kabi ixtirolar jamiyatni o‘zgartirdi, lekin shaharlarning haddan tashqari to‘lib ketishi va ifloslanishiga olib keldi.",
+    "question": "Sanoat inqilobining iqtisodiy va ijtimoiy ta’sirini baholang.",
+    "expected": "Iqtisodiy o‘sish va ixtirolarni rag‘batlantirdi, lekin yomon ish sharoitlari, bolalar mehnati va shahar muammolarini keltirib chiqardi."
+  },
+  {
+    "id": 6,
+    "context": "Fotosintez o‘simliklarda uglerod dioksid va suvni quyosh nuri yordamida glyukozaga aylantiradi, bu jarayon kislorod ishlab chiqaradi.",
+    "question": "Fotosintez samaradorligi global uglerod aylanishiga qanday ta’sir qiladi?",
+    "expected": "U CO2 ni kamaytirib, iqlimni tartibga soladi; samarasizlik uglerod balansini buzadi."
+  },
+  {
+    "id": 7,
+    "context": "Blokcheyn texnologiyasi markazlashmagan tranzaksiyalarni ta’minlaydi, lekin yuqori energiya sarfi va miqyoslashuv muammolari mavjud.",
+    "question": "Blokcheynning markazlashmaganligi va amaliy cheklovlari o‘rtasidagi muvozanatni muhokama qiling.",
+    "expected": "Markazlashmaganlik xavfsizlikni oshiradi, lekin energiya sarfi va tranzaksiya tezligi keng qo‘llanilishni cheklaydi."
+  },
+  {
+    "id": 8,
+    "context": "Darvinning tabiiy tanlanish nazariyasi turlarning moslashuvini tushuntiradi, ammo diniy qarashlar bilan bahslarga sabab bo‘ldi.",
+    "question": "Tabiiy tanlanish bioxilmaxillikni qanday tushuntiradi va qanday tanqidlarga duch keladi?",
+    "expected": "Omon qolishga yordam beradigan xususiyatlarni targ‘ib qiladi; tanqidlar fossillarning yetishmasligi va murakkablikni o‘z ichiga oladi."
+  },
+  {
+    "id": 9,
+    "context": "Renessans davrida Evropada klassik bilimlar qayta tiklandi, bosmaxona ixtirosi bilim tarqalishini tezlashtirdi.",
+    "question": "Renessans davridagi texnologik yutuqlar madaniy o‘zgarishlarga qanday hissa qo‘shdi?",
+    "expected": "Bosmaxona bilimni ommalashtirdi, humanizm va ilmiy izlanishlarni rag‘batlantirdi."
+  },
+  {
+    "id": 10,
+    "context": "Sun’iy neyron tarmoqlar inson miyasini taqlid qiladi, lekin chuqur o‘qitish katta ma’lumotlar va hisoblash quvvatini talab qiladi.",
+    "question": "Chuqur o‘qitishning hisoblash talablari AI rivojlanishiga qanday ta’sir qiladi?",
+    "expected": "Yuqori talablar faqat resursli tashkilotlarga imkon beradi, tengsizlikni oshiradi."
+  },
+  {
+    "id": 11,
+    "context": "Fransiya inqilobi (1789) monarxiyani ag‘dardi, lekin terror hukmronligi va Napoleonning yuksalishiga olib keldi.",
+    "question": "Fransiya inqilobining mafkuraviy asoslari avtoritar amaliyotlarga qanday aylandi?",
+    "expected": "Ozodlik g‘oyalari islohotlarni boshladi, lekin qo‘rquv terrorga, keyin diktaturaga olib keldi."
+  },
+  {
+    "id": 12,
+    "context": "Qora tuynuklar yorug‘lik chiqa olmaydigan kuchli tortishish sohasiga ega bo‘lib, Xoking nurlanishi ularning bug‘lanishini ko‘rsatadi.",
+    "question": "Qora tuynuklarning ma’lumot yo‘qotish paradoksi nima va Xoking nurlanishi buni qanday hal qiladi?",
+    "expected": "Paradoks ma’lumotning yo‘q qilinishi kvant mexanikasiga zid; Xoking nurlanishi ma’lumotni qaytarishni taklif qiladi."
+  },
+  {
+    "id": 13,
+    "context": "Jeyn Ostinning 'G‘urur va xurofot' asarida ijtimoiy sinf va nikoh muammolari Elizabet Bennetning sevgi hikoyasi orqali ko‘riladi.",
+    "question": "Ijtimoiy normalar qahramonlar motivatsiyasiga qanday ta’sir qiladi?",
+    "expected": "Sinfi va jins normalari nikohni majburlaydi, lekin shaxsiy o‘sish xurofotlarni yengadi."
+  },
+  {
+    "id": 14,
+    "context": "Qayta tiklanadigan energiya manbalari uzluksiz emas, ammo aqlli tarmoqlar va batareyalar bu muammoni hal qiladi.",
+    "question": "Qayta tiklanadigan energiya uzluksizligini ta’minlash uchun qanday strategiyalar mavjud?",
+    "expected": "Batareyalar, diversifikatsiya va aqlli tarmoqlar talab-ta’minotni muvozanatlashtiradi."
+  },
+  {
+    "id": 15,
+    "context": "Sovuq urush AQSh va SSSR o‘rtasida vakolatli urushlar va qurol poygasini keltirib chiqardi, 1991-yilda SSSR parchalanishi bilan yakunlandi.",
+    "question": "Vakolatli urushlar Sovuq urush dinamikasini qanday davom ettirdi?",
+    "expected": "Ular superdavlatlarga bilvosita ta’sir o‘tkazish imkonini berdi, yadroviy eskalatsiyani oldini oldi."
+  },
+  {
+    "id": 16,
+    "context": "CRISPR-Cas9 gen tahrirlash kasalliklarni davolashni va’da qiladi, lekin axloqiy muammolar, masalan, dizayner chaqaloqlar xavfini keltirib chiqaradi.",
+    "question": "CRISPRning inson ilovalaridagi axloqiy muammolar nimalardan iborat?",
+    "expected": "Davolash potentsiali yuqori, lekin evgenika va noaniq mutatsiyalar xavfi mavjud."
+  },
+  {
+    "id": 17,
+    "context": "Ipak yo‘li Sharq va G‘arb o‘rtasida savdo va g‘oyalar almashinuvini ta’minladi, lekin kasalliklar tarqalishiga ham sabab bo‘ldi.",
+    "question": "Ipak yo‘lining madaniy almashinuvlari qanday ijobiy va salbiy oqibatlarga olib keldi?",
+    "expected": "Bilim va iqtisodiy o‘sishni rag‘batlantirdi, lekin O‘lat kabi kasalliklarni tarqatdi."
+  },
+  {
+    "id": 18,
+    "context": "Mashinaviy o‘qitish algoritmlari ma’lumotlardan o‘rganadi, lekin haddan tashqari moslashish shovqinni eslab qolishga olib keladi.",
+    "question": "Regulyarizatsiya texnikalari haddan tashqari moslashishni qanday oldini oladi?",
+    "expected": "L1/L2 jazolari modellarini soddalashtirib, umumlashtirishni rag‘batlantiradi."
+  },
+  {
+    "id": 19,
+    "context": "Amerika fuqarolar urushi (1861-1865) qullik va shtatlar huquqlari uchun olib borildi, Emansipatsiya deklaratsiyasi ma’naviy yo‘nalishni o‘zgartirdi.",
+    "question": "Harbiy strategiyalar va siyosiy manevrlar urush natijasiga qanday ta’sir qildi?",
+    "expected": "Ittifoq blokadasi va Emansipatsiya konfederatsiyani zaiflashtirdi va xalqaro yordamni jalb qildi."
+  },
+  {
+    "id": 20,
+    "context": "Okean kislotalanishi CO2 so‘rilishi tufayli koral riflari va mollyuskalar qobig‘ini yo‘q qiladi, oziq-ovqat zanjirini buzadi.",
+    "question": "Okean kislotalanishining global ekotizimlarga ta’siri nimalardan iborat?",
+    "expected": "Riflar yo‘qolishi oziq-ovqat zanjirini buzadi, baliqchilik va turizmga zarar yetkazadi."
+  },
+  {
+    "id": 21,
+    "context": "Oruellning '1984' asarida totalitar jamiyatda til va propaganda fikrlarni boshqaradi.",
+    "question": "Til manipulyatsiyasi qanday qilib ijtimoiy nazorat vositasi sifatida ishlaydi?",
+    "expected": "Yangi so‘zlar fikrlarni cheklaydi, ikkiyoqlama fikrlash haqiqatni yo‘q qiladi."
+  },
+  {
+    "id": 22,
+    "context": "Simlar nazariyasi zarralarni ko‘p o‘lchovli tebranish sifatida tasavvur qiladi, lekin amaliy dalillar yo‘q.",
+    "question": "Simlar nazariyasining empirik tasdiqlashdagi qiyinchiliklari nimalardan iborat?",
+    "expected": "Yuqori energiya talablari va yechimlarning ko‘pligi sinovni qiyinlashtiradi."
+  },
+  {
+    "id": 23,
+    "context": "Meyji islohoti Yaponiyani 1868-yilda modernlashtirdi, G‘arb texnologiyalarini qabul qildi, lekin milliy o‘ziga xoslikni saqladi.",
+    "question": "Meyji davridagi tanlangan G‘arbiylashtirish modernizatsiyani qanday muvozanatlashtirdi?",
+    "expected": "Sanoat va harbiy islohotlar qudratni oshirdi, imperator va an’analar o‘ziga xoslikni saqladi."
+  },
+  {
+    "id": 24,
+    "context": "Kriptovalyutalar markazlashmagan tarmoqlarda ishlaydi, lekin narxlar o‘zgaruvchanligi keng qo‘llanilishni cheklaydi.",
+    "question": "Kriptovalyutalarning afzalliklari va cheklovlarini muhokama qiling.",
+    "expected": "Shaffoflik va xavfsizlikni ta’minlaydi, lekin narx o‘zgaruvchanligi va tartibga solish muammolari to‘sqinlik qiladi."
+  },
+  {
+    "id": 25,
+    "context": "Genetik mutatsiyalar turlarning rivojlanishida muhim rol o‘ynaydi, lekin zararli mutatsiyalar kasalliklarga olib keladi.",
+    "question": "Genetik mutatsiyalarning ijobiy va salbiy ta’sirlarini tahlil qiling.",
+    "expected": "Mutatsiyalar moslashishni ta’minlaydi, lekin zararli mutatsiyalar kasalliklarni keltirib chiqaradi."
+  },
+  {
+    "id": 26,
+    "context": "Internetning rivojlanishi global aloqalarni osonlashtirdi, lekin kiberxavfsizlik muammolarini keltirib chiqardi.",
+    "question": "Internetning aloqa sohasidagi foydalari va xavf-xatarlari nimalardan iborat?",
+    "expected": "Global aloqa va ma’lumot almashishni osonlashtiradi, lekin kiberxujumlar va maxfiylik xavfi mavjud."
+  },
+  {
+    "id": 27,
+    "context": "Antarktida muzliklari erishi global iqlim va dengiz sathiga ta’sir qiladi, ammo uzoq masofalar tufayli tadqiqotlar qiyin.",
+    "question": "Antarktida muzliklarining erishi global iqlimga qanday ta’sir qiladi?",
+    "expected": "Dengiz sathining ko‘tarilishi va iqlimning o‘zgarishi global ekotizimlarni buzadi."
+  },
+  {
+    "id": 28,
+    "context": "Sun’iy intellektning rivojlanishi avtomatlashtirishni oshirdi, lekin ish o‘rinlari yo‘qotilishi va axloqiy muammolarni keltirib chiqardi.",
+    "question": "Sun’iy intellektning iqtisodiy foydalari va ijtimoiy xavf-xatarlari nimalardan iborat?",
+    "expected": "Ish samaradorligini oshiradi, lekin ish o‘rinlari yo‘qotilishi va qarorlarning adolatsizligi xavfini keltirib chiqaradi."
+  },
+  {
+    "id": 29,
+    "context": "O‘rta asrlar Evropasida feodal tuzum hukmron edi, lekin savdo va shaharlarning o‘sishi uni zaiflashtirdi.",
+    "question": "Shaharlarning o‘sishi feodal tuzumga qanday ta’sir qildi?",
+    "expected": "Savdo va shaharlarning rivojlanishi iqtisodiy mustaqillikni oshirib, feodal tuzumni zaiflashtirdi."
+  },
+  {
+    "id": 30,
+    "context": "Kosmosni tadqiq qilish insoniyatning olam haqidagi tushunchasini kengaytirdi, lekin yuqori xarajatlarga ega.",
+    "question": "Kosmos tadqiqotlarining ilmiy foydalari va moliyaviy cheklovlari nimalardan iborat?",
+    "expected": "Ilmiy kashfiyotlar va texnologik yutuqlarni ta’minlaydi, lekin katta xarajatlar resurslarni cheklaydi."
+  }
+]
