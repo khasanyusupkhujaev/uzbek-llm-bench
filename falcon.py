@@ -20,14 +20,15 @@ def run_test_on_file(file_path, output_file):
 
     results = []
     for i, entry in enumerate(data):
-        user_prompt = entry.get("input") or entry.get("prompt") or entry
+        raw_prompt = entry.get("input") or entry.get("prompt") or entry
+        if not isinstance(raw_prompt, str):
+            raw_prompt = json.dumps(raw_prompt, ensure_ascii=False)
 
-        messages = [{"role": "user", "content": user_prompt}]
+        messages = [{"role": "user", "content": raw_prompt}]
         inputs = tokenizer.apply_chat_template(
             messages,
             add_generation_prompt=True,
             tokenize=True,
-            return_dict=True,
             return_tensors="pt",
         ).to(model.device)
 
@@ -40,7 +41,7 @@ def run_test_on_file(file_path, output_file):
         )
 
         results.append({
-            "input": user_prompt,
+            "input": raw_prompt,
             "output": response.strip()
         })
 
