@@ -8,10 +8,10 @@ tokenizer = AutoTokenizer.from_pretrained(
     trust_remote_code=True
 )
 model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    trust_remote_code=True,
+    "moonshotai/Kimi-K2-Instruct-fp16",
     torch_dtype=torch.float16,
-    device_map="auto"
+    device_map="auto",
+    trust_remote_code=True
 )
 model.config.pad_token_id = tokenizer.eos_token_id
 
