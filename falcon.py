@@ -29,8 +29,10 @@ def run_test_on_file(file_path, output_file):
             messages,
             add_generation_prompt=True,
             tokenize=True,
-            return_tensors="pt",
-        ).to(model.device)
+            return_dict=True,
+            return_tensors="pt"
+        )
+        inputs = {k: v.to(model.device) for k, v in inputs.items()}
 
         with torch.no_grad():
             outputs = model.generate(**inputs, max_new_tokens=200)
