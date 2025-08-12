@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch, json, os
 from huggingface_hub import login
 
-login(token="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")
+login(token="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")
 
 model_name = "moonshotai/Kimi-K2-Instruct"
 
