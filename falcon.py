@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch, json, os
 
 # Use Falcon model instead of Kimi
-model_name = "tiiuae/Falcon3-7B-Instruct"
+model_name = "tiiuae/Falcon3-3B-Instruct"
 
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(
