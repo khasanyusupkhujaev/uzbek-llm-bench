@@ -3,12 +3,17 @@ import torch, json, os
 
 model_name = "moonshotai/Kimi-K2-Instruct"
 
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+tokenizer = AutoTokenizer.from_pretrained(
+    model_name,
+    trust_remote_code=True
+)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
+    trust_remote_code=True,
     torch_dtype=torch.float16,
     device_map="auto"
 )
+model.config.pad_token_id = tokenizer.eos_token_id
 
 def run_test_on_file(file_path, output_file):
     with open(file_path, "r", encoding="utf-8") as f:
