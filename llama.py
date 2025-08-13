@@ -64,6 +64,7 @@ test_files = [
 
 # Ensure results folder exists
 os.makedirs("results", exist_ok=True)
+os.makedirs("results/llama", exist_ok=True)
 
 # Run evaluation for each file
 for file_name in test_files:
