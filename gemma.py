@@ -1,9 +1,15 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch, json, os
-from nltk.translate.bleu_score import sentence_bleu
+from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 import re
 
-model_name = "google/gemma-3-1b-it"
+# Set TensorFloat32 precision for better performance
+torch.set_float32_matmul_precision('high')
+
+# Increase Dynamo cache size to avoid recompilation limit
+torch._dynamo.config.cache_size_limit = 64  # Increase from default (8)
+
+model_name = "google/gemma-2-2b-it"  # Using Gemma-2-2B-IT for better performance
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
@@ -18,12 +24,16 @@ def clean_translation_output(response):
         r"The translation [^\n]*:\n*\s*",
         r"Translated text:\n*\s*",
         r"Translation:\n*\s*",
-        r"^[^\n]+:\n*\s*"  # Remove any introductory line ending with colon
+        r"^[^\n]+:\n*\s*",  # Remove any introductory line ending with colon
+        r"Here is the translation.*?:\n*\s*",  # Gemma-specific preamble
+        r"\*\*.*?\*\*\n*\s*",  # Remove markdown-like headers
+        r"```.*?```",  # Remove code blocks
+        r"\n+"  # Remove extra newlines
     ]
     cleaned = response
     for pattern in patterns:
-        cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE)
-    # Remove extra whitespace and newlines
+        cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE | re.DOTALL)
+    # Remove extra whitespace
     return cleaned.strip()
 
 def run_test_on_file(file_path, output_file):
@@ -34,7 +44,7 @@ def run_test_on_file(file_path, output_file):
     for i, entry in enumerate(data):
         if file_path.endswith("translate_uz.json") or file_path.endswith("translate_en.json"):
             # Explicitly instruct to return only the translated text
-            prompt = f"Translate the following text from {entry['source_lang']} to {entry['target_lang']} and provide only the translated text: {entry['source_text']}"
+            prompt = f"Provide only the translated text from {entry['source_lang']} to {entry['target_lang']}: {entry['source_text']}"
         elif file_path.endswith("comprehension.json"):
             prompt = f"Based on the following context, answer the question in Uzbek: {entry['context']} {entry['question']}"
         elif file_path.endswith("generation.json"):
@@ -71,9 +81,13 @@ def run_test_on_file(file_path, output_file):
         if file_path.endswith("translate_uz.json") or file_path.endswith("translate_en.json"):
             response = clean_translation_output(response)
 
-        # Calculate BLEU score
+        # Calculate BLEU score with smoothing
         expected = entry.get("expected", "")
-        bleu_score = sentence_bleu([expected.split()], response.split()) if expected else 0.0
+        bleu_score = sentence_bleu(
+            [expected.split()],
+            response.split(),
+            smoothing_function=SmoothingFunction().method1  # Add smoothing to avoid zero scores
+        ) if expected else 0.0
 
         results.append({
             "input": prompt,
