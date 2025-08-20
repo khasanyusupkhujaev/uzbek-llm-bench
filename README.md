@@ -3,7 +3,7 @@
 This repository contains the code, datasets, and results for the research paper "Benchmarking Pre-Trained Open-Source Large Language Models for Uzbek: Evaluating Performance in a Low-Resource Setting Across Translation, Comprehension, and Generation" by K. Yusupkhujaev. The study evaluates seven small-scale (0.6B–2B parameters) pre-trained open-source LLMs on Uzbek language tasks: translation (Uzbek↔English), comprehension, and generation. The repository supports reproducibility and provides resources for researchers and practitioners working on Uzbek NLP under constrained compute budgets.
 Please cite the paper if you use this repository:
 
-K. Yusupkhujaev, "Benchmarking Pre-Trained Open-Source Large Language Models for Uzbek: Evaluating Performance in a Low-Resource Setting Across Translation, Comprehension, and Generation," 2025. [Online]. Available: Soon will be available online
+K. Yusupkhujaev, "Benchmarking Pre-Trained Open-Source Large Language Models for Uzbek: Evaluating Performance in a Low-Resource Setting Across Translation, Comprehension, and Generation," 2025. [Online]. Available: https://drive.google.com/file/d/1Wqq8zAkleb3qQcJdBr-_ar8xDPaFHsgA/view?usp=sharing
 
 **Repository Structure**
 
