@@ -97,10 +97,10 @@ test_files = [
     "generation.json"
 ]
 
-os.makedirs("results/falcon", exist_ok=True)
+os.makedirs("results/qwen", exist_ok=True)
 
 for file_name in test_files:
     run_test_on_file(
         os.path.join(file_name),
-        os.path.join("results/falcon", f"{file_name.replace('.json', '_results.json')}")
+        os.path.join("results/qwen", f"{file_name.replace('.json', '_results.json')}")
     )
