@@ -12,18 +12,15 @@ model = AutoModelForCausalLM.from_pretrained(
 model.config.pad_token_id = tokenizer.eos_token_id
 
 def clean_translation_output(response):
-    """Extract only the translated text from the model's output."""
-    # Remove common preambles or extra text
     patterns = [
         r"The translation [^\n]*:\n*\s*",
         r"Translated text:\n*\s*",
         r"Translation:\n*\s*",
-        r"^[^\n]+:\n*\s*"  # Remove any introductory line ending with colon
+        r"^[^\n]+:\n*\s*"  
     ]
     cleaned = response
     for pattern in patterns:
         cleaned = re.sub(pattern, "", cleaned, flags=re.IGNORECASE)
-    # Remove extra whitespace and newlines
     return cleaned.strip()
 
 def run_test_on_file(file_path, output_file):
@@ -33,7 +30,6 @@ def run_test_on_file(file_path, output_file):
     results = []
     for i, entry in enumerate(data):
         if file_path.endswith("translate_uz.json") or file_path.endswith("translate_en.json"):
-            # Explicitly instruct to return only the translated text
             prompt = f"Translate the following text from {entry['source_lang']} to {entry['target_lang']} and provide only the translated text: {entry['source_text']}"
         elif file_path.endswith("comprehension.json"):
             prompt = f"Based on the following context, answer the question in Uzbek: {entry['context']} {entry['question']}"
@@ -67,11 +63,9 @@ def run_test_on_file(file_path, output_file):
             skip_special_tokens=True
         ).strip()
 
-        # Clean the output for translation tasks
         if file_path.endswith("translate_uz.json") or file_path.endswith("translate_en.json"):
             response = clean_translation_output(response)
 
-        # Calculate BLEU score
         expected = entry.get("expected", "")
         bleu_score = sentence_bleu([expected.split()], response.split()) if expected else 0.0
 
