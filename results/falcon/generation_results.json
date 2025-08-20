@@ -1,0 +1,302 @@
+[
+  {
+    "input": "O'zbekistonning mustaqillik kunini nishonlash haqida qisqa hikoya yozing. Write in Uzbek, ≈200-300 words, in a narrative style about Independence Day of Uzbekistan.",
+    "output": "Вершина Буктайстана (Буктайстан Булкагован Булуктай) октября 1924 года включает в себя 21 женщина огромного союзника. Эти роли обладают шартушками куда суть шартушки. На 21 женщина огромный союзник \"Буктай",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'lom ovqatlanishning foydalari haqida 6 jumladan iborat maqola parchasi yozing. Write in Uzbek, 6 sentences, in a informative style about benefits of healthy eating.",
+    "output": "Флосование карапмана баланты болуп карап маңген аймага чагылышты. өмүрүүчү карап маңген саналат. Бул жолунун маңген саналат болуп болот. \n\nКарап маңген аймага өмүрүүчү саналат болуп алары. өмүр",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yomg'irli kun haqida 5 misradan iborat she'r yozing. Write in Uzbek, 5 lines, in a poetic style about rainy day.",
+    "output": "Янги сүйлөмдө,\nХайлда куш качылды;\nЫрүшкөндө,\nЧогорңгон алышпаган,\nЭлке жана жайгашкан.\n\nЭлке болгон,\nЭлке жана жайгашкан,\nЭлке жайгашкан,\nЭлке болгон,\nЭлке жайгашкан.\n\nЫр",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Amir Temur hayoti va yutuqlari haqida qisqa biografiya yozing. Write in Uzbek, ≈150 words, in a biographical style about life of Amir Timur.",
+    "output": "Конечно, вы шифровали конкретного представления на негибе америн Тимуров. Это большое миссии, который выявился в 14th году. Самый процветательный американ, умноживший будущий союзник, шантипер америкальзы. Это было предст",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kelajakdagi texnologiyalar haqida fikringizni bildiruvchi insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about future technologies.",
+    "output": "Фикрографиктивистиктин үчүн жана менен максимунда же жаңганда билимдүү алып келет. Эмместнын менен жана жана тилинде жана теңдирүүнө үчүн жана жана максимунда менен менен үчүн жана жана тилинде �",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek milliy taomlari orasida palovning retsepti haqida batafsil yozing. Write in Uzbek, ≈200 words, in a instructional style about recipe for plov.",
+    "output": "Вот клип ваших основных основных организаций из Австралия:\n\n**Плов** - глазовый баланс в резком шарте\n\n**Процесс:**\n\n1. Заметим калоры (калоры, например, монгол) - 500 мл монгол.\n2. Заметим калоры (калоры, нап",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tabiatni muhofaza qilish muhimligi haqida 4 paragrafdan iborat matn yozing. Write in Uzbek, 4 paragraphs, in a explanatory style about importance of nature conservation.",
+    "output": "Вот общий описание, который может помочь меня повышать значимость началов и улучшить возможности началов. Здоровье или натуральное поверхностное средство, например, океан, город, основанное на высокой повер",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Do'stlik haqida o'zbek maqollaridan foydalanib, qisqa hikoya yozing. Write in Uzbek, ≈150-200 words, in a narrative with proverbs style about friendship.",
+    "output": "Эне се аналогически да бул жана малого маска, а также не проводится общественным словам. В конец нашего года вот на себе кажется, что у меня оказалось, что \"вода моёго будет там, там моёго будет там\" судится, как правил�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Matematikada kvadrat tenglamani yechish usullarini tushuntiruvchi matn yozing. Write in Uzbek, ≈100 words, in a educational style about solving quadratic equations.",
+    "output": "Этап 1: Создание квадратного уравнения\n\nВозможно, ваш квадратный уравнение будет включать математику уравнения \\( ax^2 + bx + c = 0 \\), следующий образ: \n\\[ ax^2 + bx + c = 0. \\]\n\nВ 2 концепциях, мы рассчитаем \\( a \\neq 0 \\) для удовлетворяе�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotida Navoiy asarlarining ahamiyati haqida insho yozing. Write in Uzbek, ≈300 words, in a analytical style about importance of Navoi's works.",
+    "output": "ОЗБОК БОЗКОЙ (Navoi) – манифосованный наука словов и анализах, рассказывающий о политике и национальности. Новое аналитическое размещение он может предоставить основные моменты, которые включают в соответствующий нау",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kunlik hayotda vaqtni boshqarish bo'yicha maslahatlar yozing. Write in Uzbek, 5-7 tips, in a advisory style about time management.",
+    "output": "چراً، چي ارتباطات معقولاً باكي چي چي 5-7 تي چي انتهان تي دي چي چي یادگیري چي انديد چي ې ان يولي ې چي چي چي چي چي انتهان مسلطين چي ې چي ې مارسي ې چي ې چي چي ې چي چي انتهان دي چي ې چي ې ې",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Qish fasli haqida tasviriy she'r yozing. Write in Uzbek, 8 lines, in a descriptive poetic style about winter season.",
+    "output": "Венче качандан маанил менен мени бир тилдин жайгашкан,\nЧөндөгөн күндө, менин билдир менен турат.\nТуурачтуу кайтары түгүн, шаарынын күнүңүз.\nСудушанын жана камтыгын бир жана балам.\nЭгер билдир менен �",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqlim o'zgarishi sabablari va oqibatlarini muhokama qiluvchi matn yozing. Write in Uzbek, ≈250 words, in a discursive style about causes and effects of climate change.",
+    "output": "Сурайнын жалпы түзүлүктүрүнүн анын көптөгөн кататтыңыз жана ашыктыктан көптөгөн кататтыңыз, өлкөрүнүн үйрөттүн өлкөтүрөт. Бул окуяттуу жалпытына уйту, активнын баатылык жана ашыкты",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning mashhur shaharlari haqida qisqa ta'riflar yozing. Write in Uzbek, 3-5 cities, 2-3 sentences each, in a descriptive style about famous cities of Uzbekistan.",
+    "output": "Богатай жана жаны шаматта богатай - Богатай шамат. Богатай шамат, хандыктан жана көрөөкөй бир жана шамат. Богатай шамат, таламандан жана көрөөкөй жана шамат.\n\nБогатай шамат - Богатай шамат. Богатай",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sun'iy intellektning afzalliklari va kamchiliklari haqida insho yozing. Write in Uzbek, ≈200 words, in a balanced argumentative style about pros and cons of AI.",
+    "output": "Этот контейнет подразумевается основным возможностям и конкретным особенностям AI. Однако их развитие может привести к многим способным привести к реализации изучения и восприятия.\n\n**ПРОСУЦНОЕ ИНТЕЛЕКТИ�НЫЕ**\n\n**Понятие",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Bolalik xotiralari haqida shaxsiy hikoya yozing. Write in Uzbek, ≈150 words, in a personal narrative style about childhood memories.",
+    "output": "Бол болүгүн болууга чоң кириши. Бол болүгүн болууга дегенди тамагынан тамырды. Бол болүгүн болууга дегенди, өзүнүн мамиле айтылышын салмагы, өзүнүн кандай калтып, бир түрдөн салмагы. Т�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Fizikada Nyuton qonunlarini oddiy tilda tushuntiring. Write in Uzbek, 3 laws, 1-2 sentences each, in a simplified explanatory style about Newton's laws of motion.",
+    "output": "1. **Laftar-e-Qoyunlu**  \n   Nebi-ye **Kasar** na **Keser**  \n   Nebi-ye **Seyr** na **Kasar**  \n   Nebi-ye **Fahz** na **Kasar**  \n   \n   Nebi-ye **Kasar** (Newton's First Law) na **Kasar** (Law of Inertia)  \n   Nebi-ye **Seyr** (Inertia) na **Seyr** (Inertia)  \n   Nebi-ye **Fahz** (Inertia) na **Fahz** (Inertia)  \n\n2. **Laftar-e-Qoyunlu**  \n   Nebi-ye **Kasar** na **",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek folklorida ertaklarning roli haqida matn yozing. Write in Uzbek, ≈100 words, in a informative style about role of folktales in Uzbek folklore.",
+    "output": "Окевка үй-күлдүк жок, алыс дегенди үй-күлдүк тушуна үй-күлдүк жок. Окевка үй-күлдүк жок, алыс дегенди үй-күлдүк тушуна үй-күлдүк жок. Окевка үй-күлдүк жок, алыс дегенди үй-күлд�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'liqni saqlash uchun sportning ahamiyati haqida insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about importance of sports for health.",
+    "output": "Согловилик шарти бир түркүмүнөт, мен кошмөмөнөт. Электроннын электродин ортосунда жана турмушунун сүйлөрүнүн аткар жана калынат. үйүлүктүүчүн түшүндө, анын сактайт, билдирет, өзүнө",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yoz faslining go'zalligi haqida she'r yozing. Write in Uzbek, 6 lines, in a poetic style about beauty of summer.",
+    "output": "Увича кайта, який камдан түрүү болот.\nУвича түрүү даракы болуп кирүү болот.\nУвича көп түшүндө менен көрсөт.\nТүрүү болот, кайтын барытты менен.\nБул кайты менен түрүү болуп кирүү болот.\nБул кайт",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi buyuk kashfiyotlar haqida qisqa ro'yxat yozing. Write in Uzbek, 5 discoveries, brief description each, in a list-based informative style about great historical discoveries.",
+    "output": "**List-Based Informative Style About Great Historical Discoveries in Uzbek**\n\n1. **Бактина (Bakhtin) - Бактин маалыматта:**\n   - **Информация:** Bakhtin, бактин маалыматта, маалыматтал 2017-жылы жагындыкты болбогон. Этот маалыматта университеттүүлгө бир тарилдыкта.\n   - **Уникальнын центр:** Bakhtингиз �",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Oilaviy qadriyatlar haqida fikr-mulohazalar yozing. Write in Uzbek, ≈200 words, in a reflective style about family values.",
+    "output": "Фонотизация кубаныз кызматыздур силеңиң, анын үйргөндөй кубаныз кызматыздур силеңиң, үйргөндөй кубаныз кызматыздур силеңиң. Бирок жана жана оорулүү менен билим жана башкырган жана кубаныз кызматыз",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Biologiyada o'simliklarning fotosintez jarayonini tushuntiring. Write in Uzbek, ≈150 words, in a scientific explanatory style about photosynthesis in plants.",
+    "output": "پلمانгани (photosyntesis) چې څود رېنې مې څود تې چې پلمانгани څود تې چې څيښې چې څيښې څيښې څيښې څيښې څيښې څيښې څيښې څيښې څيښې څيښې څيښې څيښې څيښې څيښې څ",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek san'ati va hunarmandchiligi haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about Uzbek art and crafts.",
+    "output": "Вукугистан ханы жанда жана жана жана ханы күчүн жана жана жана сүйлөгө билдирет. Бирок кимде оорушдагы жана күчүн жана күчүн жана жана бир түрөт. Бирок жана жана жана жана жана жана жана жана жа�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Muvaffaqiyatga erishish yo'llari haqida maslahatlar yozing. Write in Uzbek, 4-6 tips, in a motivational style about paths to success.",
+    "output": "Угулатташташ:\n\n1. **Качан жакты жактан:**\n   - **Болбойте качанда даңгазы: жаңыздан качандагы үчүн курча эле курча даңгазы үчүн курча эле.\n   - **Бир өмүртүү кайда:** үчүн кайдан качанда жана үчүн өмүр",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kuz fasli haqida tasviriy she'r yozing. Write in Uzbek, 7 lines, in a poetic descriptive style about autumn season.",
+    "output": "Важлик качан жеркен,\nКутун куда башка чуга.\nАльтеризатилдик умилин,\nТамандан онтералди жана куда.\n\nТут башка башка,\nКутун качан жеркен.\nКутун качан башка качан,\nКутун качан жеркен.\n\nАльтеризатилдик умилин,\nКутун куда башка башка жана.\nТама�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqtisodiyotda inflyatsiya sabablari haqida insho yozing. Write in Uzbek, ≈200 words, in a analytical style about causes of inflation.",
+    "output": "Инфлюация (механизма) в храмахи түркүндө түркүлүк жазылганда бир түргөн мааниси (необразимонставляемын менен) шамандырылык жана менен антиприялында организма менен башында түшүнүшү. Энергиянын ант",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston tabiatining go'zal joylari haqida ta'rif yozing. Write in Uzbek, 3 places, 2-3 sentences each, in a descriptive style about beautiful natural sites in Uzbekistan.",
+    "output": "Вузумистан океанистан жана үчүн жалпы менен океан жана байларты өтүп, жүрүнүн жакындагы жана жана авторсыздагы эле жана жалпы менен жана байларты өтүп. Энергия жана жалпы менен жана байларты өтүп барды",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Psixologiyada stressni boshqarish usullari haqida matn yozing. Write in Uzbek, ≈150 words, in a practical advisory style about stress management techniques.",
+    "output": "**Stress Management Techniques in Uzbek**\n\n**Kebbiyga bulacac!** **Kebbiyga bulacac!** **Pëstik takiyga boshqarish usullari haqida matn yozing.**\n\n**1. **Keshidinka iqbal**\n\n- **Keshidinka iqbal** (Mindfulness) **Keshidinka iqbal** **Keshidinka iqbal** **Keshidinka iqbal** **Keshidinka iqbal**\n\n**2. **Kalaqaqti bishqari**\n\n- **Kalaqaqti bishqari** (Physical Activity) **Kalaqaqti bishqari** **Kalaqaqti bishqari** **Kalaqaqti",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Adabiyotda fantastik janrning xususiyatlari haqida yozing. Write in Uzbek, ≈100 words, in a informative style about features of fantasy genre.",
+    "output": "Adabiyotda fantastik janrning xususiyatlari haqida yozing, маң турган куралат, жайгашкан учурда да үчүн өзүнүн билдирет. Энергия жана эстечте болуп болуп, анткенисе билдирет. Энергия карандыкты турган куралат, анткенисе билдирет. Энергия карандыкты турга�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek tilining rivojlanishi haqida tarixiy obzor yozing. Write in Uzbek, ≈250 words, in a historical review style about development of Uzbek language.",
+    "output": "**A Historical Review of the Development of the Uzbek Language**\n\n**Introduction**\n\nThe Uzbek language, a member of the Turkic family, boasts a rich history that dates back to ancient times. Its development is intricately linked to the cultural and political transformations of Central Asia, reflecting the diverse influences from Persian, Arabic, and Turkic languages. This review explores the evolution of the Uzbek language, highlighting its linguistic characteristics, cultural significance, and its role in modern Central Asia.\n\n**Origins and Early Development**\n\nThe roots of the Uzbek language can be traced back to the Old Turkic period, with Turkic dialects emerging as a distinct linguistic entity in the 8th century. As Central Asia became a crossroads for trade and cultural exchange, the Uzbek language absorbed influences from Persian and Arabic, enriching its vocabulary and grammar. By the 13th century, the Uzbek language began to solidify as a written form, with texts from this era showcasing the linguistic complexity and sophistication of",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Hayvonlar dunyosi haqida qiziqarli faktlar yozing. Write in Uzbek, 5 facts, in a factual entertaining style about interesting animal facts.",
+    "output": "Hayvanlar duniya haqida qizik arutlar yoz ing, 5 facty karaktery ta baxla:\n\n1. **Khoroshoq Ardua**: Khorshoq ardua is a duniya yak tayqol khuurka yak baxla baxla baxla. Ya bulakta dauradaki kulayda bulatayda, yak ka gecik gecikta, ya baxla yak tahay, ya bulakta dauradaki kulayda bulatayda.\n\n2. **Kakol-Kakol Ardua**: Yak yak duniya yak baxla baxla baxla yak yak duniya yak baxla baxla, yak tayqol kulayda bulatayda. Kuyubakta yak kol kol",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kimyo fanida atom tuzilishi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a scientific style about atomic structure.",
+    "output": "Этот написание не ознакомивается с общими измерениями и предоставляет основные конкретные данные о том, что она будет описана в атмосфере. Этот написание выделяется в тексте, что она определяется на атмосфере и вызывает разные виды и функц",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek musiqasining an'anaviy asboblari haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about traditional Uzbek musical instruments.",
+    "output": "Укандан музикистанга жана музикала да адам жана кызмата билдилет. Укандан музикала да адам жана кызмата билдилет. Укандан музикала да адам жана кызмата билдилет.\n\nЖазахта музикала окумушта билдилет. Карандаган музикала \"он\" жана кызм",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Shaxsiy rivojlanish uchun kitob o'qishning foydalari haqida insho yozing. Write in Uzbek, ≈200 words, in a persuasive style about benefits of reading for personal growth.",
+    "output": "Сентим канунун жана сентим жана чутин. Эмнеге маанянда жана табыктан мааныктан характеристики шахсаң, бул анын шаңган шаңыз. **Болгон эле чачоткан жана жана деп антиконнекторы колдонуп калды** - это камчилчу",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Dengiz haqida romantik she'r yozing. Write in Uzbek, 10 lines, in a romantic poetic style about the sea.",
+    "output": "Вали горк вокруг голова, вокруг места, откуда тут города кандай.\nМорская вода, перевести город, вокруг места.\nВокруг города, откуда морская тайна,\nСочувствуйте городу, откуда города барам.\n\nВокруг м",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi ayollarning roli haqida misollar keltirib yozing. Write in Uzbek, 3 examples, brief each, in a historical illustrative style about role of women in history.",
+    "output": "**1. **Каралина Замахандагы Биркай (Каралина Борборкова) **\n\nЭкстрадеги жана шарашы жана келти горчу биркайт. Окутан келип жана бабликте айтыкта жана макшайт, **жана жана калабайт жана келти горчу биркайт.** Калабайт жана ж",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston iqtisodiyoti rivojlanish yo'llari haqida fikr yozing. Write in Uzbek, ≈150 words, in a opinion-based style about paths for Uzbekistan's economic development.",
+    "output": "Узбектайствованный экономик маңыз жана маңыз алып кылат сурап күчөтөмү болуп эсептелине өзүнө түзүп, ал жана ойлону жана маңыз алып кылат жана анын эң кургуну көрсөттүн жана ойлону болсо. Уз",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Astronomiyada Quyosh tizimi haqida qisqa ma'lumot yozing. Write in Uzbek, ≈100 words, in a informative style about solar system.",
+    "output": "Астрономия да китайт жана үмүлтүү өзгөчүн өзүндөрүнүн жана бир мамлекеттикте жатканда жана жана мамлекеттикте жатканда жана мамлекеттикте жатканда жана мамлекеттикте жатканда жана мамлекеттикте жатканда жан",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Madaniy merosni saqlash muhimligi haqida insho yozing. Write in Uzbek, ≈250 words, in a argumentative style about importance of preserving cultural heritage.",
+    "output": "Семейственге аналогичных рольов на хансизации окружающего художества является в целом, что самое влияние на хансизации может помочь на каждый культурный общество. Этот роль не включает в себя точный образовательный",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotidagi zamonaviy yozuvchilar haqida ro'yxat yozing. Write in Uzbek, 4-5 writers, short bio each, in a biographical list style about modern Uzbek writers.",
+    "output": "**1. Ziya Afshari**\n\n**Biography:**\nZiya Afshari, born on 15 November 1934, is a prominent Uzbek novelist, short story writer, and essayist. He is renowned for his contributions to modern Uzbek literature, often exploring themes of national identity, historical memory, and the struggle for independence. Afshari has written over 40 books, including novels, short stories, and essays, which have been translated into multiple languages. His works, such as \"A Thousand and One Nights\" and \"The Last Sultan,\" showcase his ability to blend historical and contemporary elements, making him a key figure in the development of Uzbek literature. Afshari's writing style is characterized by its vivid imagery and deep psychological insights, earning him recognition both within Uzbekistan and internationally.\n\n**2. Abdulla Umarov**\n\n**Biography:**\nAbdulla Umarov, born on 15 December 19",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ekologik muammolarni hal qilish usullari haqida maslahatlar yozing. Write in Uzbek, 5 methods, in a practical style about solutions to ecological problems.",
+    "output": "1. **Maksud-maksud (مقصد-مقصد) انجمان**  \n   Ümmatiyey, maksud-maksud انجمان (sustainable development) hal bakiştirmeyi ise, qaadanak kalmaktan انجمان бөлөлөнүү адамды унуштукту. **Ekspeditiiba** (action plan) hal bөlөkтөө, buku besleniyor.\n\n2. **Keskena (персонализм) маанизм**  \n   Keskena (personal responsibility) hal bөlөkteң б�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Geografiyada O'zbekistonning joylashuvi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a geographical descriptive style about geographical location of Uzbekistan.",
+    "output": "Австралиянын океанда, государственной океанда, началаса научный шарбай в виду океанду и широкий майкалдары. **Узбекстан** (O'zbekistonning) билимдүү, эң жана менен кимге алып көрүшөт. Кулунан **Узбек** (Uzbekistan) — **океанд",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek raqs san'ati haqida qisqa matn yozing. Write in Uzbek, ≈100 words, in a cultural informative style about Uzbek dance art.",
+    "output": "Оңз бартылат дегенде, турмушту болуп келтип, оно карандыктарды келип, үмүнө болгон менен жана башка турган турмушту келет. Бирок турмуштук келет, жогорут болуп келет, жана жана органдарды алып келет, билдирет жана адамдард",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ilm-fan rivojlanishidagi ayollarning hissasi haqida insho yozing. Write in Uzbek, ≈200 words, in a highlighting contributions style about women's contributions to science.",
+    "output": "Конечно, яким я могу предложить який як судьба может освобождать магические исследования, включая намерения судебных политов и якобы общественных материалов. \n\nВ конце 19^th века героев страны были непосредственно выражены м",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tog'lar haqida ilhomlantiruvchi she'r yozing. Write in Uzbek, 8 lines, in a inspirational poetic style about mountains.",
+    "output": "Важлик маң деген кай маңдан кара аттан, маңдан кара аттан, маңдан кара аттан, маңдан кара аттан.\nОкеаны маңдан кара аттан, маңдан кара аттан, маңдан кара аттан, маңдан кара аттан.\nКачан маңдан кара аттан, маңдан кара аттан",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Siyosatda demokratiya tamoyillari haqida muhokama yozing. Write in Uzbek, ≈150 words, in a discursive style about principles of democracy.",
+    "output": "Сиңойсатда демократиңизге табаңыздан жана демократиңизге өлкөөнүн түнүн жана адамдарган, бирок суулары жана туруктуу күнөмдүү өнүн үнөнөнүн өлкөөсүнөй жана демократиңизге �",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning turistik joylari haqida reklama matni yozing. Write in Uzbek, ≈100 words, in a promotional style about tourist attractions in Uzbekistan.",
+    "output": "Оозевкинин штабылдык турмалыктык болуп туруштары, анын максималар жана океаны, кыргызстандын кулунуудайт. Вот куда турмалыктык болуп туруштары откуда качандыкты кубан, жана анын кулунуудайт. Болуп ушуштары, байткени бир тур�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Filosofiyada baxt tushunchasi haqida fikr yozing. Write in Uzbek, ≈200 words, in a philosophical reflective style about concept of happiness.",
+    "output": "Философия да хайминте шахша шаратта тукумуштан, маалыма жана бара болот жана болуп чеген жана бардыкта кубакта. Камчатты кутканда мамлекеттикти маалогону тубаган шардам шараттан, анткентин маалыма кубакта болуп чеген туура жан",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Zamonaviy ta'lim tizimidagi o'zgarishlar haqida insho yozing. Write in Uzbek, ≈250 words, in a analytical style about changes in modern education system.",
+    "output": "Балдария (Федерация Украины) хандерина академия (Федерация Украины) хандартина Барона Балдарина штабы \"Американского штаба\" (БАШ) хандартина тамак баштабы, визитум \"Эйнштейн штаба\" (Эйнштейн) хандартина Балдария штаба,",
+    "expected": "",
+    "bleu_score": 0.0
+  }
+]

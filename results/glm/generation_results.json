@@ -1,0 +1,302 @@
+[
+  {
+    "input": "O'zbekistonning mustaqillik kunini nishonlash haqida qisqa hikoya yozing. Write in Uzbek, ≈200-300 words, in a narrative style about Independence Day of Uzbekistan.",
+    "output": "Uzbekistonning mustaqillik kuni, 20 Mayis, 1991-yilda tushdi. Bu kun, Uzbekistonning ilk mustaqillik kuni hisoblanadi. Bu bayram, barcha uzbeklar ularining xalqlarining birinchi martosi boʻlishini his oladi. 1991-yil 20-mayda Toshkentda bir nechta joylarda bir qancha xalqlar tomonidan boʻlib oʻtgan joylashuvlar, boshqa joylarda boʻlib oʻtgan qonunchi ishlar, taniqli xalqlar tomonidan qoʻshilgan soʻzlar va shuningdek, oʻzlarining xalqlariga bog",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'lom ovqatlanishning foydalari haqida 6 jumladan iborat maqola parchasi yozing. Write in Uzbek, 6 sentences, in a informative style about benefits of healthy eating.",
+    "output": "1. Tuzli tarkibli o'shganlikning tushunchalari yuqori insonlik qobiliyatini, yuqori darajada joylashgan xushroqlar, muskullar, imun qo'llig'ining tushunchalari va xususiyatlari bilan bog'lovor. Bu, infarktdan, metabolik bo'shchilik va yuqori darajali aktivlilik bilan bog'lovor.\n\n2. Saqlangan zahidli tarkibli mahsulotlar bilan oshganlik, insonning metabolik tuzilmasini saqlaydi va sog'liqlini saqlab qo'lib turadi. Bu, xushroqlarning va organik zavotalarning muntazam oshishiga va qonning tuzilmasini",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yomg'irli kun haqida 5 misradan iborat she'r yozing. Write in Uzbek, 5 lines, in a poetic style about rainy day.",
+    "output": "Yomg'irli kun, tepalik chastaning yo'q qiladigan kun,\nYuqori qismida ozik, tashqi o'rinaladi, gulchaklar.\nSabab - suv, o'zini yo'q qiladi, o'rta joyida,\nSabab - bu suv, oziklarga qasida, suvli bo'ladi, o'zini yo'q qiladi, o'rta joyida.\n\nO'rta joyida, oziklar joy qilib, quyonlar g'aytadi,\nSabab - bu suv, bu oziklarga qasida, suvli bo'ladi, o'zini yo'q qiladi, o'rta joyida.\nSabab - bu suv, bu oziklarga qasida,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Amir Temur hayoti va yutuqlari haqida qisqa biografiya yozing. Write in Uzbek, ≈150 words, in a biographical style about life of Amir Timur.",
+    "output": "Amir Temur, Tengizning qahramoni, 1483-yilda Buxoro shahrida tug'ilgan. Uning otasi, Timuriy Qo'smaga xizmat qilgan buyuk sultan Timur, uning o'g'li Amir Temurning ishi bo'ldi. Amir Temur 1494-yilda Buyuk Qo'smaga qo'shilganida, o'zining birinchi qurolini qo'llab turgan.\n\nAmir Temur birinchi muddatida, o'zining birinchi qurolini qo'llab turganida, Xorazm, Minglob, Tojikiston va Qirg'iziston mamlakatlarini boshqargan. Uning hukmronligida, mamlakat",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kelajakdagi texnologiyalar haqida fikringizni bildiruvchi insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about future technologies.",
+    "output": "Ushbu paytda, texnologiyalar faoliyatini davom ettirishga yordam beradigan yuqori darajali texnologiyalar mavjud. Bu texnologiyalar, bizning vaqtining yo'qolishi bilan bog'liq, bizning qonumchiligi bilan bog'liq va boshqa joylarda joy qilingan barcha qurbonlarimizni o'chiradigan qobiliyatga erishishga imkon beradilar. Bu texnologiyalar, bizning shuning turi bilan uchrayotgan qobiliyatlarini yaxshilashishga, boshqa joylarda joy qilingan qurbonlarimizni himoya qilishga, qishloq xo'jaligi, iqtisodiyot va",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek milliy taomlari orasida palovning retsepti haqida batafsil yozing. Write in Uzbek, ≈200 words, in a instructional style about recipe for plov.",
+    "output": "Palov O'zbek milliy taomiga kiradi. Bu yozuvda palovning yaratishini oʻrganishga harakat qilmoqchi. Palovning tarkibi va yutishi hamma qanday joyda oʻzgarishlarga uchragan boʻlsa ham, uning asosiy qobiliyati hatto mumkin boʻlgan joyda ham ajoyib boʻladi.\n\nPalovning asosiy qobiliyati, yovuzli qoʻngʻir toshlar (tuz qoʻngʻiri), chorvachilik (tafta), sezim (sukkak) va oʻs vaqtida qishloq holda boʻlgan yemlik (turgeyt) hisoblanadi. Bu",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tabiatni muhofaza qilish muhimligi haqida 4 paragrafdan iborat matn yozing. Write in Uzbek, 4 paragraphs, in a explanatory style about importance of nature conservation.",
+    "output": "Natural vaqiyatning muhofaza qilish muhimligi umumiy hayotning asosiy muammolaridan biridir. Tarixik yuzaga kelgan shuningdek, bir nechta turli ekologik boʻyicha tushunchalar bilan, aholining asosiy tarzining va ekosistemning muvaffaqiyatiga taʼsir qilishini aniqlamamiz. Uzoq muddatdagi ekologik tushunchalar, shuningdek, kuzatilgan ekosistemning yoʻqolishi, soʻnggi yillarda manbalarning kamayishi va qularning halokatlashiga olib kelgan. Bu muammolar ekologik balansning yoʻqolishi, manfaylarni oʻrganishning",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Do'stlik haqida o'zbek maqollaridan foydalanib, qisqa hikoya yozing. Write in Uzbek, ≈150-200 words, in a narrative with proverbs style about friendship.",
+    "output": "Yashil joylarida kelib chiqadigan soxta qizlar, bir-biriga qarashlarini oʻrganishni boshlashganlar. Uning oilasi ham tanqid qilgan. Uning oilasi, bu kelib chiqadigan qizlarning joyini oʻrganishga harakat qilgan. Bu oila boshqa joylarga ham chiqib keldi, ammo bir xil oʻrganish paytida bir-biriga qarashlarini oʻrganishga qochishdi. Uning oilasi, bu kelib chiqadigan qizlarning joyini oʻrganishga harakat qilgan.\n\nUshbu kelib chiqadigan qizlarning biri, „Oy xalqlariga qarash",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Matematikada kvadrat tenglamani yechish usullarini tushuntiruvchi matn yozing. Write in Uzbek, ≈100 words, in a educational style about solving quadratic equations.",
+    "output": "Qadrativ sonlarni olinganimizda, ular bir nechta yechish usullari bilan qaror qilingan. Bu usullar, sonlarning qismanligini aniqlashga yordam beradi. Biz bu usullariga, kvadrat tenglamani yechish usullarini tushuntiruvchi matn yozamiz. Bu matn, quyidagi keyingi asosiy tushunchalarni oʻrganishga imkon beradi:\n\n1. **Boshlang'ich kvadrat soni**: Bu, sonning kvadratini o'rganuvchi bir son deb atiladi. Dastlabki, bu son bir nechta qismanligining birinchi boshlang'ich soni hisoblanadi. Masalan, \\( x^2 + 3x",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotida Navoiy asarlarining ahamiyati haqida insho yozing. Write in Uzbek, ≈300 words, in a analytical style about importance of Navoi's works.",
+    "output": "Navoiy asarlarining ahamiyati O'zbek adabiyotida mashhurdir. Uning o'zining asarlari tarixiy, ilmiy va manbadagi muammolariga bagʻishli, hamda O'zbek adabiyoti tarkibida qoʻshilgan muhim joylashgan. Bu asarlarning muammolariga bagʻishlik bilan, Navoiy adabiyotining tarixiy muammolariga qarashida haqiqiy hisobga yetishish imkoniyatini beradi. Uning asarlari O'zbek adabiyotining yirik joylariga kiradi va bu joylarda qoʻshilgan muammolariga bagʻishlik qiladi.\n\nNavoiy asarlari mashhur navoiy va hadisiy asar",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kunlik hayotda vaqtni boshqarish bo'yicha maslahatlar yozing. Write in Uzbek, 5-7 tips, in a advisory style about time management.",
+    "output": "Umarida, kunlik hayotning vaqtini optimizatsiya qilish uchun bir nechta maslahatlar berishga rukam berdim. Bu maslahatlar, hodisiyada vaqtini etishga qaratilganini va barcha joylarda huzurli va joylashtirilgan bir qishloq yaratishga yordam berishini aks etadi.\n\n1. **Sabt qilish va raqib qilib kelish**: Maktublar, soʻzlar va boshqa qoʻshimchalar sabt qilishga rukam berdim. Keyinroq, raqib qilib kelish imkonini berish. Bu, davom etish va yaxshilash imkonini oʻrnatadi.\n\n2.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Qish fasli haqida tasviriy she'r yozing. Write in Uzbek, 8 lines, in a descriptive poetic style about winter season.",
+    "output": "Qish soqolini, yagona qizil, \nO'rta qismida, yaxshi shuvarlik.  \nKo'p o'rta qismida, qizil xo'rlangan, \nYuqori qismida, past o'rta qism.  \nO'rta qismida, yaxshi qizil xo'rlangan, \nQish soqolini, yagona qizil.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqlim o'zgarishi sabablari va oqibatlarini muhokama qiluvchi matn yozing. Write in Uzbek, ≈250 words, in a discursive style about causes and effects of climate change.",
+    "output": "Manbalar muallifi va tadqiqotchi Elena Lapteva, kelishuvda shunday deb yozgan edi: \"Manbali yuqori temperaturlarning natijasi, yuqori qanot va qon sozlashuvining oshishi, qisqa va oshiq joylarda qon sozlashuvining oshishi, qishloqlarning joylashuvi soha qayta tiklanishi va birodor boʻlishi, manbalarning tarkibining oshishi, qon sozlashuvining kamayishi va qishloqlarning joylashuvi sohada turmush yuritishning oshishi. Bu manbalar taxminan 500-700 ga yaqin qishloqlar bor. U",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning mashhur shaharlari haqida qisqa ta'riflar yozing. Write in Uzbek, 3-5 cities, 2-3 sentences each, in a descriptive style about famous cities of Uzbekistan.",
+    "output": "1. Toshkent - Toshkent, O'zbekistonning mahalliy markazi, quyi va quyidagi qishloqlar bilan birgalikda bo'ladi: Shahrisabz, Jizzax, Samarkand va Buxoro. Shahar quyidagi joylarda yetilgan qishloqlarga qiziqishli bo'lib, ular tarixiy, adabiy va manzaraviy joylarga ega. Toshkentda xalqaro xonalar va muzeylar mavjud, jumladan, O'zbekistonning birinchi davlat xonasi joylashgan \"Shohzod Xonalar\" muzeyi.\n\n2. Samarkand - Samarkand, O'zbekistonning tarixiy qishloqlaridan biri",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sun'iy intellektning afzalliklari va kamchiliklari haqida insho yozing. Write in Uzbek, ≈200 words, in a balanced argumentative style about pros and cons of AI.",
+    "output": "Sizning tuzilmasiz qo'shishini aniqlashtirib, AIning kamchiliklari va intellektning afzalliklari haqida yozishga qiziqib kelmoqda. AIning kamchiliklari va intellektning afzalliklari haqda baland qaranglarini taqdim etishga qasos edim. AIning kamchiliklari va intellektning afzalliklari haqda yozishga qiziqib kelmoqda. AIning kamchiliklari va intellektning afzalliklari haqda baland qaranglarini taqdim etishga qasos edim.\n\nAIning kamchiliklari va intellektning afzalliklari haqda baland qaranglarini ta",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Bolalik xotiralari haqida shaxsiy hikoya yozing. Write in Uzbek, ≈150 words, in a personal narrative style about childhood memories.",
+    "output": "Uyushimning birinchi o'ringiz qizil o'rindagi bir yil oldi. Bu kunlar, qizlar o'rmonining qizil o'rindi bilan bir qatorda joy qilib o'tilgan, ular o'zining sevgilari bilan bir qatorda joy qilib o'tilgan. Uning haqida aniq bo'lish imkonli emas, ammo quyidagi hikoyalar farqli o'tgan holda qolgan. Ular o'zining maktublarini olib tashlagan, ammo qizlar o'rmonining qizil o'rindi bilan bir qatorda joy qilib o'tilgan.\n\nBir nechta oy o'tgach, bir qanday qiz bir qismini tanishdi. U, uning",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Fizikada Nyuton qonunlarini oddiy tilda tushuntiring. Write in Uzbek, 3 laws, 1-2 sentences each, in a simplified explanatory style about Newton's laws of motion.",
+    "output": "1. **Yuqori darajadagi taqvimning aniqlanmasi**:\n   Newtonning birinchi qonuni quyidagi asosga asoslanadi: bir joydagi bir qancha taqvim yoki energiya bir xil qilib sahna bo'ladi. Bu, sabab-baxta quyidagi muammolariga aylandi: sabab-baxta bir joydagi bir qancha taqvim yoki energiya bir xil qilib sahna bo'ladi. Bu, sabab-baxta quyidagi muammolariga aylandi.\n\n2. **Yuqori darajadagi qancha taqvim qandayligi**:\n   Newtonning ikkinchi qonuni quyidagi asosga asoslanadi: bir joydagi bir qancha taqvimning bir q",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek folklorida ertaklarning roli haqida matn yozing. Write in Uzbek, ≈100 words, in a informative style about role of folktales in Uzbek folklore.",
+    "output": "O'zbek folklorida ertaklar (mustaqil hikayalar) o'zining ajoyib joyini olishgan joy hisoblanadi. Bu hikayalar, xalq xalqaro muammolarining, xo'jalikda qo'llanishlar, tushunchalar va ma'muriyatlar bilan bog'lovorliklarini o'rganuvchi afsonalar, qonunlarning qo'llanishlarini, xo'jalikda joylashgan qadimgacha shuningdek, manzil qurish va qishloq nomlari bilan bog'lovorliklarini o'rganuvchi hikayalar, esaftarlikning, ma'muriyatning, uning jalqalarining, kelajakda qo'llanishlarining hamda",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'liqni saqlash uchun sportning ahamiyati haqida insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about importance of sports for health.",
+    "output": "Sog'liqni saqlash uchun sportning ahamiyati haqida insho yozing. Sportning so'zining tarkibi \"sport\" (tarkib) va \"sog'liq\" (sog'liq) so'zlarining birinchi muddatida ham manfaatlarini anglatadi. Sog'liqni saqlash uchun sportning ahamiyati munosabatli. Sport bilan uchrashganingizda, kasalliklar qurilib bo'lishmasiz. Keyinboshlikda joylashgan kasalliklar, kuchga qarshilik qilish va jismoniy darajani aniqlashning natijasida, qishloqda ham joylashgan kasalliklar esa yo'q bo'lishi mumkin.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yoz faslining go'zalligi haqida she'r yozing. Write in Uzbek, 6 lines, in a poetic style about beauty of summer.",
+    "output": "Yoz davomida joylar,  \nQizlar qizil, oq qizlar.  \nQishlarining qaroshi,  \nYoziylar bor, qizlar bor.  \nUzbeklikda joy,  \nHamma joylar uzoq va gullamaydi.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi buyuk kashfiyotlar haqida qisqa ro'yxat yozing. Write in Uzbek, 5 discoveries, brief description each, in a list-based informative style about great historical discoveries.",
+    "output": "Tabii, keyin ro'yxatga kiritamiz tarixdagi buyuk kashfiyotlarni:\n\n1. **Akademiya Qurboni (1874)**:\n   Akademiya Qurboni, Toshkentdagi Qurbon Qishloqida joylashgan, 1874-yilda qurilgan qishloq hisoblanadi. U yerda 7000 ta mumiyot topilgan, bular asosan oʻrta asrda qurbonlarga taxtalar, jamoat qurbonlari, erkaklar toʻgʻri qurbonlari va boshqa joylashganlar. Bu kashfiyotlar Toshkent shahrining turli asrlarining kelishuvchilarining ishonch",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Oilaviy qadriyatlar haqida fikr-mulohazalar yozing. Write in Uzbek, ≈200 words, in a reflective style about family values.",
+    "output": "Oilaviy qadriyatlar haqida fikr-mulohazalar yozing. Write in Uzbek, ≈200 words, in a reflective style about family values. \n\nOilaviy qadriyatlar, qadriyatlar, oilaviy qadriyatlar, oilaviy qadriyatlar haqida fikr-mulohazalar yozing. Oilaviy qadriyatlar oiladagi barcha faroviy va amaliy xususiyatlarni tanqid qilish uchun ishlatiladigan aholi qadriyatlari hisobidir. Oilaviy qadriyatlar oiladagi faroviyat, taniq, uning rivojlanishi, faroviy xususiyatlar va boshqa farov",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Biologiyada o'simliklarning fotosintez jarayonini tushuntiring. Write in Uzbek, ≈150 words, in a scientific explanatory style about photosynthesis in plants.",
+    "output": "Plants have a unique ability to convert light energy into chemical energy, which they use to fuel their growth and development. This process is known as photosynthesis. It primarily occurs in the chloroplasts, which contain the pigment chlorophyll that captures sunlight.\n\nPhotosynthesis can be divided into two main stages: the light-dependent reactions and the Calvin cycle (light-independent reactions). During the light-dependent reactions, chlorophyll absorbs sunlight and energy is converted into chemical energy in the form of ATP and NADPH. Water molecules are split in the process, releasing oxygen as a byproduct.\n\nThe Calvin cycle takes place in the stroma of the chloroplasts. Here, the ATP and NADPH produced in the light-dependent reactions are used to convert carbon dioxide from the atmosphere into glucose, a type of sugar that plants use for energy and growth.\n\nIn summary, photosynthesis is a vital process for plants, enabling them",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek san'ati va hunarmandchiligi haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about Uzbek art and crafts.",
+    "output": "O'zbek san'ati va hunarmandchiligi, xalqaro taraflarga muzmatch bo'lib, uning tarixiy va mana-yoddagi muhim joylarini anglatadi. Bu san'at, qadimgi Eron davlatlari, asosan Toshkent, Samarkand va Buxoro shaharlari,ning qadimgi munitsipalitetlariga bog'li bo'ladi. O'zbek hunarmandchilikining eng mashhur joylari qadimgi madaniyat ustalarining asheralaridir. Uning eski ma'muriylarida, qadimgi Toshkent qal'asida, O'zbek va turkiy xalqlarining asheralarining bir qismi qayd etilgan. Bu asheralar, dushman",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Muvaffaqiyatga erishish yo'llari haqida maslahatlar yozing. Write in Uzbek, 4-6 tips, in a motivational style about paths to success.",
+    "output": "Ummidiyotni oshish uchun yuqori darajaga erishish uchun bir nechta muvaffaqiyatga erishish yo'llari bor. Bu yo'llar haqida maslahatlar berish uchun keyinburcha ikki mintaqaviy ravishda boshlandiriladi: bir nechta mintaqaviy va general maslahatlar.\n\n**Mintaqaviy maslahatlar:**\n\n1. **Hozirroq masalalarni anlayish:**\n   **Tips:** Yo'nalishingizni tushunish uchun mintaqaviy masalalarni anlaydiganlar to'plamida ishlang. Bu, o'z unumdorligimizni, jamoa bo'yicha muvaffaqiyatimiz",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kuz fasli haqida tasviriy she'r yozing. Write in Uzbek, 7 lines, in a poetic descriptive style about autumn season.",
+    "output": "Qizil yashilor, o'rmonlar qizilmagan qish,  \nSog'atlaning qalbining guruhida,  \nUzoq yilning yuqori qismi,  \nYo'nalishlar cho'zilgan,  \nQish qobiliyatining qiyinligi,  \nSog'atlaning guruhida,  \nO'zining joyini o'rganuvchilar,  \nO'rmonlar qizilmagan qish.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqtisodiyotda inflyatsiya sabablari haqida insho yozing. Write in Uzbek, ≈200 words, in a analytical style about causes of inflation.",
+    "output": "Iqtisodiyotda inflyatsiya sabablari haqida insho yozish, umumiy iqtisodiyotning tarkibining barcha joylarida joylashgan oshishga qaror qiluvchi sabablarni oʻrganishga qaratiladi. Bu sabablarning bir qismi qishloq xoʻjaligining oshishi, bir qismi esa shahar xoʻjaligining oshishi hisoblanadi. Bu ikki joy bilan birga, qishloq va shahar xoʻjaligining bir-biriga qarashini ham koʻrish mumkin. Barcha joylarda joylashgan xoʻjaliklar bir-biriga qarashini nazorat qilish uchun i",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston tabiatining go'zal joylari haqida ta'rif yozing. Write in Uzbek, 3 places, 2-3 sentences each, in a descriptive style about beautiful natural sites in Uzbekistan.",
+    "output": "1. **G'orog** - Xorazm viloyatining qirgʻiz qismida joylashgan G'orog, O'zbekistonning eng turli manbalari bilan tanilgan joy hisoblanadi. Qora qo'shma qurilmalari, katta shakar qabuklari, oq va qizil qo'shma turliqlari bilan mashgul boʻlib, uning oʻrtacha joylashgan joyi turli xillardan oshimcha qoʻmurga joylashgan qo'shma qurilmalardan biridir. G'orogda joylashgan qizilar yoki qizil qo'shma qurilmalari esa turli xillarda yashaydilar. Bu joy hali hamda fa",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Psixologiyada stressni boshqarish usullari haqida matn yozing. Write in Uzbek, ≈150 words, in a practical advisory style about stress management techniques.",
+    "output": "Stresning boshqarish uchun bir nechta yaxshi foydali usullar mavjuddir. Bunda, quyidagi maqtal davomida koʻrib chiqilganligi aniq boʻladi:\n\n1. **Yanaqdagi Chorakliy Qoʻlyozma:** Quyidagi qoʻlyozma bilan joylashtirib, oʻtgan kunning hatallarini qorish. Bu davomida, uchinchi qismni qorish uchun joylashtirib qolishga majbur boʻlishi mumkin. Bu davomida boshqa joylashuvlar va boshqa oʻzgarishlar qilinganligi, umidga bogʻlanganlikni oshiradi.\n\n2.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Adabiyotda fantastik janrning xususiyatlari haqida yozing. Write in Uzbek, ≈100 words, in a informative style about features of fantasy genre.",
+    "output": "Adabiyotda fantastik janrning xususiyatlari, aslida oʻzbek adabiyotining asosiy qismidir. Uning asosiy xususiyatlari quyidagicha hisoblanadi:\n\n1. **Qadimgi va boshqa yozuvlar**: Fantastik janrning asosiy mahoratlaridan biri oldingi yozuvlarga va manbalarga tegishli hisoblanadi. Bu manbalar, fantastik janrning tushunchalarini va asosini yaratishga yordam beradi.\n\n2. **Izolat**: Fantastik janrning asosiy mahoratlaridan biri ham ishlatilgan nomi \"izolat\"dir. Bu nom, boshqa mintaqalarga tegishli odaml",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek tilining rivojlanishi haqida tarixiy obzor yozing. Write in Uzbek, ≈250 words, in a historical review style about development of Uzbek language.",
+    "output": "Oʻzbek tilining rivojlanishi tarixiy obzoriga bormon qilib, uning asosiy qurbonlari xitoylar, turkiylar va boshqa mamlakatlarning kelib chiqishi bilan bogʻlanadi. Oʻzbek tilining qurbon qilgan eng yirik turk tilidan biri boʻlib, uning asosiy qurbonlari xitoylar, turkiylar va boshqa mamlakatlarning kelib chiqishi bilan bogʻlanadi. Xitoylar Oʻzbekistonning bir qismida joylashgan boʻlib, ular taniqli xitoy tilining asosiy qurbonlaridan biri edi. Turkiylar esa, Oʻz",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Hayvonlar dunyosi haqida qiziqarli faktlar yozing. Write in Uzbek, 5 facts, in a factual entertaining style about interesting animal facts.",
+    "output": "1. **Yashash yoki vaqt o'tishi:** Havoyaning yashash yoki vaqt o'tishi davri 3-5 kun, lekin bu yillik miqdori o'sadi 1-2 kunga. Bu sabab, uning yashash joyini aniqlash uchun qadimgi turklar bazarida qo'llab-kotib bo'lishganini eshitishadi.\n\n2. **Kvadrat miqdori:** Havoynaming kvadrat miqdori 2.5 million kvadrat ga teng. Bu miqdor, undan bir qismi ozgina quruq shoxlar va qirgʻizlar tashkil etadi. Uning shimoliy qirgʻizlar joylashgan joyiga qaraganda, shimol",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kimyo fanida atom tuzilishi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a scientific style about atomic structure.",
+    "output": "Atomning tuzilishi atomning teng boʻlgan joylashuvida yoziladi. Bu joylashuvning bir qismi atomning qismli joylashuvidir, bu joylashuvning boshqa qismi esa atomning chorak joylashuvidir. Chorak joylashuvning ogʻirligi boʻyicha atomlar bir-biridan farq qiladi. Barcha atomlar teng joylashuvda hoshlanadi, lekin ogʻirligi keng boʻlganlari uchun quyidagi joylashuvlarga boʻlinadi:\n\n1. Yuqori ogʻirlik joylashuviga (Yuqori ogʻirlik joylashuviga) quyidagi atomlar kiradi: U, Th, Pa, U",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek musiqasining an'anaviy asboblari haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about traditional Uzbek musical instruments.",
+    "output": "O'zbek musiqasi xalqaro tadqiqotlar uchun yirik hishlashgan bo'lib, o'zbek musiqasining an'anaviy asboblari uning zaruri bo'ladi. Ular asosan, asboblar, tar, qo'qon, qulqoq, manzil, tolqoq, sarv qo'shish, xor qo'shish va boshqa shuningdek, zarur bo'lgan o'zbek choro muvaffaqiyatini himoyalash uchun ishlatiladi. Musiqachilikda, asboblar muzikadorlar o'z vaqtining zaruriy muddatida tayyorlashgan zaruri qo'shishlar bilan shug'ullanadi. Bu asboblar,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Shaxsiy rivojlanish uchun kitob o'qishning foydalari haqida insho yozing. Write in Uzbek, ≈200 words, in a persuasive style about benefits of reading for personal growth.",
+    "output": "Kitob o'qishning rivojlanish uchun munosabatli bo'lib, uning tarkibiga ikki muhim qism kiradi: mahoratni olish va hisobda qolish. Unda barcha davlatlar keng tarqalgan mahoratni olishning eng yuqori yutuqlari hisobga olishadi. Unda jahonning birinchi qismida joylashgan Uzbekiston ham, mahoratga erishishning ikki yuqori yutuqlari mavjud. Unda taniqli ustozlar, shoirlar, sovetlar va boshqalarining maqolalari, kitoblar, esaflar va hikoyalar mavjud. Bu mahoratning bizga qo'llib kelishi, ular bil",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Dengiz haqida romantik she'r yozing. Write in Uzbek, 10 lines, in a romantic poetic style about the sea.",
+    "output": "Yog'ochilar katta dunyoning oxiriga borishga kelganida,\nO'zlarining qaroshi bo'lib, farqli joylarda yashay boshlaganlar.\n\nO'zlarining qaroshi, suvdagi o'zgarishlardan keyin,\nO'zlarining qaroshi, sevdagi qadimga qaytarilgan.\n\nO'zlarining qaroshi, yaxshilikda qolganlikda,\nO'zlarining qaroshi, sevdagi qadimga qaytarilgan.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi ayollarning roli haqida misollar keltirib yozing. Write in Uzbek, 3 examples, brief each, in a historical illustrative style about role of women in history.",
+    "output": "Tarixdagi ayollarning roli haqida bir nechta misollar keltirib yozish, tarixik illar va muddatlarda ayollarning qadimgi va oʻrta asrlarda taniqli rollarini oʻrganish imkonini beradi. Buning uchun, bir nechta tarixik misollar ishlatiladi.\n\n1. **Qadimgi Eron**\nBirinchi boʻlimda, Eron davlati boʻlib, ayollar ham shogirda va xalqining qonunchilikining asoschilari edilar. Madaniy va maniqiyatdagi yaratishlar, adabiyot va jismoniy shaxsiylar boʻyicha ayollar ham mashhur boʻlgan. Oʻzbekiston tari",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston iqtisodiyoti rivojlanish yo'llari haqida fikr yozing. Write in Uzbek, ≈150 words, in a opinion-based style about paths for Uzbekistan's economic development.",
+    "output": "O'zbekistonning iqtisodiyotining rivojlanishiga qadar qora joylashgan joyga olib kelganimiz, bunda bir nechta muvaffaqiyyatlarimiz bor. Bular, keyingi turli davlatlar orasida navbatdagi iqtisodiy tadqiqotlardan oldingi o'ng qismidir. Biroq, O'zbekistonning iqtisodiyotining rivojlanishiga qadar dastlabki turli muvaffaqiyyatlarimizning katta qismi hisoblanadi. Uning asosiy sabablari quyidagilar edi: \n\n1. **Manzilning ko'paytirilishi**: O'zbekistonning qisqacha joylashgan manz",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Astronomiyada Quyosh tizimi haqida qisqa ma'lumot yozing. Write in Uzbek, ≈100 words, in a informative style about solar system.",
+    "output": "Solar sistemning asosiy qismi quyosh tizimidir. Bu tizimning haqiqiy nomi Yer qobiliyati deb ataladi. Quyosh tizimi, Yer qobiliyatining yanada binoqli boʻlishi bilan bir qator yuqori rangli planetlardan iborat boʻlib, esa quyosh tizimi quyoshning haqiqiy nomi deb ataladi. Quyosh tizimining boshqa qismi esa 11 aylik bir gomilaga boʻlgan, 9 komponent qatlam bilan anglatiladi. Bu qatlamlarning biri Mashriq, biri Qadimiy, biri esa Sharqiy boʻlib, boshqa biri esa Gʻarbiy boʻlib his",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Madaniy merosni saqlash muhimligi haqida insho yozing. Write in Uzbek, ≈250 words, in a argumentative style about importance of preserving cultural heritage.",
+    "output": "Madaniy merosning saqlash muhimligi boʻyicha maqolamdagi qoʻshimcha soʻzlar:\n\nMadaniy merosning saqlash muhimligi, uning turli manbalar va manzillarda qoldirilishi va saqlanganligi, umuman, barcha xalqlarning turli davlatlar, davlatlar, davlatlar, davlatlar, davlatlar, davlatlar va davlatlar davlatlarida turli manbalar va manzillarda qoldiriladi va saqlanganligi bilan bogʻli. Madaniy merosning saqlash muhimligi, uning turli manbalar va manzillarda qoldirilishi va saqlanganligi, umuman, barcha xalqlarning",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotidagi zamonaviy yozuvchilar haqida ro'yxat yozing. Write in Uzbek, 4-5 writers, short bio each, in a biographical list style about modern Uzbek writers.",
+    "output": "Tabii, keyin O'zbek adabiyotidagi zamonaviy yozuvchilarning bir qismini ishlab chiqaraman:\n\n1. **Muhammad Yusif** — 1968-yilda O'shobodda tug'ilgan. Ushbu davriy tili bilimchisi, O'shobodlik tili bo'limi rahbari. U ham madaniyat asarini ham taxmin qiladi. Keyinchalik, Uzbekiston xalq poetigi unvoniga sazovor bo'ldi. O'zbekiston Respublikasi Xalq Xojasi a'zosi.\n\n2. **Sodik Umarov** — 1969-yilda O'shobodda tug'ilgan. Shavkatovlar davrida ham x",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ekologik muammolarni hal qilish usullari haqida maslahatlar yozing. Write in Uzbek, 5 methods, in a practical style about solutions to ecological problems.",
+    "output": "Uzbekistonda ekologik muammolarni hal qilishda usullar haqida maslahatlar yozishda, qishloq xoʻjaligi, shahar qoʻmitasi, mahoratlar va boshqa birlar tomonidan tegishonchi boʻlgan joylar, aholining davolashini davom ettirishga har hamma bir hujjatga asoslanuvchi. Ulamalar, insonning qishloq xoʻjaligini rivojlantirishda ekologik muammolarni hal qilishda ularning jihatli xavfsizligini boshqarishga qoʻshgan qonuniy qoidalar va usullarini takomillashtirishga yordam beruvchi. Ulam",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Geografiyada O'zbekistonning joylashuvi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a geographical descriptive style about geographical location of Uzbekistan.",
+    "output": "O'zbekiston mintaqasi, Oʻzbekiston Respublikasining bir qismidir. Bu mintaqa Oʻzbekiston qo'shiqi bilan ta'sirlangan, uning qirgʻoq qismi toʻqsonliklar bilan cheklangan, chunki u Qirgʻiziston, Toshkent va Qoraqalpogʻiston qo'shiqlari bilan chegaradosh boʻlib, Oʻzbekistonning gʻarbida joylashgan. Oʻzbekiston qo'shiqi eng qo'shishgan joy hisoblanadi, bu esa mintaqani oʻrta qo'shish joyiga aylantiradi. Oʻzbekiston q",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek raqs san'ati haqida qisqa matn yozing. Write in Uzbek, ≈100 words, in a cultural informative style about Uzbek dance art.",
+    "output": "Uzbek raqs san'ati, O'zbekistonning qadimgi kelishuvlaridan biri hisoblanadi. Bu san'at, qadimgi mamlakatning geografik joylashuvlari, ekologiyasi, tarixiy pastdagi qonalarini va adabiyotini rivojlantiruvchi yirik yashash mumkinligini keltiradi. Raqs san'ati, jumladan, nomuz qo'shish, kiyimchi, to'qimchi, tushkori, tushkori bo'lish va boshqa joylashuvdagi raqslar bilan tanilgan. Uzbek raqs san'ati, jumladan, nomuz qo'shish raqsini, kiyimchi raqsini va tushkori",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ilm-fan rivojlanishidagi ayollarning hissasi haqida insho yozing. Write in Uzbek, ≈200 words, in a highlighting contributions style about women's contributions to science.",
+    "output": "Ilm-fan rivojlanishida ayollarning jamiyligi tarixik zamondagi mavjud joylarida o'zgarishlar ko'rsatganligi ma'noni beruvchi hishlar mavjuddir. Ushbu joylar, bir-biridan farqli davlatlar, mintaqalar va manba bo'lib, ayollar o'z vaqtining keng davomida ilm-fan bo'yicha yuqori darajada ishtirok etganini ko'rsatadi. Uyg'iy bo'lib, Tengri Qit'a, Hindiston, Ming-da Xitoy va boshqa joylar, ayollar bilan bog'liq tarixik ilmiy faoliyati hishlarini o'z ichiga olgan.\n\nAyollar ilm-fan bo'y",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tog'lar haqida ilhomlantiruvchi she'r yozing. Write in Uzbek, 8 lines, in a inspirational poetic style about mountains.",
+    "output": "Yuqori qismda joylashgan qumtalar,  \nYuqori qismda joylashgan qumtalar,  \nYuqori qismda joylashgan qumtalar,  \nUzoq vaqotda yashagan,  \nQarobchi, qulay xotinlar,  \nYuqori qismda joylashgan qumtalar.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Siyosatda demokratiya tamoyillari haqida muhokama yozing. Write in Uzbek, ≈150 words, in a discursive style about principles of democracy.",
+    "output": "Demokratiya, bir davlatning vatandaşlarining soveti, umumiy hokimiyat va hukukali yuqori maqlumotni taqdim etishga asoslanishidir. Bu davlat, vatandaşlarining ehtiyojlarini va qonunlarini qonun qo'llab-quvvatishini, davlat ishlarini davlat hokimi bilan tartibda qilib, vatandaşlar tomonidan himoya qilinadigan qonunlar yaratishini va qonunlar qo'llab-quvvatishini nazorat qilib turadi. Bu davlat, vatandaşlar tomonidan himoya qilinadigan barcha davlat ishlari nazorat qilib turadi. Demokratiya, hukumatning yu",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning turistik joylari haqida reklama matni yozing. Write in Uzbek, ≈100 words, in a promotional style about tourist attractions in Uzbekistan.",
+    "output": "O'zbekistonning turistik joylari, xalqaro turistlarning ilgichiga sazovor bo'ladi. Xo'jalar uchun unchalik xalqaro turizm joylari va tarixiy joylar mavjud. Toshkent, Samarqand, Buxoro, Toshkent va Navbadagi qishloqlarda qadimgi xalqaro mashg'ulotlar va tarixiy yodgorliklar mavjud. O'zbekistonda tadqiqotlar, san'at va sport joylari ham turistik joylar kategoriyasiga kiradi. Hozirgi vaqtda O'zbekiston turizmi rivojlanmoqda, xalqaro turistlarning ilgichiga sazovor joylarimizning tur",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Filosofiyada baxt tushunchasi haqida fikr yozing. Write in Uzbek, ≈200 words, in a philosophical reflective style about concept of happiness.",
+    "output": "Happiness, birinchi marta, mahkumiyatdan ajralib kelib, bir qadamning baxti hisobidir. Uning yaratilishi, baxtning barcha davrida va inqilobida bir qatorda mumkin. Bu, baxtning baxti va qadarini aniqlab turish imkonidir. Uning bir qismi, sevdan buyruqchi hisoblanadi, boshqa qismi esa, tushunmaning qobiliyati hisoblanadi. Bu ikki qismi bir-biriga bog'liq emas, balki asosiy hisoblanadi.\n\nUshbu, baxtning manfaatiga ishonmaydi. Uning manfaati, uning qobiliyatini ishlatishidir. Uning bir qismi,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Zamonaviy ta'lim tizimidagi o'zgarishlar haqida insho yozing. Write in Uzbek, ≈250 words, in a analytical style about changes in modern education system.",
+    "output": "Modern oʻzgarishlar zamonaviy ta'lim tizimida joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joylashgan joy",
+    "expected": "",
+    "bleu_score": 0.0
+  }
+]

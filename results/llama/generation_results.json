@@ -1,0 +1,302 @@
+[
+  {
+    "input": "O'zbekistonning mustaqillik kunini nishonlash haqida qisqa hikoya yozing. Write in Uzbek, ≈200-300 words, in a narrative style about Independence Day of Uzbekistan.",
+    "output": "Kun oldi, Uzbekistan vaqtida. 1991 va 1992 yillarida, O'zbekiston shahariga keng imanliqlik kuchkori qoydi. 1991-yil noyabrida, Tashkent shahri sarmogar vatanchallari tomonidan boshlandi. Va janubda Uzbeks, shuningon va chiqinchon. \n\n1991 va 1992 yillarida, O'zbekiston shahariga keng imanliqlik kuchkori qoydi. Va janubda Uzbeks, shuningon va chiqinchon. \n\n1991 va 1992 yillarida, O'zbekiston shahariga keng imanliqlik kuchkori qoydi. Va janubda Uzbeks, shuningon va chiqinch",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'lom ovqatlanishning foydalari haqida 6 jumladan iborat maqola parchasi yozing. Write in Uzbek, 6 sentences, in a informative style about benefits of healthy eating.",
+    "output": "Uzbekchilikta sanaqatlanishning faydo-lari haqida 6 jumladan iborat maqola parchasi yozing:\n\n1. Sanaqatlanish shakshnoqda shakshnoqda, yaqinlikni tashlaydi. \n2. Ummid va taqiya shakshnoqda shakshnoqda, yaqinlikni tashlaydi. \n3. Sanaqatlanish shakshnoqda shakshnoqda, yaqinlikni tashlaydi.\n4. Ummid va taqiya shakshnoqda shakshnoqda, yaqinlikni tashlaydi.\n5. Sanaqatlanish shakshnoqda shakshnoqda, yaqinlikni tashlaydi.\n6. Sana",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yomg'irli kun haqida 5 misradan iborat she'r yozing. Write in Uzbek, 5 lines, in a poetic style about rainy day.",
+    "output": "Умидда qobriq, yaqin o'n darvaza,\nYonning shonida, yut kinim, kuyin.\nDarvazaning turi, mardumda kuyin,\nShonida qobriq, yut kinim, kuyin.\nRahmat, tushun, umidda qobriq.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Amir Temur hayoti va yutuqlari haqida qisqa biografiya yozing. Write in Uzbek, ≈150 words, in a biographical style about life of Amir Timur.",
+    "output": "Amir Temur, 1404-1405 va 1406-1409 jad va vuslatida, Uzbekistondan, Oryontan, Turkiyada va Balkandakida hukumat qayinchaq. Unvonining ulari - Temur - 1402 jadda, urali hissa, qaramagan, turkiyada \"Timur\" (Turkجه:_timür) daxil edir. \n\nAmir Temur Uzbekistonda 1404 jadda, Turkiyada 1405 va 1406 jadda. 1406 jadda, Uzbekistonda kubrat qurbonu, Turkiyada ishlatilgan. 1406 jadda, Turkiyada kubrat qurbonu, Uzbekistonda ishlatilgan. \n\nAmir Temur 1405 va 140",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kelajakdagi texnologiyalar haqida fikringizni bildiruvchi insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about future technologies.",
+    "output": "Uzbekistonda texnologiyalar oʻzgaruvchiga, 2025-yilga olib ketchik. 2025-yilga olib ketchik, texnologiyalar təsirida hamida, oʻzgaruvchaga hamida, shakliy holatga olib ketchik.\n\nTəsirida hamida texnologiyalar, shakliy holatga olib ketchik. 2025-yilga olib ketchik, texnologiyalar təsirida hamida, oʻzgaruvchaga hamida, shakliy holatga olib ketchik. 2025-yilga olib ketchik, təsirida hamida texnologiyalar təsirida hamida, oʻzgaruvchaga hamida, shakli",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek milliy taomlari orasida palovning retsepti haqida batafsil yozing. Write in Uzbek, ≈200 words, in a instructional style about recipe for plov.",
+    "output": "O'zbek milliy plov, tashkistonlik plov, shuhrat plov. Plovning asosiy resepti shu hisoblar orinajana:\n\n- 1 kg peshtoy\n- 2 kg pula\n- 1 kg zeywan qurut\n- 1 kg biberon\n- 1 kg shirin paella\n- 2 caviya\n- 1 kg kashkaval\n- 1 kg besh baklava\n- 1 kg suz\n- 1 kg shirin\n- 1 kg pashkak\n- 1 kg pashkak\n- 1 kg suz\n- 1 kg shirin\n- 1 kg pashkak\n- 1 kg suz\n- 1 kg shirin\n- 1 kg pashkak\n- 1 kg suz",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tabiatni muhofaza qilish muhimligi haqida 4 paragrafdan iborat matn yozing. Write in Uzbek, 4 paragraphs, in a explanatory style about importance of nature conservation.",
+    "output": "Tabiatni muhofaza qilish muhimligi:\n\nTabiat, haliyoʻri tashqishda, shtoʻrafa, shahar, tuman, shahar va tuman muhofaza qilish muhimdir. Shtoʻrafa tashqishda tabiat, tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shahar tashqishda, shah",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Do'stlik haqida o'zbek maqollaridan foydalanib, qisqa hikoya yozing. Write in Uzbek, ≈150-200 words, in a narrative with proverbs style about friendship.",
+    "output": "Uzbek maqollarining do'zlik bilan faydani haqda, kengayon tashkilotdan zikr oshayim. 1930 yillarida, Tashkentda kengayon tashkilot o'zi bo'ldi. Uch daruj, shahar, kengayon tashkilotning uchlik bilan kengayotgan shahari tashkiloti - uchlik bilan kengayotgan shahar, uchlik bilan kengayotgan shahar. Uchlik bilan kengayotgan shahar, uchlik bilan kengayotgan shahar.\n\nDo'zlik bilan faydani haqda, kengayon tashkilotdan zikr oshayim. Uzbek maqollarining do'zlik bilan faydani",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Matematikada kvadrat tenglamani yechish usullarini tushuntiruvchi matn yozing. Write in Uzbek, ≈100 words, in a educational style about solving quadratic equations.",
+    "output": "Uzovda matematikada kvadrat tenglamani yechish usullarini tushuntiruvchi matn yozing. Kvadrat tenglamani yechish usullarining muallimatligi, x = (-b ± √(b² - 4ac)) / 2a. Bu usulda, a, b, va c ma'lum matnning a, b, va c kishi bo'lganligini tashhishliroq.\n\nKvadrat tenglamani yechish usullarining ikki jumla, b² - 4ac, 4a², 4a, va 4c. Bu ma'lum matnlar shu:\n\n* 4a² = 4 * a * a = 4 * (a * a) = 4 * a * a (basi konsistensiya)\n* 4",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotida Navoiy asarlarining ahamiyati haqida insho yozing. Write in Uzbek, ≈300 words, in a analytical style about importance of Navoi's works.",
+    "output": "Navoiy asarlarining ahamiyati haqida insho yozing. Navoiyning asarlarining tashqishshasi, asliyasi, na ahamiyati haqida insho yozishmoq. Navoiyning asarlarida ularning iltimosida qabiliyot, ahamiyati, tafakkor, na izzat ko'pinchashli bo'lishi shukiq bo'lishi. \n\nNavoiyning asarlarida ularning iltimosida qabiliyot, ahamiyati, tafakkor, na izzat ko'pinchashli bo'lishi shukiq bo'lishi. Navoiyning asarlarida ularning iltimosida qabiliyot, ahamiyati, tafakkor, na izzat ko",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kunlik hayotda vaqtni boshqarish bo'yicha maslahatlar yozing. Write in Uzbek, 5-7 tips, in a advisory style about time management.",
+    "output": "Uzbekiston'da yaqin hayoti vaqti kutsagi bo'yo, lekin bu hayoti vaqti kutsagi bo'yicha maslahatlar yozing. Shu muloklardan boshqa qilib, birinchasi:\n\n1. **Qayta vaqtingizni boshqarish:** Qayta vaqtingizni boshqarish uchiga ahamiyat topdi. Qayta vaqtingizni boshqarish uchiga ahamiyat topdi va 5-7 qayta vaqtingizni boshqarish bilan boshqa qilib, 5-7 qayta vaqtingizni boshqarish bilan boshqa qilib, birinchasiz, qayta vaqtingizni boshqarish uchiga ahamiyat topdi.\n\n2. **",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Qish fasli haqida tasviriy she'r yozing. Write in Uzbek, 8 lines, in a descriptive poetic style about winter season.",
+    "output": "Qishning axori, tushiq, va gilmingiz\nGuldanin kichik, kenglik, va khatunlik\nGulnazor tili, shayk, va kenglik\nQishning axori, tushiq, va gilmingiz\n\nQishning axori, tushiq, va gilmingiz\nGuldanin kichik, kenglik, va khatunlik\nGulnazor tili, shayk, va kenglik\nQishning axori, tushiq, va gilmingiz",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqlim o'zgarishi sabablari va oqibatlarini muhokama qiluvchi matn yozing. Write in Uzbek, ≈250 words, in a discursive style about causes and effects of climate change.",
+    "output": "Quramlar o'zgarishi sabablari va o'zgarishi sabablari va o'zgarishi sababiy tarafozligi bilan shugnatlash maqol. \n\nQuramlar o'zgarishi sabablari bilan shugnatlash maqol, quramlar o'zgarishi sabablari va o'zgarishi sababiy tarafozligi bilan shugnatlash maqol, quramlar o'zgarishi sabablari bilan shugnatlash maqol, quramlar o'zgarishi sabablari bilan shugnatlash maqol, quramlar o'zgarishi sabablari bilan shugnatlash maqol, quramlar o'zgarishi sabablari bilan shugnatlash maqol, quramlar o'",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning mashhur shaharlari haqida qisqa ta'riflar yozing. Write in Uzbek, 3-5 cities, 2-3 sentences each, in a descriptive style about famous cities of Uzbekistan.",
+    "output": "Uzbekistonning mashhur shaharlari o'zi:\n\n1.  Tashkent: Tashkent, Uzbekistonning poydevoni, shahar, va shaharning eni ahamiyekalbidagi hisob. Yeh shahar tashkentlik konservativlik, akramat, va konservativ sotsialistlikni taqdir edir. Tashkentlik sotsialistlik, shaharning sotsialist va klassik konservativlik, shaharning eni ahamiyekalbidagi hisob, shaharning eni ahamiyekalbidagi hisob, shaharning eni ahamiyekalbidagi hisob, shaharning eni ahamiyekalbidagi hisob, shaharning eni ahamiyekalbidagi hisob",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sun'iy intellektning afzalliklari va kamchiliklari haqida insho yozing. Write in Uzbek, ≈200 words, in a balanced argumentative style about pros and cons of AI.",
+    "output": "Uzbekcholar, besh yozda bitta yutunlik va tahrir bo'lishga qarar kaldik, AI shuninglari va kamchiliklari haqida insho yozing. \n\nBiri, AI shuninglari tahriri va kuchlikli. AI shuninglari, jumhuriy va maliy fanlardan bir bo'lishga qarar kaldik, e.g. kamera sargati, avtomobillar, xayon shug'ningiz, va boshqa. \n\nDigiligi va kuchlikli, AI shuninglari, besh yozda bitta yutunlik bo'lishga qarar kaldik, e.g. xayon shug'ningiz, kamera sargati, avtomobillar, va boshqa. \n\nD",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Bolalik xotiralari haqida shaxsiy hikoya yozing. Write in Uzbek, ≈150 words, in a personal narrative style about childhood memories.",
+    "output": "Mushkak maqsadim, bir bolalik xotiralarim. 1990 yilning 15-i yil aylarida, moyo kuchki bilishga katta. Bizi o'zgarish, o'zgarish, kuchki yaxshliklardan bahra shayysh bolalik. Hujum, hujum, bolalik xotiralarim hokim kuchliklardan bahra o'zgarish.\n\nAlisher, Tashoi, Musa, O'zbek xotiralarim. O'zgarish, o'zgarish. Kuchki yaxshliklardan bahra o'zgarish. Bolalik xotiralarim hokim kuchliklardan bahra o'zgarish. Alisher ko'paydi, Tashoi ko",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Fizikada Nyuton qonunlarini oddiy tilda tushuntiring. Write in Uzbek, 3 laws, 1-2 sentences each, in a simplified explanatory style about Newton's laws of motion.",
+    "output": "Uzbekchilar, Fizikada Nyuton qonunlarini tushuntiruvchilikda kuch ahamiyoni orinatlardan boshlayamiz. Shu ahamiyoni orinatlardan boshlayamish bilan, Newtonning kuch qonunlarini undadim.\n\n1. Kuvchilar ki ertinafaletli tushunishiz.\nKuvchilar ki ertinafaletli tushunishiz, shu tushunishu qayri-beyonchi tushunishu kuch ertinadagi. 1. Kuvchilar ki ertinafaletli tushunishiz, shu tushunishu qayri-beyonchi tushunishu kuch ertinadagi. 2. Kuvchilar ki ertinafaletli tushun",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek folklorida ertaklarning roli haqida matn yozing. Write in Uzbek, ≈100 words, in a informative style about role of folktales in Uzbek folklore.",
+    "output": "Uzbek xonxoqlarida ertaklarning asosiy rolida, xonxoq tili, shahon tarahi, xonxoq ishimlari, shahon tarahi va xonxoq ishimlari konsantantlardan tildirilgan. ertaklarning kuzgan xonxoqda tarhi, shahon tarahi va xonxoq ishimlari, xonxoq tili va ertaklarning tildirilishi, tildirishning asosiy maqsadi asli tili va ertakin tildirilishini boshqa xonxoqlar, tarahi va xonxoq ishimlari bilan tildirish.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'liqni saqlash uchun sportning ahamiyati haqida insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about importance of sports for health.",
+    "output": "Uzbekistonda, shonlik va fayroni oshkolab kuchingiz, shayonizni samimiyotni tishni. Sog'liqning ahamiyati haqida, bizni ko'ringiz:\n\n1. Sog'liqning ahamiyati haqida ko'ringiz, shonlik va fayroni tishni - Sog'liqning ahamiyati haqida ko'ringiz, shonlik va fayroni tishni, shonlik va fayroni tishni, sizning ildizini oshkolab, shonlik va fayroni tishni, shonlik va fayroni tishni, sizning shonlik va fayroni tishni. Sog'liqning ahamiyati haqida ko'ringiz, shon",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yoz faslining go'zalligi haqida she'r yozing. Write in Uzbek, 6 lines, in a poetic style about beauty of summer.",
+    "output": "Žalgarlik go'zalligi haqida,\nTasviro, tizik, va kun.\nZamonatda o'zbek ariy,\nZarav, zamin, va shon.\nQurbonlik, gavvomlik, va gull,\nHaqida, she'r, haqida.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi buyuk kashfiyotlar haqida qisqa ro'yxat yozing. Write in Uzbek, 5 discoveries, brief description each, in a list-based informative style about great historical discoveries.",
+    "output": "Uzbekxonlar tili va tarixi bo'lmagacha, tarixda buyuk kashfiyotlar haqida yozuvlar ko'ring. 5 ularimni o'zbek xronika bilan bir xronika shartida tafsir kurtadim:\n\n1.  **Astronomik xonalar** - Astronomik xonalar (Astronomia) - 2000 yilning 5-6 yilda tahriri. 1920 yilda G. K. Zaslavnik tahrir etdi. Bu xonalar astronomiya bilan aloqalashgan, kala xonalariga ko'radi. \n\n2.  **Yaxshiyot va tashqi tarahi** - Yaxshiyot va tashqi tarahi (Optics) - 1880 yilning 10-12 yilda t",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Oilaviy qadriyatlar haqida fikr-mulohazalar yozing. Write in Uzbek, ≈200 words, in a reflective style about family values.",
+    "output": "Uzbekchilikda oilaviy qadriyatlar haqida fikr-mulohazalar yozing. Bunday fikr mulyonlar ovozda bataq, aholiyonning afoqida tarkibli tashkiy-ayniqlar ovozga shteb olovda yozing. Tumash, ovozga katta shayyshlar, nishonlar, shukrani va shayonlar ko'paydigan oilaviy qadriyatlar haqida fikr-mulohazalar yozing.\n\nOvozga shayyshlar, nishonlar, shukrani va shayonlar ko'paydigan oilaviy qadriyatlar haqida fikr-mulohazalar yozishga katta shayyshlar, nishonlar, shuk",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Biologiyada o'simliklarning fotosintez jarayonini tushuntiring. Write in Uzbek, ≈150 words, in a scientific explanatory style about photosynthesis in plants.",
+    "output": "Uzbek dilinde ≈150 words, biyologiyada o'simliklarning fotosintez jarayonini tushuntirishini anka tushnirish.\n\nFotosintez - o'simliklarning fotosintezdir, yaqin va isskli kuchliklardan shamil olduqchi, isskli kuchliklardan tishliklardan tashkil topish uch, bu uchning kuchliklardan tishliklardan tashkil topish uchning kuchliklardan isskli uch uchning isskli uch uchning kuchliklardan isskli uch uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning uchning",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek san'ati va hunarmandchiligi haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about Uzbek art and crafts.",
+    "output": "Uzbek san'ati va hunarmandchiligi uchli yili Uzbek xoniqining san'ati va hunarmandchiligi uchli yili bolishga mukim. Uzbek xoniqning san'ati va hunarmandchiligi uchli yili bolishga mukim, tahriri qayta qurilgan xalitlik, nafasli qurilgan xalitlik, tazaki, tili, tushirilgan xalitlik, na tashqi tarqi shirinliklar. Xalitliklar shirinliklar, shirinliklar, tili, tushirilgan xalitliklar, na tashqi tarqi shirinliklar Uzbek xoniqning san'ati va hunarmandchiligi uchli yili bolishga mukim.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Muvaffaqiyatga erishish yo'llari haqida maslahatlar yozing. Write in Uzbek, 4-6 tips, in a motivational style about paths to success.",
+    "output": "Uzbektay, sizning haqida maslahatlar yozing, sizning o'ziz izzat, rahmat, va shanxmoniylikga ildiz qablan. Aprel 2023 holatida sizning ancaq hatlarni ruzhda tutish, izzat, va rahmat kishinlikni tikish, sizning haqida maslahatlar yozing:\n\n1.  Minitay, aizod va shayrat o'ziz izzat, rahmat, va shanxmoniylikga ildiz qablan. Sizning o'ziz izzat, rahmat, va shanxmoniylik kuchinchib, sizning ancaq hatlarni ruzhda tutish, sizning haqida maslahatlar yozing.\n2.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kuz fasli haqida tasviriy she'r yozing. Write in Uzbek, 7 lines, in a poetic descriptive style about autumn season.",
+    "output": "Uzbekchon yugda kuz fasli haqida,\nAralar ozon kuchga, choy kuchga choy.\nGulbaydak kuyog'ingiz, shetlanningiz,\nOg'zon kuchga choy, choy kuchga og'zon.\nUzun gullar kuyog'ingiz, shetlanningiz,\nKuz fasli haqida, kuz fasli haqida.\nAralar ozon kuchga, kuyog'ingiz.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqtisodiyotda inflyatsiya sabablari haqida insho yozing. Write in Uzbek, ≈200 words, in a analytical style about causes of inflation.",
+    "output": "Iqtisodiyotda inflyatsiya sabablarini tashhushkari yozing:\n\n1. **Alishonlik**: Iqtisodiyotda alishonlik, yaqinlik, va shaharlik, shayonlik, va shaharlik hisoblarining ari tovushi (inflatsiya) sabablariga insho. Alishonlik hisoblarining ari tovushi, shaharlik hisoblarining ari tovushi, va shayonlik hisoblarining ari tovushi, shaharlik hisoblarining ari tovushi va shaharlik hisoblarining ari tovushi sabablariga ari tovushi (inflatsiya) sabablarini tashhushkari yozing.\n\n2. **Kredit",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston tabiatining go'zal joylari haqida ta'rif yozing. Write in Uzbek, 3 places, 2-3 sentences each, in a descriptive style about beautiful natural sites in Uzbekistan.",
+    "output": "O'zbekistanning boshqa kishlari ko'ra, yutunlik, shirinlik, shashlik, shayonlik, shubnlik, shohlik, shulaylik, shollik, shorlik, shoylik, shoyraklik, shoyrakshlik, shoyrakshoʻrlik, shoyrakshoʻrlik, shoyrakshoʻrlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik, shoyrakshonlik,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Psixologiyada stressni boshqarish usullari haqida matn yozing. Write in Uzbek, ≈150 words, in a practical advisory style about stress management techniques.",
+    "output": "Uzviylikda stressning boshqaraqish usullari haqida:\n\nStressning boshqaraqish uchlab, emizni kuchlamoqda va hatlamoqda oshlik kuchlamoqda. Kuchlamoqda uchlab, stressning boshqaraqish uchlab. Kuchlamoqda uchlab, stressning boshqaraqish uchlab.\n\nIltimos, stressning boshqaraqish uchlab:\n\n1. **Davlat kuchlamoq**: Davlat kuchlamoq, tashhish va ertizning kuchlamoq, stressning boshqaraqish uchlab.\n2. **Mental kuchlamoq**: Mental kuchlamoq, tashhish, ertizning kuchlamoq, stressning boshqaraqish",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Adabiyotda fantastik janrning xususiyatlari haqida yozing. Write in Uzbek, ≈100 words, in a informative style about features of fantasy genre.",
+    "output": "Fantastika xususiyatlari haqida:\n\nFantastika janrining en yaxsh xususiyatlari, yaxshlik, kuyuk, kurgiya, mizatl, tarqi, taratma, tashqi, teshik, tushirish, ufaq, uzoq, va yosh. Fantastika bilshatishlar, ilhomlar, va hatvonning asosiy xususiyatlari, xususiyatlardan boshqa xususiyatlardan da'vut etuvchi va qabiliylikda. Fantastika bilshatishlar, ilhomlar, va hatvonning tarkibida kuchlik, xot, va iltimos, shuning, va kuchlik bilash, va kuchlik bilashda.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek tilining rivojlanishi haqida tarixiy obzor yozing. Write in Uzbek, ≈250 words, in a historical review style about development of Uzbek language.",
+    "output": "Uzbek tilini rivojlanishini tarixiy obzor kuch tushniga uchshash.\n\nUzbek tilining rivojlanishini tarixiy obzor kuch tushniga uchshash. Uzbek tilining istoriylik hissi 9- asr shurghunda o'n yil o'n yil sarmal shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar, shahar",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Hayvonlar dunyosi haqida qiziqarli faktlar yozing. Write in Uzbek, 5 facts, in a factual entertaining style about interesting animal facts.",
+    "output": "Uzbekchilar, hayvonalarda xalqonki haqida xubulga qilishgan. \n\nHayvanlar dunyosi haqida xubulga qilishgan. Bu xubulga, hamfiz, besh xubulga qilishgan.\n\n1. Hayvanlar dunyosi haqida xubulga qilishgan. \n\nHayvanlar dunyosi haqida xubulga qilishgan. Bu xubulga, hamfiz, besh xubulga qilishgan.\n\n2. Oğuzlar hamfizga xubulga qilgan. Hamfizga xubulga qilishgan, hamfizga xubulga qilishgan. \n\nOğuzlar hamfizga xubulga qilgan. Hamfizga xubulga qilishgan.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kimyo fanida atom tuzilishi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a scientific style about atomic structure.",
+    "output": "Ushlab-e atom tuzilishi (atomic structure) uchobgan atomlar, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atomlardan xalqon, atoml",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek musiqasining an'anaviy asboblari haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about traditional Uzbek musical instruments.",
+    "output": "Uzbek musiqasining an'anaviy asboblari haqida matn yozing.\n\nUzbek musiqasining an'anaviy asboblari, tushirlik, o'zbeklik, shawklar, konslar, tashmashlar, qurutlar, sirtalar, kuyoglar, taza, koshkalar, qo'konlar, tarkamalar, vushtalar, gushtar, muballalalar, tizalar, chayalar, kuyoglar, beshaklar, besh-tashmalar, sirtalar, kuyoglar, koshkalar, gushtar, tarkamalar, vushtalar, chayalar, tizalar, qo'konlar, shawklar, konslar, tushirlik, o'zbeklik, tashm",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Shaxsiy rivojlanish uchun kitob o'qishning foydalari haqida insho yozing. Write in Uzbek, ≈200 words, in a persuasive style about benefits of reading for personal growth.",
+    "output": "Uzbekchon, shaxsiy rivojlanish uchun kitob o'qishning foydalari haqida insho yozing. Kitob o'qish shaxsiy rivojlanish uchun mukim, inlaxon va inokor kuchroklarini ta'kib qilishga ruxsht topad. Kitob o'qish shaxsiy rivojlanish uchun fayllarni tushirishga ruxsht topad:\n\n1. Sazovutkanning konsentratsiya. Kitob o'qishda shaxsiy rivojlanish uchun fazo konsentratsiya kuchroklarini topad, shaxsiy rivojlanishga ruxsht topad.\n2. Kuchroklar va shayonlarni",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Dengiz haqida romantik she'r yozing. Write in Uzbek, 10 lines, in a romantic poetic style about the sea.",
+    "output": "MAHALLU, mashhudiya! Dengiz haqida romantik she'r yozing:\n\nDengizning dasturdi, yeyunliq, o'zi\nYurakli, tashqi, o'zlik\nKolajon, kuyra, kuyurmat\nSarqon, qutb, qutbi\n\nShuherat, shuhera, shuhera\nTashqi, tashkun, tashkun\nDengizning yeyunliqi, o'zlik\nYurakli, tashqi, o'zlik\n\nDengizning shuherati, yurakli\nTashqi, tashkun, tashkun",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi ayollarning roli haqida misollar keltirib yozing. Write in Uzbek, 3 examples, brief each, in a historical illustrative style about role of women in history.",
+    "output": "Uzbekchalar, ayollarning muhim rolida qalbingizni yozib tazmin edigich. \n\n1.  Qushunoro hovuzining qurilishida ayollarning hissa. \nQushunoro hovuzining qurilishida ayollarning hissa. Qushunoro hovuzining qurilishida ayollarning hissa. Qushunoro hovuzining qurilishida ayollarning hissa. Qushunoro hovuzining qurilishida ayollarning hissa.\n2.  Sultan Shah Rukhning kuni qurilishida ayollarning hissa. \nSultan Shah Rukhning kuni qurilishida ayollarning hissa. Sultan Shah Rukhning kuni qurilishida ayollarning hissa. Sultan Shah Rukhning kuni quril",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston iqtisodiyoti rivojlanish yo'llari haqida fikr yozing. Write in Uzbek, ≈150 words, in a opinion-based style about paths for Uzbekistan's economic development.",
+    "output": "Uzbekiston iqtisodiyoti rivojlanishga haqda, insho, uningizoq olinish, texnologiya, investisiya, iqtisodiy taʼminotga sotuv olinish, jahon tarafiga, shahar va muntazam shahar koʻchning, shahar va muntazam shahar koʻchning ishlab chiqish, kredit, jahon bankotlash, shahar koʻchning tarahi, shahar koʻchning ishlab chiqish, texnologiya va ishlabchuga, shahar va muntazam shahar koʻchning tarkhiyati, shahar va muntazam shahar koʻchning moliya, shahar ko�",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Astronomiyada Quyosh tizimi haqida qisqa ma'lumot yozing. Write in Uzbek, ≈100 words, in a informative style about solar system.",
+    "output": "Qursh tizimi, Qursh tizimi, ya Qursh tizimi. Qursh tizimi, ya Qursh tizimi, - Qursh tizimi, Qursh tizimi. Qursh tizimi, ya Qursh tizimi, - Qursh tizimi. Qursh tizimi, ya Qursh tizimi, - Qursh tizimi. Qursh tizimi, ya Qursh tizimi, - Qursh tizimi.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Madaniy merosni saqlash muhimligi haqida insho yozing. Write in Uzbek, ≈250 words, in a argumentative style about importance of preserving cultural heritage.",
+    "output": "Uzbekchonning tashkilot, mudding, va shahvonning tashkilotga yordamli, boshqa tashkilotlar bilan boyli, lekin shahvonning tashkilotiga yordamli. Madaniy merosni saqlash muhimligi haqida insho yozing.\n\nUzbekchonning tashkilot, mudding, va shahvonning tashkilotiga yordamli. Madaniy merosni saqlash muhimligi haqida insho yozing.\n\nUzbekchonning tashkilot, mudding, va shahvonning tashkilotiga yordamli. Madaniy merosni saqlash muhimligi haqida insho yozing.\n\nUzbekchonning tashkilot, mudding, va",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotidagi zamonaviy yozuvchilar haqida ro'yxat yozing. Write in Uzbek, 4-5 writers, short bio each, in a biographical list style about modern Uzbek writers.",
+    "output": "Uzbek adabiyotidagi zamonaviy yozuvchilar. \n\n1.  **Abdulla Shibaniyev** (1893 - 1964) -  Uzbek aktrisa.   Abdulla Shibaniyev, 1893-1964, Uzbek aktrisa. 1893, Tashkent, Uzbek SSR. 1921, Tashkent, Uzbek SSR.   1929, Tashkent, Uzbek SSR. 1953, Tashkent, Uzbek SSR. 1956, Tashkent, Uzbek SSR. \n2.  **Abdulla Tohirpashayev** (1906 - 1994) -  Uzbek aktrisa. Abdulla Tohirpashayev, 1906-1994, Uzbek aktrisa. 1906, Tashkent, Uzbek SSR. 1924, Tashkent, Uzbek",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ekologik muammolarni hal qilish usullari haqida maslahatlar yozing. Write in Uzbek, 5 methods, in a practical style about solutions to ecological problems.",
+    "output": "Ekologik muammolarni hal qilish usullarini inshorating hatonalar yozing:\n\n1.  **Gizilgi muammolarni olibchalanish**: Gizilgi muammolarni olibchalanish uchiga, muammolarni katsiz chiqish, muammolarni katsiz qabla chiqish, muammolarni katsiz chiqish uchiga, muammolarni katsiz chiqish uchiga, muammolarni katsiz chiqish uchiga, muammolarni katsiz chiqish uchiga, muammolarni katsiz chiqish uchiga, muammolarni katsiz chiqish uchiga, muammolarni katsiz chiqish uchiga, muammolarni katsiz chiqish uchiga",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Geografiyada O'zbekistonning joylashuvi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a geographical descriptive style about geographical location of Uzbekistan.",
+    "output": "Uzbekiston - O'zbekistonning ko'plari va shahar-ivlanidan tashqisida, Daryo shtokokda yashog'gan. Qiziqlar bilamali, shuheralar bilamali, 2000 metrlik, 2500 metrlik. \n\nQiziqlar bilamali shahar-ivlanidan tashqisida, Kyzylkum va Kyzylorda shahar-ivlanidan tashqisida, Daryo shtokokda yashog'gan. Qiziqlar bilamali shahar-ivlanidan tashqisida, Daryo shtokokda yashog'gan.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek raqs san'ati haqida qisqa matn yozing. Write in Uzbek, ≈100 words, in a cultural informative style about Uzbek dance art.",
+    "output": "Uzbek raqs san'ati, Uzbek tili va etnosentin yurtilgan, xalqiy baashaqlar dastavining bir qismi. Uzbek raqs, xalqiy baashaqlar dastavining en yaxshi tasvirligi, mukimlar, qushlar va sifariyalar bilan xaspashtalardan boshlanadi. Raqs san'ati, shahar va qishloq xo'jalari uchun muhimdir, shahar xo'jalari ko'konlar, shahar xo'jalari ko'konlar, ko'konlar va ko'konlar bilan shishniy, halqa va halqaga yugaydi.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ilm-fan rivojlanishidagi ayollarning hissasi haqida insho yozing. Write in Uzbek, ≈200 words, in a highlighting contributions style about women's contributions to science.",
+    "output": "Uzbekcholarlar, 100 ta ilm fanidan xalq-tarbiyaga hujumga olib kelish, va hissa hissa - nafiqon, tibb, tahrir va matbuoga muroja. \n\nNafiqxon - 1850 va 1920 va 1930 yillar oylarida ilm fanining eni hissa hissa hissa nafiqxon, unvonlarini, tahrir va matbuoga muroja qilishda xalq-tarbiyaga hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa hissa",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tog'lar haqida ilhomlantiruvchi she'r yozing. Write in Uzbek, 8 lines, in a inspirational poetic style about mountains.",
+    "output": "Tog'lar haqida ilhomlantiruvchi she'r yozing,\nYana azerbaycanning, shahar o'zligi.\nZarafshan va Sary Tayinshan shon,\nQurghontezda qurilgan, shirin xonug.\nRushonlar o'zligi, shahar o'zligi,\nMumkin, o'zligi, azerbaycanning.\nTog'lar haqida ilhomlantiruvchi she'r yozing,\nAzerbaycanningning, shahar o'zligi.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Siyosatda demokratiya tamoyillari haqida muhokama yozing. Write in Uzbek, ≈150 words, in a discursive style about principles of democracy.",
+    "output": "Uzbekchilar, demokratiya tamoyillarining kuch anzamiz hamkorligi, umiddatliq, va hattoylikli tizimligi, va hukumatning maqomligini tanishlashga imkon beradi. \n\nDemokratiya tamoyillar orna, hukumatning maqomligini tanishlashga imkon beradi. \n\nUzbekchilar, hukumatning maqomligini tanishlashga imkon berdi. \n\nDemokratiya tamoyillar orna, hukumatning maqomligini tanishlashga imkon beradi. \n\nUzbekchilar, hukumatning maqomligini tanishlashga imkon berdi. \n\nDemokratiya tamoyillar orna, hukumatning maqomligini tanishlashga imkon",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning turistik joylari haqida reklama matni yozing. Write in Uzbek, ≈100 words, in a promotional style about tourist attractions in Uzbekistan.",
+    "output": "Uzbekistonning turistik joylari!\n\nUzbekistan, tarixiy turcha va xorijonlikning eni kuchlikli joylari marddansiz. Bu joylar, 400 milliyaatlik daraklarida muntazam jangal, qabilar, sultonlik xronika, qadirmagacha shahar, shahar qishloqlar va kengayolardan iborat. Uzbekistanning turistik joylari, kengayolardan bir kishlari, turista muallimlik, turista tashriqi, turista orniqqa, turista orniqqa, turista orniqqa, turista orniqqa, turista orniqqa, turista orniqqa, turista orniqqa, turista orniqqa, turista orniqqa",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Filosofiyada baxt tushunchasi haqida fikr yozing. Write in Uzbek, ≈200 words, in a philosophical reflective style about concept of happiness.",
+    "output": "Uzbekchon, tashhimmingim, tushunchalashga haqda tushunchaingim. \n\nHappiness, haqda tushunchaingim, bilincha, man. Baxt tushunchasi haqda tushunchaingim. Kuch tushunlarimda, man, happiness, manzilmaning tushunchasi haqda tushunchaingim. Aksaman, man, manzilmaning tushunchasi haqda tushunchaingim. \n\nMan, tashhimmingim, happiness, haqda tushunchaingim, bilincha. Manzilmaning tushunchasi haqda tushunchaingim, bilincha. Man, tashhimmingim, happiness, haqda tushunchaingim, bilincha. Kuch tushunlarim",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Zamonaviy ta'lim tizimidagi o'zgarishlar haqida insho yozing. Write in Uzbek, ≈250 words, in a analytical style about changes in modern education system.",
+    "output": "Uzbekchoningizda, ta'lim tizimi haqida insho yozing. Otamolarning, ta'lim tizimi haqida insho yozuvlar orniyda xam, xam tizimi haqida insho yozuvlar orniyda. Xam tizimi haqida insho yozuvlar orniyda, ta'lim tizimi haqida insho yozuvlar orniyda, xam tizimi haqida insho yozuvlar orniyda, ta'lim tizimi haqida insho yozuvlar orniyda.\n\nXam tizimi haqida insho yozuvlar orniyda, ta'lim tizimi haqida insho yozuvlar orniyda, xam tizimi ha",
+    "expected": "",
+    "bleu_score": 0.0
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men uyda o‘tiribman.",
+    "output": "<think>\nOkay, the user wants me to translate the Uzbek text \"Men uyda o‘tiribman.\" to English and only provide the translated text. Let me start by understanding the original Uzbek sentence.\n\n\"Men uyda o‘tiribman.\" translates to \"I have come and gone.\" The structure here is \"I have come and gone.\" In English, that's \"I have come and gone.\" The word \"oyda\" is \"come\" and \"o‘tiribman\" means \"gone.\" So putting it together, it's correct.\n\nWait, but sometimes \"oyda\" can be used more generally. Let me check. \"I have come and gone\" is the standard way. So the translation should be accurate. I don't see any issues with the translation. The user probably wants a direct and clear English version. No additional explanations are needed. Just the translated text.\n</think>\n\nI have come and gone.",
+    "expected": "I am sitting at home.",
+    "bleu_score": 5.364699661127006e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Bu mening kitobim.",
+    "output": "<think>\nOkay, the user wants me to translate \"Bu mening kitobim.\" from Turkish to English and only provide the translated text. Let me start by understanding the original sentence.\n\n\"Bu mening kitobim.\" translates to \"This is my book.\" in English. But wait, maybe there's a nuance here. The original Turkish sentence is \"Bu mening kitobim.\" which could mean \"This is my book.\" So the translation should be straightforward. I need to make sure there are no additional nuances. The user might just need the literal translation. Let me check again. Yes, \"Bu\" means \"this,\" \"mengin\" is \"my,\" and \"kitobim\" is \"my book.\" So the correct translation is \"This is my book.\" No need for extra words. Just the direct translation. Alright, that's all.\n</think>\n\nThis is my book.",
+    "expected": "This is my book.",
+    "bleu_score": 0.01749763078257038
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U maktabga ketdi.",
+    "output": "<think>\nOkay, the user wants me to translate \"U maktabga ketdi.\" from Uz to English. Let me start by breaking down the words. \"U\" is the pronoun, \"maktab\" means \"room\" or \"room\" in this context, and \"g\" is a letter. So \"U maktabga ketdi\" translates to \"I went to the room.\" But wait, \"g\" here is a letter, so maybe it's a typo? The user might have meant \"g\" as a letter, like \"go\" instead of \"g\"? Let me check again. The original text is \"U maktabga ketdi.\" So \"g\" is part of the word. If it's \"U maktabga ketdi,\" then \"U\" is the pronoun, \"maktab\" is the room, and \"g\" is a letter. So maybe the correct translation is \"I went to the room.\" But maybe",
+    "expected": "He went to school.",
+    "bleu_score": 1.5771977473045076e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men choy ichmoqchiman.",
+    "output": "<think>\nOkay, the user wants me to translate \"Men choy ichmoqchiman.\" from Uz to English. First, I need to make sure I understand the original text correctly. The phrase seems to be a statement or a command in Uz. Let me break it down.\n\n\"Men\" translates to \"men.\" Then \"choy\" is probably a verb meaning to choose or select. \"Ichmoqchiman\" – I'm not sure about the meaning here. Maybe it's a name or a term? Alternatively, \"choy\" could be \"to choose\" and \"ichmoqchiman\" might be \"I choose.\" So putting it together, \"I choose men.\" But I should check if there's a different interpretation.\n\nWait, maybe \"choy\" is a particle or a word in Uz. Let me think. In Uz, words can sometimes have different meanings. If \"choy\" is \"to choose\" and \"",
+    "expected": "I want to drink tea.",
+    "bleu_score": 6.3917876705550364e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U juda yaxshi inson.",
+    "output": "<think>\nOkay, the user wants me to translate \"U juda yaxshi inson.\" from Uz to English. First, I need to understand the original phrase. \"U juda yaxshi inson\" translates to \"The Jews are here.\" So the key words here are \"Jews,\" \"are here,\" and \"son.\" \n\nIn Uz, \"jud\" might be \"Jews,\" \"yaxshi\" could be \"here,\" and \"inson\" is \"son.\" So putting it all together, the translation would be \"The Jews are here.\" \n\nI should check if there are any specific nuances or if the user wants a different structure. Since the user provided the translation and asked for only the translated text, I should confirm that the response is accurate. No other parts are needed here. The answer should be straightforward and correct.\n</think>\n\nThe Jews are here.",
+    "expected": "He is a very good person.",
+    "bleu_score": 6.441148769597431e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Havo bugun issiq.",
+    "output": "<think>\nOkay, the user wants me to translate the text \"Havo bugun issiq.\" from Uz to English. First, I need to understand the original text. \"Havo\" is a name, so it should stay as is. \"bugun issiq\" translates to \"the day of the week\" in English. So putting it together, it should be \"Havo is the day of the week.\" Let me double-check the translation to ensure accuracy. Yes, that makes sense. No need for additional information since the user provided the text and asked for only the translation. I'll present the result clearly.\n</think>\n\nHavo is the day of the week.",
+    "expected": "The weather is hot today.",
+    "bleu_score": 5.732687664195737e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Mening ismim Aziz.",
+    "output": "<think>\nOkay, the user wants me to translate \"Mening ismim Aziz.\" from Turkish to English. Let me start by breaking down the sentence. \"Mening ismim Aziz\" translates to \"Mening ismim Aziz.\" So the main subject is \"Mening,\" which is a name, and \"ismim\" is \"my name,\" and \"Aziz\" is the person's name. \n\nWait, \"Mening ismim Aziz\" – maybe there's a typo here. Sometimes in Turkish, names can be written differently, but \"Mening\" is a proper noun, so it's likely correct. The structure is correct: subject (Mening) + my name (ismim) + Aziz. \n\nI need to make sure the translation is accurate. \"Mening\" is the name, \"ismim\" is the name, and \"Aziz\" is the person's name. So the translation would be \"My",
+    "expected": "My name is Aziz.",
+    "bleu_score": 7.229234202937077e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Bu uy juda katta.",
+    "output": "<think>\nOkay, the user wants me to translate the Uzbek text \"Bu uy juda katta.\" to English and provide only the translated text. Let me start by understanding the original sentence.\n\n\"Bu uy juda katta.\" translates to \"This is a big tree.\" in English. The word \"uy\" here refers to a tree, and \"juda\" is a plural form, so \"trees\" makes sense. I need to make sure the translation is accurate and natural. \n\nI should check if there's any nuance or context I'm missing. Since the original is in Uzbek, the translation should preserve that meaning. \"Big\" here is the adjective, so \"big\" is correct. \n\nDouble-checking the words: \"Bu\" is \"This,\" \"uy\" is \"tree,\" \"juda\" is plural, so \"This is a big tree.\" That seems right. The user might be looking for a direct translation without any additional explanation, so just",
+    "expected": "This house is very big.",
+    "bleu_score": 5.286929818568628e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men televizor ko‘ryapman.",
+    "output": "<think>\nOkay, the user wants me to translate the given text from Uzbek to English and only provide the translated text. Let me start by reading the original text carefully: \"Men televizor ko‘ryapman.\" \n\nFirst, breaking down the words. \"Men\" translates to \"men\" in English. \"Televizor\" is \"television\" or \"television\". The verb \"ko‘ryapman\" is a bit tricky. In Uzbek, the verb \"ko‘ryapman\" means \"to have a television\". So putting it all together, \"Men have a television.\"\n\nWait, but sometimes \"televizor ko‘ryapman\" might be used more colloquially. Maybe \"men have a television\" is more natural. Let me double-check. Yes, that seems correct. No other parts need to be translated. The user probably wants the literal translation without any additional context or idiomatic expressions. So the final translation should",
+    "expected": "I am watching TV.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U mashina haydayapti.",
+    "output": "<think>\nOkay, the user wants me to translate \"U mashina haydayapti\" from Uz to English and provide only the translated text. First, I need to make sure I understand the original phrase correctly. \"Haydayapti\" seems like a term related to a machine or something similar. The word \"mashina\" is \"machine\" in English. So \"U mashina haydayapti\" translates to \"The machine is working.\" But wait, the original is in Uz, which might be a dialect or a specific term. I should check if \"haydayapti\" is a proper noun or a term that's commonly used in that context. If it's a proper noun, then the translation would be straightforward. If not, maybe it's a misspelling or a term that needs contextual understanding. Since the user provided the translation and the response, I should ensure that the translated text is accurate. The user might be a student or someone",
+    "expected": "He is driving a car.",
+    "bleu_score": 6.232719878487911e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men har kuni ertalab sport bilan shug‘ullanaman.",
+    "output": "<think>\nOkay, let's tackle this translation. The user provided the text in Uzbek: \"Men har kuni ertalab sport bilan shug‘ullanaman.\" I need to translate this into English.\n\nFirst, breaking down the sentence. \"Men har\" is \"I have\" or \"I have been.\" \"Kuni\" means \"last time\" or \"previous time.\" So \"I have been last time\" or \"I have last time.\" \n\nNext, \"ertalab sport\" translates to \"sports\" or \"sport.\" \"Bilan\" is \"with\" or \"to do with.\" \"Shug‘ullanaman\" is a bit tricky. The word \"shug‘ullanaman\" could be \"shooting\" or \"spending time.\" But since it's a sports context, maybe \"shooting\" is more appropriate. However, \"shug'ullanaman\" might also be \"shooting.\" \n\nPutting it all together: \"",
+    "expected": "I exercise every morning.",
+    "bleu_score": 5.625487347946324e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kecha biz do‘stlar bilan parkda sayr qildik.",
+    "output": "<think>\nOkay, the user wants me to translate a Uzbek text to English and only provide the translated version. Let me start by reading the original Uzbek sentence: \"Kecha biz do‘stlar bilan parkda sayr qildik.\" \n\nFirst, I need to break down the sentence. \"Kecha\" is a contraction of \"Kecha\" which is \"We\" in English. \"Biz\" means \"we\" again, so that's \"We.\" Then \"do‘stlar\" translates to \"people\" or \"passersby.\" \"Bilan\" is \"with\" or \"in the way of.\" \"Parkda\" is \"on the park.\" \"Sayr qildik\" means \"we said goodbye.\" \n\nPutting it together, the sentence should be \"We said goodbye to people on the park.\" But I should check if \"sayr\" is correctly translated. In Uzbek, \"sayr\" can mean to say goodbye, so that",
+    "expected": "Yesterday we walked in the park with friends.",
+    "bleu_score": 6.532350510338584e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U yangi telefon sotib oldi va juda xursand bo‘ldi.",
+    "output": "<think>\nOkay, the user wants me to translate the Uzbek text \"U yangi telefon sotib oldi va juda xursand bo‘ldi.\" into English. Let me start by breaking down the sentence.\n\nFirst part: \"U yangi telefon sotib oldi\". \"U\" is \"the\" in English. \"Yangi\" means \"new\", so \"the new phone\". \"Sotib oldi\" translates to \"was on the table\" or \"was on the table\". The second part: \"va juda xursand bo‘ldi\". \"Juda\" here might be a typo for \"jada\" which is \"day\", but since it's in the past tense, maybe \"was on the day\" or \"was on the day\". \"Bo‘ldi\" is \"was\". So putting it together, \"the new phone was on the table and was on the day.\"\n\nWait, but \"xursand",
+    "expected": "He bought a new phone and was very happy.",
+    "bleu_score": 2.4367724366351147e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men ingliz tilini o‘rganishni davom ettiryapman.",
+    "output": "<think>\nOkay, the user wants me to translate a Turkish sentence into English and provide only the translated text. Let me start by reading the original text carefully: \"Men ingliz tilini o‘rganishni davom ettiryapman.\"\n\nFirst, I'll break it down. The sentence is \"Men ingliz tilini o‘rganishni davom ettiryapman.\" Translating each part:\n\n- \"Men\" translates to \"I\" or \"I am\"\n- \"ingliz\" is \"English\"\n- \"tilini\" is \"language\"\n- \"o‘rganishni\" is \"learn\"\n- \"davom ettiryapman\" – here, \"davom\" could be \"to take up\" or \"to learn\", and \"ettiryapman\" is \"to study\". So combining these, \"I am learning to study English.\"\n\nPutting it all together: \"I am learning to study English.\"\n\nWait, but",
+    "expected": "I am continuing to learn English.",
+    "bleu_score": 6.674751133579963e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Biz yozda tog‘larga sayohat qilishni rejalashtiryapmiz.",
+    "output": "<think>\nOkay, let's tackle this translation. The user wants the given Uzbek text translated to English. First, I'll read the original text carefully: \"Biz yozda tog‘larga sayohat qilishni rejalashtiryapmiz.\" \n\nBreaking it down, \"Biz\" means \"We\", \"yozda\" is \"with\", \"tog'la\" is \"to the\", \"torga\" is \"person\", and \"sayohat qilishni\" is \"helping\". So putting it together: \"We will help the person.\" But wait, \"tog'la\" can sometimes be a typo for \"to\" or \"with\". The original Uzbek uses \"tog'la\", which is \"to the\", so maybe \"to the person\". \n\nThe phrase \"rejalashtiryapmiz\" translates to \"we will do it\". So the full translation would be \"We will help",
+    "expected": "We are planning to travel to the mountains in summer.",
+    "bleu_score": 7.526261972268631e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U o‘zining yangi ishini juda yaxshi ko‘radi.",
+    "output": "<think>\nOkay, let's tackle this translation. The original text is \"U o‘zining yangi ishini juda yaxshi ko‘radi.\" I need to translate this into English while keeping the meaning.\n\nFirst, \"U o‘zining\" translates to \"U your\" or \"Your.\" Since the sentence is in the first person, \"Your\" is more appropriate. Then \"yangi ishini\" is \"new initiative.\" Next, \"juda yaxshi ko‘radi\" – \"juda\" here is a term from the Islamic tradition, so \"Islamic\" makes sense. \"Yaxshi\" means \"successful\" or \"effective.\" \"Ko‘radi\" is \"recognized\" or \"approved.\" So putting it all together, \"Your new initiative is successful.\" \n\nWait, but \"ko‘radi\" in this context might refer to a specific recognition or approval. Maybe \"recognized\" is better. So the final translation would",
+    "expected": "She really likes her new job.",
+    "bleu_score": 5.551288858995946e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men kitob o‘qishdan zavq olaman.",
+    "output": "<think>\nOkay, the user wants me to translate the Uzbek text \"Men kitob o‘qishdan zavq olaman.\" to English and provide only the translated text. First, I need to make sure I understand the original Uzbek sentence correctly. \n\n\"Men kitob o‘qishdan zavq olaman\" translates to \"I am afraid of reading books.\" The structure is \"I am afraid of X.\" So the translation should be straightforward. \n\nI should check if there's any nuance or context that's missing. The sentence is pretty simple, so the translation should be accurate. Let me confirm the translation again. \"I am afraid of reading books.\" That seems right. \n\nNo other parts of the sentence are needed here. The user might be looking for a direct translation without adding extra information. So the final answer should be \"I am afraid of reading books.\" and provide only that text.\n</think>\n\nI am afraid of reading books.",
+    "expected": "I enjoy reading books.",
+    "bleu_score": 1.6219407369285669e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kechasi yomg‘ir yog‘ib, havo salqinlashdi.",
+    "output": "<think>\nOkay, let's tackle this translation. The user provided the text \"Kechasi yomg‘ir yog‘ib, havo salqinlashdi.\" and wants it translated to English. First, I need to understand the original message.\n\nBreaking it down: \"Kechasi\" means \"Kechasi\" (a name or title). \"Yomg‘ir\" is \"yomg’ir\" which I think is a transliteration or a name. \"Yog‘ib\" could be \"yogir\" or \"yogir\". \"Havo\" here is \"havo\" (a name). \"Salqinlashdi\" translates to \"did not settle\" or \"did not settle down\".\n\nPutting it together: \"Kechasi yomg’ir yogir, havo salqinlashdi.\" Wait, maybe \"yogir\" is a name, so \"Kechasi yomg’ir",
+    "expected": "It rained at night and the weather cooled down.",
+    "bleu_score": 6.995501686664742e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U universitetda informatika bo‘yicha o‘qiyapti.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"U universitetda informatika bo‘yicha o‘qiyapti.\" from Uz to English and only provide the translated text. First, I need to understand the sentence correctly. The original is \"In the university of information science, she studied.\" So, \"in the university of information science, she studied.\" \n\nNow, translating \"in the university of information science\" would be \"in the university of information science.\" Then \"bo‘yicha\" translates to \"on\" or \"on\" in this context. \"O‘qiyapti\" means \"studied\" or \"studied.\" So putting it all together, it would be \"In the university of information science, she studied.\"\n\nWait, but \"in the university of information science\" could be more natural as \"In the university of information science, she studied.\" But maybe \"on the university of information science\" is better. However",
+    "expected": "He is studying computer science at the university.",
+    "bleu_score": 6.3917876705550364e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Biz oilamiz bilan hafta oxiri kinoga bordik.",
+    "output": "<think>\nOkay, the user wants me to translate the given text from Turkish to English and only provide the translated text. Let me start by reading the original sentence carefully.\n\nThe original sentence is: \"Biz oilamiz bilan hafta oxiri kinoga bordik.\" \n\nBreaking it down, \"Biz\" means \"We\", \"oilamiz\" is \"have oil\", \"biliban\" probably means \"with\", \"hafta oxiri kinoga\" translates to \"a week-long trip to the kin\", and \"bordik\" is \"to board\". \n\nPutting it all together, \"We have oil with us, going on a week-long trip to the kin. Boarding there.\" \n\nWait, maybe \"hafta oxiri\" is \"a week-long\" and \"kin\" could be \"kin\" as in a specific location. Let me check again. \"Hafta oxiri\" is \"a week-long",
+    "expected": "We went to the cinema with our family on the weekend.",
+    "bleu_score": 2.075514440705071e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U o‘z maqsadiga erishish uchun qat’iyat bilan ishladi.",
+    "output": "<think>\nOkay, let's tackle this translation. The original text is in Uzbek, and I need to translate it into English. The sentence is: \"U o‘z maqsadiga erishish uchun qat’iyat bilan ishladi.\" \n\nFirst, I'll break down the sentence. The main components are \"U o‘z maqsadiga erishish uchun qat’iyat bilan ishladi.\" The subject is \"U\" which is a pronoun. Then \"o‘z maqsadiga erishish\" translates to \"to fulfill the goal of something.\" Next, \"uchun qat’iyat bilan ishladi\" means \"by using something.\" \n\nPutting it together, the sentence should be \"To fulfill the goal of something, you must use something.\" Let me check if \"qat’iyat\" is correctly translated. \"Qat’iyat\" is \"something",
+    "expected": "He worked with determination to achieve his goal.",
+    "bleu_score": 5.677823098089411e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Hayotda eng katta boylik — sog‘liqdir.",
+    "output": "<think>\nOkay, the user wants me to translate the Uzbek text \"Hayotda eng katta boylik — sog‘liqdir.\" into English and provide only the translated text. Let me start by breaking down the original sentence.\n\nFirst, \"Hayotda\" translates to \"In the house\" or \"In the house of.\" Then \"eng katta boylik\" means \"the biggest size\" or \"the largest size.\" The last part is \"sog‘liqdir\" which is \"is liquid\" or \"is wet.\" So putting it all together, the translation would be \"In the house, the largest size — is liquid.\" \n\nWait, but \"sog‘liqdir\" might be a bit more specific. \"Sog'liq\" is \"wet,\" so maybe \"is wet.\" However, \"sog'liq\" in this context could mean \"liquid\" in a technical sense. But the user hasn't specified,",
+    "expected": "The greatest wealth in life is health.",
+    "bleu_score": 7.229234202937077e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U juda dono inson bo‘lib, har doim to‘g‘ri maslahat beradi.",
+    "output": "<think>\nOkay, the user wants me to translate the given text from Uz to English. Let me start by reading the original text carefully.\n\nThe text is: \"U juda dono inson bo‘lib, har doim to‘g‘ri maslahat beradi.\" \n\nBreaking it down, \"U juda dono inson bo‘lib\" translates to \"The Jews are not here, they have no place.\" Then \"har doim to‘g‘ri maslahat beradi\" would be \"and they have given rise to these maslahat (sacrifices).\" \n\nWait, \"maslahat\" is a term related to sacrifices or offerings. So \"maslahat beradi\" means they have given rise to these sacrifices. \n\nPutting it all together, \"The Jews are not here, they have no place. And they have given rise to these sacrifices.\" \n\nI need to make sure the translation is",
+    "expected": "He is a very wise person and always gives good advice.",
+    "bleu_score": 1.6027414880952336e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Qiyin vaziyatlarda ham umidni yo‘qotmaslik kerak.",
+    "output": "<think>\nOkay, the user wants me to translate the Uzbek text \"Qiyin vaziyatlarda ham umidni yo‘qotmaslik kerak.\" to English and provide only the translated text. Let me start by breaking down the sentence.\n\nThe main components are: Qiyin (which might be a name or a term), vaziyatlarda (in the regions), ham umidni (it is necessary for ham), yo‘qotmaslik (not enough). So the translation should be about the necessity of having enough moisture in certain regions.\n\nI need to make sure the translation is accurate. \"Qiyin\" could be a name, so maybe \"Qiyin\" is a person's name, so the translation would be \"In the regions of Qiyin, it is necessary for enough moisture.\" But wait, \"Qiyin\" is a name, so maybe it's better to keep it as \"Qiyin\" in English. Let",
+    "expected": "One should not lose hope even in difficult situations.",
+    "bleu_score": 6.4162308992004585e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Yaxshi do‘st — qiyinchilikda bilinadi.",
+    "output": "<think>\nOkay, the user wants me to translate the given text from Uzbek to English. Let me start by looking at the original text: \"Yaxshi do‘st — qiyinchilikda bilinadi.\" \n\nFirst, I need to make sure I understand the meaning correctly. \"Yaxshi do‘st\" translates to \"A person's name\" or \"A name.\" Then \"qiyinchilikda bilinadi\" means \"is known\" or \"is well known.\" So putting it together, the sentence should be \"A person's name is well known.\"\n\nWait, but in Uzbek, sometimes \"do‘st\" can refer to a name, and \"qiyinchilikda\" is \"in the field of.\" So the translation should be \"A person's name is known in the field.\" But maybe \"is well known\" is more natural. Let me check the structure again. \"Yaxshi do‘st — qiyinchilikda",
+    "expected": "A good friend is known in hardship.",
+    "bleu_score": 5.207284935690976e-79
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U uzoq o‘ylab, nihoyat to‘g‘ri qarorga keldi.",
+    "output": "<think>\nOkay, the user wants me to translate the given Uzbek text into English. Let me start by reading the original text carefully: \"U uzoq o‘ylab, nihoyat to‘g‘ri qarorga keldi.\" \n\nFirst, I need to break it down. The phrase \"U uzoq o‘ylab\" translates to \"U was the one who...\" or \"U was the one who...\" or \"U was the one who...\" depending on the context. Then \"nihoyat to‘g‘ri qarorga keldi\" means \"the threat was caught.\"\n\nPutting it together, \"U was the one who caught the threat.\" That seems straightforward. I should check if there's any nuance I'm missing. The original Uzbek uses \"u\" which might be a pronoun, so \"U was the one who\" is correct. \n\nI should ensure that the translation is natural in English.",
+    "expected": "He thought for a long time and finally made the right decision.",
+    "bleu_score": 6.466558133769387e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Har bir insonning hayotida o‘ziga xos sinovlar bo‘ladi.",
+    "output": "<think>\nOkay, let's tackle this translation. The user wants the Uzbek text translated to English and only the translated text provided. The original Uzbek sentence is: \"Har bir insonning hayotida o‘ziga xos sinovlar bo‘ladi.\"\n\nFirst, I need to understand the sentence structure. \"Har bir insonning hayotida\" translates to \"For a son's life\" or \"For a son's life.\" Then \"o‘ziga xos sinovlar bo‘ladi\" means \"the son's life was filled with good things.\" So putting it all together, \"For a son's life, the son's life was filled with good things.\"\n\nWait, maybe \"xos sinovlar\" is \"good things\" or \"good qualities.\" But \"xos\" could mean \"good\" or \"favorable.\" So \"filled with good qualities\" makes sense. So the translation would be \"For a son's life,",
+    "expected": "Every person has unique challenges in life.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U mehnatkashligi va halolligi bilan boshqalardan ajralib turadi.",
+    "output": "<think>\nOkay, let's see. The user wants to translate a Uzbek text into English. The original sentence is: \"U mehnatkashligi va halolligi bilan boshqalardan ajralib turadi.\" \n\nFirst, I need to understand the meaning. \"U mehnatkashligi va halolligi bilan\" translates to \"With the help of my knowledge and skills.\" Then \"boshqalardan ajralib turadi\" means \"I travel from one place to another by taking the bus.\" \n\nPutting it all together, \"I travel from one place to another by taking the bus with my knowledge and skills.\" \n\nI should check if there are any nuances or specific terms in Uzbek that might need careful translation. \"Mehnatkashligi\" is \"knowledge,\" \"halolligi\" is \"skills,\" \"boshqalardan\" is \"from,\" and \"",
+    "expected": "He stands out from others with his diligence and honesty.",
+    "bleu_score": 7.353922121775771e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Inson hayoti davomida bilim izlashdan to‘xtamasligi lozim.",
+    "output": "<think>\nOkay, the user wants me to translate the given Uzbek text into English and provide only the translated text. Let me start by reading the original Uzbek sentence carefully.\n\n\"Inson hayoti davomida bilim izlashdan to‘xtamasligi lozim.\"\n\nBreaking it down, \"Inson hayoti\" translates to \"Inson\" which is a type of tree. \"Davomida\" means \"in the field\" or \"on the field.\" \"Bilim izlashdan to‘xtamasligi lozim\" translates to \"the knowledge of science is missing here.\" \n\nPutting it all together, \"Inson trees are missing knowledge of science here.\"\n\nWait, \"davomida\" is important. \"In the field\" is correct. \"Bilim izlashdan\" is \"knowledge of science.\" \"To‘xtamasligi lozim\" is \"missing here.\" \n\nI need to",
+    "expected": "A person should never stop seeking knowledge throughout life.",
+    "bleu_score": 5.65135233948518e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Har qanday muvaffaqiyat sabr-toqat va mehnat bilan keladi.",
+    "output": "<think>\nOkay, the user wants me to translate the given Uzbek text into English. Let me start by reading the original text carefully. The sentence is \"Har qanday muvaffaqiyat sabr-toqat va mehnat bilan keladi.\" \n\nFirst, breaking it down. \"Har qanday\" translates to \"How many\" or \"How many times.\" Then \"muvaffaqiyat sabr-toqat\" – \"muvaffaqiyat\" is \"success\" or \"success rate.\" \"sabr-toqat\" is \"faith and doubt.\" So putting that together, \"How many success rate of faith and doubt and meet with...\" \n\nWait, \"mehnat bilan keladi\" – \"meet with\" here might refer to meeting someone. So the full sentence could be \"How many success rate of faith and doubt and meet with someone.\" \n\nI need to check if \"sabr-toqat\"",
+    "expected": "Any success comes with patience and hard work.",
+    "bleu_score": 7.32173788293977e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Dasturiy ta’minotning yangi versiyasi xavfsizlik protokollarini yangiladi.",
+    "output": "<think>\nOkay, the user wants me to translate the given text from Uz to English and only provide the translated version. Let me start by reading the original text carefully.\n\nThe original text is: \"Dasturiy ta’minotning yangi versiyasi xavfsizlik protokollarini yangiladi.\"\n\nFirst, I need to understand the meaning here. \"Dasturiy ta’minotning\" translates to \"the new version of the...\" or \"the new version of the...\" \"yangi versiyasi\" means \"new version,\" and \"xavfsizlik protokollarini\" is \"discrete protocols.\" So putting that together, it should be \"The new version of the discrete protocols will be implemented.\"\n\nWait, \"xavfsizlik\" is a term I'm not sure about. In Turkish, \"xavfsizlik\" might refer to \"discrete\" or \"separate\" components. \"X",
+    "expected": "The new version of the software updated its security protocols.",
+    "bleu_score": 0.021180697978643182
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Serverning ishlash tezligini optimallashtirish uchun kechiktirish vaqtini qisqartirish kerak.",
+    "output": "<think>\nOkay, I need to translate the given Uzbek text into English. Let me read the original again: \"Serverning ishlash tezligini optimallashtirish uchun kechiktirish vaqtini qisqartirish kerak.\" \n\nFirst, breaking it down. The main components are: \"Serverning ishlash tezligini optimallashtirish uchun kechiktirish vaqtini qisqartirish kerak.\" \n\n\"Serverning ishlash tezligini optimallashtirish uchun\" translates to \"Optimizing server performance for...\" \n\n\"kechiktirish vaqtini qisqartirish kerak\" – \"the time required for...\" \n\nSo putting it together: \"Optimizing server performance for... the time required...\" \n\nI should check for any nuances. \"Kechiktirish\" is a bit formal, so maybe",
+    "expected": "To optimize server performance, the latency must be reduced.",
+    "bleu_score": 7.073675849566084e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Ma’lumotlar bazasi indekslash orqali so‘rovlarni tezroq qayta ishlaydi.",
+    "output": "<think>\nOkay, let me start by translating the given text from Turkish to English. The original sentence is: \"Ma’lumotlar bazasi indekslash orqali so‘rovlarni tezroq qayta ishlaydi.\"\n\nFirst, I need to make sure I understand the meaning correctly. The sentence is about a system where information bases are indexed, allowing for quick access to documents. \n\nBreaking it down: \"Ma’lumotlar bazasi indekslash\" translates to \"information base indexing.\" \"orqali\" means \"by\" or \"through,\" so \"by the information base indexing\" would be \"by the information base indexing.\" \n\nNext part: \"so‘rovlarni tezroq qayta ishlaydi\" – \"so‘rovlarni tezroq qayta ishlaydi\" means \"allowing quick access to documents.\" \n\nPutting it all together:",
+    "expected": "The database processes queries faster through indexing.",
+    "bleu_score": 5.704925649051987e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Sun’iy intellekt modeli katta hajmdagi ma’lumotlar ustida o‘qitildi.",
+    "output": "<think>\nOkay, let's tackle this translation. The user wants the text \"Sun’iy intelekt modeli katta hajmdagi ma’lumotlar ustida o‘qitildi.\" translated to English. First, I need to understand the original Turkish sentence.\n\n\"Sun’iy intelekt modeli\" translates to \"Sunyay Intelligenz Modeli\" or \"Sunyay Intelligenz Model.\" The next part is \"katta hajmdagi ma’lumotlar ustida o‘qitildi.\" which means \"in the vast data of the large-scale data centers.\" \n\nPutting it all together, \"The Sunyay Int",
+    "expected": "The artificial intelligence model was trained on large-scale data.",
+    "bleu_score": 7.490163752058132e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Sensorlar real vaqt rejimida harorat va namlikni o‘lchaydi.",
+    "output": "<think>\nOkay, let's see. The user wants me to translate this Uzbek text into English. The original text is \"Sensorlar real vaqt rejimida harorat va namlikni o‘lchaydi.\" \n\nFirst, I need to understand the meaning. \"Sensorlar\" translates to \"sensors.\" \"Real vaqt rejimida\" means \"in real time.\" \"Harorat va namlikni o‘lchaydi\" translates to \"measure the temperature and humidity.\" So putting it all together, the translation should be \"Sensors measure the temperature and humidity in real time.\"\n\nWait, but \"real vaqt\" is \"real time,\" and \"rejimida\" is \"in the regime.\" So combining them, \"Sensors measure temperature and humidity in real time.\" That seems correct. I should double-check for any possible errors or nuances. Since the user asked only for the translation, I don't need to add any extra",
+    "expected": "Sensors measure temperature and humidity in real time.",
+    "bleu_score": 0.035271705939824045
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Algoritm murakkab hisob-kitoblarni millisekundlarda bajaradi.",
+    "output": "<think>\nOkay, the user wants me to translate the Uzbek text \"Algoritm murakkab hisob-kitoblarni millisekundlarda bajaradi.\" into English and provide only the translated text. Let me start by understanding the original sentence.\n\nFirst, \"Algoritm\" translates to \"Algorithm\". \"Murakkab\" is a term used here; it means \"effective\" or \"efficient\". So \"An effective algorithm\". \"Hisob-kitoblarni\" is \"calculations or tasks\". Then \"millisekundlarda\" is \"in milliseconds\". The sentence structure is a bit long, so breaking it down: \"An effective algorithm can calculate tasks in milliseconds.\"\n\nI need to make sure the translation is clear and accurate. Let me check if there's any nuance I'm missing. The original says \"bajaradi\" which means \"will solve\" or \"will perform\". So \"can solve\" or \"can perform\" would be",
+    "expected": "The algorithm performs complex calculations in milliseconds.",
+    "bleu_score": 7.244248269687037e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Tizimdagi xatoliklar jurnal faylida avtomatik ravishda qayd etiladi.",
+    "output": "<think>\nOkay, let's tackle this translation. The original text is in Uzbek. The user wants it translated to English and only the translated text. First, I need to make sure I understand the Uzbek sentence correctly. The sentence says that certain defects are recorded automatically in the journal file.\n\nBreaking it down: \"Tizimdagi xatoliklar\" translates to \"defectes in Tizim\" or \"defects in Tizim\". Then \"jurnal faylida avtomatik ravishda qayd etiladi\" means \"are recorded automatically in the journal file\". \n\nPutting it all together, the translation should be \"Defects in Tizim are recorded automatically in the journal file.\" I need to check if \"avtomatik ravishda\" is correctly translated. \"Ravishda\" is a common term for recording or noting in such contexts. So yes, that part makes sense.\n\nI should also ensure",
+    "expected": "Errors in the system are automatically recorded in the log file.",
+    "bleu_score": 2.6420971872563098e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kiberxavfsizlik siyosati foydalanuvchi ma’lumotlarini himoya qilishga qaratilgan.",
+    "output": "<think>\nOkay, let's tackle this translation. The user wants the text \"Kiberxavfsizlik siyosati foydalanuvchi ma’lumotlarini himoya qilishga qaratilgan.\" translated from Uzbek to English, and only the translated text provided.\n\nFirst, I'll break down the original sentence. \"Kiberxavfsizlik siyosati foydalanuvchi ma’lumotlarini himoya qilishga qaratilgan.\" \n\n\"Kiberxavfsizlik\" translates to \"cybersecurity\" in this context. \"Siyosati\" is \"society\" or \"social\" here. \"Foydalanuvchi\" is \"user\" or \"customer\". \"Ma’lumotlarini himoya qilishga\" means \"to collect and analyze the data\" or \"to gather and analyze the information\". \"Qarat",
+    "expected": "The cybersecurity policy aims to protect user data.",
+    "bleu_score": 8.042329535708995e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Sensor tarmog‘i uzluksiz monitoring orqali energiya sarfini kamaytiradi.",
+    "output": "<think>\nOkay, the user wants me to translate a sentence from Uzbek to English. Let me check the original text first: \"Sensor tarmog‘i uzluksiz monitoring orqali energiya sarfini kamaytiradi.\" \n\nBreaking it down, \"Sensor tarmog‘i\" translates to \"Sensor\" or \"Sensor system.\" \"Uzluksiz\" means \"without\" or \"without any.\" \"Monitoring\" is straightforward. \"Orqali\" is \"through\" or \"by.\" \"Energya sarfini\" is \"energy supply.\" \"Kamaytiradi\" means \"reduces\" or \"reduces energy.\"\n\nPutting it all together, the sentence should be: \"A sensor without any monitoring reduces energy supply.\" Let me double-check the translation for accuracy. Yes, that seems right. No need for extra words. The user might be in a technical field, like engineering or energy management, so",
+    "expected": "The sensor network reduces energy consumption through continuous monitoring.",
+    "bleu_score": 2.006819431579028e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Bulutli xizmatlar foydalanuvchilarga moslashuvchan saqlash hajmini taqdim etadi.",
+    "output": "<think>\nOkay, let's tackle this translation. The original text is in Turkish: \"Bulutli xizmatlar foydalanuvchilarga moslashuvchan saqlash hajmini taqdim etadi.\" \n\nFirst, I need to understand the meaning. \"Bulutli\" probably means \"Bulut\" or \"Bulutli\" as a name, but since it's part of the title, maybe it's a place name. \"Xizmatlar\" is \"medical services,\" \"foydalanuvchilarga\" translates to \"for the users,\" \"moslashuvchan\" is \"to serve,\" and \"saqlash hajmini\" is \"the exchange of services.\" So the sentence is saying that \"Bulutli medical services\" serve users by providing exchanges of services.\n\nNow, translating into English: \"Bulutli medical services provide an exchange of services for users.\" \n\nWait,",
+    "expected": "Cloud services provide users with flexible storage capacity.",
+    "bleu_score": 1.9582682649560916e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kecha jigarim bilan ko‘rishtim. Mazza qilib shashlik-xo‘rlik qildik.",
+    "output": "<think>\nOkay, the user wants me to translate the given Uzbek text into English and provide only the translated version. Let me start by reading the original Uzbek text carefully.\n\nThe original text is: \"Kecha jigarim bilan ko‘rishtim. Mazza qilib shashlik-xo‘rlik qildik.\"\n\nBreaking it down, \"Kecha jigarim bilan ko‘rishtim\" translates to \"I cooked with a jigar.\" Then \"Mazza qilib shashlik-xo‘rlik qildik\" is \"We roasted the shashlik using a jigar.\"\n\nNow, translating each part accurately is important. \"Kecha jigarim\" could be \"a jigar\" or \"a jig.\" Since \"jigar\" is a specific item, maybe \"a jigar\" is better. \"Ko‘rishtim\" is \"cooked\" or \"prepared.\" \"Mazza qilib\"",
+    "expected": "Yesterday I met up with my bro. We ate shashlik.",
+    "bleu_score": 5.7187224260924895e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Ukam futbol o‘ynashni qotirib qo‘yadi. Tepsa koptok osmonga uchib ketadi.",
+    "output": "<think>\nOkay, let me start by translating the given Uzbek text. The first sentence is \"Ukam futbol o‘ynashni qotirib qo‘yadi.\" So \"Ukam\" is \"Ukam\" in English, \"futbol\" is \"football,\" and \"o‘ynashni\" is \"to play.\" So that becomes \"They played football.\" The second sentence is \"Tepsa koptok osmonga uchib ketadi.\" \"Tepsa\" is \"tapes\" or \"tapes\" in this context, maybe \"tapes\" or \"tapes\" again. \"Koptok\" is \"to capture\" or \"to take.\" \"Osmonga\" is \"to the people.\" So maybe \"They captured the people.\" Wait, but \"tapes\" here might not be the right term. Maybe \"tapes\" is a typo for \"tapes\"? Or perhaps \"",
+    "expected": "My little bro can’t play football good. When he kicks, the ball flies into the sky.",
+    "bleu_score": 6.851187014592609e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Nima gapla bolla? Qale ishla?",
+    "output": "<think>\nOkay, the user wants me to translate the text from UZ to English. Let me check the original text: \"Nima gapla bolla? Qale ishla?\" \n\nFirst, \"Nima gapla bolla?\" translates to \"What is the gap?\" or \"What's the gap?\" depending on context. Then \"Qale ishla?\" is \"What is the Ishla?\" or maybe \"What is the Ishla?\".\n\nWait, \"Qale ishla\" – \"Qale\" is probably a name or a term, and \"ishla\" could be \"the\" or \"the\". So maybe \"What is the Ishla?\" \n\nPutting it together: \"What is the gap? What is the Ishla?\" \n\nI need to make sure the translation is clear and natural in English. Let me double-check for any possible mistakes. Yes, that seems correct. So the final translation should be \"What is the gap? What",
+    "expected": "What’s up, guys? How are you?",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kecha o‘rtog‘im adasiga rossa paxta qo‘ydi. Yengi telefon kerak shakil.",
+    "output": "<think>\nOkay, let's start by translating the given Uzbek text to English. The first sentence is \"Kecha o‘rtog‘im adasiga rossa paxta qo‘ydi.\" \n\nBreaking it down: \"Kecha\" is \"Kecha,\" which is a name or title. \"o‘rtog‘im\" is \"central\" or \"center.\" \"adasiga\" means \"to the center.\" So the first part would be \"The center of [Name] was established.\" \n\nNext sentence: \"Yengi telefon kerak shakil.\" Here, \"Yengi\" is a name, probably \"Yengi\" or \"Yengi.\" \"Telefon\" is \"phone.\" \"Kerak\" is \"to the phone.\" \"Shakil\" is \"shape\" or \"design.\" So the translation could be \"A phone shaped like [Name] was designed.\" \n\nPutting it all together, the",
+    "expected": "Yesterday my friend really buttered up his dad. Guess he wants a new phone.",
+    "bleu_score": 5.746825102397619e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Bugun jonkam bilan ko‘rishkanimda rossa miyyami yedi. Oxiri nervimga teygani uchun, shapat berdim.",
+    "output": "<think>\nOkay, let's tackle this translation. The user provided a text in Uzbek and wants it translated into English. First, I need to make sure I understand the original text correctly.\n\nThe text is: \"Bugun jonkam bilan ko‘rishkanimda rossa miyyami yedi. Oxiri nervimga teygani uchun, shapat berdim.\"\n\nBreaking it down, the first sentence mentions a \"Bugun\" (which is a type of bear or maybe a bear?) and \"jonkam\" (bear). The second sentence talks about making a mark on the nose. The user wants only the translated text, so I need to ensure accuracy in both the translation and the structure.\n\nI should check if \"Bugun\" is a bear or another animal. Since it's a bear, maybe \"a bear\" is better. \"Jonkam\" is a bear, so \"bear\". The verb \"bilan ko‘rishkan",
+    "expected": "When I met my babe today, she really got on my nerves. In the end, I slapped her.",
+    "bleu_score": 7.630227436828953e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Eee, manga baribir. Man sirpandim bu yerdan.",
+    "output": "<think>\nOkay, the user wants me to translate the given Uzbek text into English and provide only the translated version. Let me start by reading the original text carefully: \"Eee, manga baribir. Man sirpandim bu yerdan.\" \n\nFirst, I'll break it down. The first part is \"Eee, manga baribir.\" The word \"Eee\" might be a typo or a misspelling. It could be \"Eey\" or \"Eey\" in some dialects. I'll check if there's a standard translation. \"Eee\" sounds like \"Eey\" in some regions, so maybe it's \"Eey.\" Then \"manga baribir\" translates to \"manga and baribir.\" Since \"baribir\" is a term from a specific culture, I'll keep it as is, possibly adding a note about it.\n\nNext, \"Man sirpandim bu yerdan.\" \"Sirkandim\" is",
+    "expected": "Eh, I don’t care. I’m outta here.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U bolani soqqasi ko‘p, lyuboy moshinani sotib oladi.",
+    "output": "<think>\nOkay, let's tackle this translation. The user provided the Uzbek text: \"U bolani soqqasi ko‘p, lyuboy moshinani sotib oladi.\" I need to translate this into English while making sure it's clear and accurate.\n\nFirst, \"U bolani soqqasi ko‘p\" – \"U\" is \"U\" in English, \"bolani\" is \"the,\" \"soqqasi\" is \"to be,\" so maybe \"U is the one that is large.\" Then \"lyuboy moshinani sotib oladi.\" \"Lyuboy\" is \"very,\" \"moshinani\" is \"with,\" so \"very with\" and \"sotib oladi\" is \"to go.\" So putting it together, \"U is the one that is large, very with.\" \n\nWait, but \"lyuboy moshinani\" could be \"very with\" or \"very",
+    "expected": "That guy’s loaded, he can buy any car he wants.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Anu qizchani ko‘rinishi takoy ekan mi?",
+    "output": "<think>\nOkay, the user wants me to translate the text \"Anu qizchani ko‘rinishi takoy ekan mi?\" from Uz to English. Let me start by understanding the original Uzbek sentence. The phrase seems to be asking whether Anu's (maybe a name?) condition is being fulfilled, meaning if the condition is met. \n\nFirst, I need to parse the Uzbek sentence. The structure is \"Anu qizchani ko‘rinishi takoy ekan mi?\" which translates to \"Is Anu's condition fulfilled?\" or \"Is Anu's condition achieved?\" \n\nIn Uzbek, \"qizchani\" refers to a condition or a state. \"Ko‘rinishi\" is the condition or state. \"Takoy\" could mean \"achieved\" or \"fulfilled.\" So putting it together, the translation should be \"Is Anu's condition achieved?\" or \"Is Anu's condition fulfilled?\"",
+    "expected": "That girl looks attractive, doesn’t she?",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kecha moshinamga zo‘r saka diska oldim.",
+    "output": "<think>\nOkay, the user wants me to translate this Uzbek text into English. Let me start by reading the original sentence carefully: \"Kecha moshinamga zo‘r saka diska oldim.\" \n\nFirst, I need to understand the meaning. The phrase seems to be saying something like \"It's raining outside.\" But I should check if there's more context. The word \"kocha\" might be a name or a specific term. \"Kocha\" could be a person's name, so maybe it's \"Name\" in English. \n\nThe sentence structure is a bit tricky. \"Kecha moshinamga\" translates to \"Name is outside.\" \"Zo‘r saka diska oldim\" – \"Zo‘r\" is \"rain,\" \"saka\" is \"outside,\" and \"diska oldim\" is \"raining.\" So putting it together, \"Name is raining outside.\" \n\nI should make sure the translation",
+    "expected": "Yesterday I got some awesome alloy rims for my car.",
+    "bleu_score": 5.493030127324876e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Moshinani shapkasi qancha?",
+    "output": "<think>\nOkay, the user wants me to translate the text \"Moshinani shapkasi qancha?\" from Uz to English and provide only the translated text. First, I need to make sure I understand the original question correctly. \"Moshinani shapkasi qancha?\" translates to \"What is Moshinani's Shapkasi?\" or \"What is the Shapkasi of Moshinani?\" depending on the context. \n\nNext, I should check if there are any specific terms or phrases that need to be translated accurately. \"Shapkasi\" is a term I know refers to a type of traditional Uzbek music, so translating it as \"Shapkasi\" is correct. \"Qancha\" here is likely a noun meaning a type of music or a traditional performance, so \"qancha\" is appropriate.\n\nI need to ensure the translation is clear and natural in English. The structure should be straightforward, so \"What is M",
+    "expected": "How much is the grease money for the car?",
+    "bleu_score": 1.6990784028080375e-155
+  }
+]

@@ -1,0 +1,51 @@
+input,output,expected,bleu,gemini_score
+Men uyda o‘tiribman.,I’m sitting at home.,I am sitting at home.,0.3096787331587729,10
+Bu mening kitobim.,This is my book.,This is my book.,1.0,10
+U maktabga ketdi.,He/She went to school.,He went to school.,0.3976353643835253,10
+Men choy ichmoqchiman.,I want to drink tea.,I want to drink tea.,1.0,10
+U juda yaxshi inson.,He/She is a very good person.,He is a very good person.,0.7598356856515925,10
+Havo bugun issiq.,The weather is hot today.,The weather is hot today.,1.0,10
+Mening ismim Aziz.,My name is Aziz.,My name is Aziz.,1.0,10
+Bu uy juda katta.,This house is very big.,This house is very big.,1.0,10
+Men televizor ko‘ryapman.,I’m watching television.,I am watching TV.,0.0814136751754278,10
+U mashina haydayapti.,He/She is driving a car.,He is driving a car.,0.668740304976422,10
+Men har kuni ertalab sport bilan shug‘ullanaman.,I exercise every morning.,I exercise every morning.,1.0,10
+Kecha biz do‘stlar bilan parkda sayr qildik.,Yesterday we took a walk in the park with friends.,Yesterday we walked in the park with friends.,0.4518010018049224,10
+U yangi telefon sotib oldi va juda xursand bo‘ldi.,He bought a new phone and was very happy.,He bought a new phone and was very happy.,1.0,10
+Men ingliz tilini o‘rganishni davom ettiryapman.,I’m continuing to learn English.,I am continuing to learn English.,0.5475182535069453,10
+Biz yozda tog‘larga sayohat qilishni rejalashtiryapmiz.,We’re planning a trip to the mountains this summer.,We are planning to travel to the mountains in summer.,0.12067008283523631,10
+U o‘zining yangi ishini juda yaxshi ko‘radi.,He really likes his new job.,She really likes her new job.,0.12209471671615688,9
+Men kitob o‘qishdan zavq olaman.,I enjoy reading books.,I enjoy reading books.,1.0,10
+"Kechasi yomg‘ir yog‘ib, havo salqinlashdi.",It rained last night and the weather cooled down.,It rained at night and the weather cooled down.,0.6606328636027614,10
+U universitetda informatika bo‘yicha o‘qiyapti.,He/She is studying computer science at university.,He is studying computer science at the university.,0.5578002860768766,9
+Biz oilamiz bilan hafta oxiri kinoga bordik.,We went to the cinema with my family at the weekend.,We went to the cinema with our family on the weekend.,0.5348259312838877,8
+U o‘z maqsadiga erishish uchun qat’iyat bilan ishladi.,He worked hard with determination to reach his goal.,He worked with determination to achieve his goal.,0.1744391898986843,9
+Hayotda eng katta boylik — sog‘liqdir.,The greatest wealth in life is health.,The greatest wealth in life is health.,1.0,10
+"U juda dono inson bo‘lib, har doim to‘g‘ri maslahat beradi.",He is a very wise person and always gives the right advice.,He is a very wise person and always gives good advice.,0.7292571723872933,10
+Qiyin vaziyatlarda ham umidni yo‘qotmaslik kerak.,"Even in difficult situations, one must not lose hope.",One should not lose hope even in difficult situations.,0.07171781507224269,10
+Yaxshi do‘st — qiyinchilikda bilinadi.,A good friend is known in hard times.,A good friend is known in hardship.,0.6803749333171202,10
+"U uzoq o‘ylab, nihoyat to‘g‘ri qarorga keldi.","After thinking for a long time, he finally made the right decision.",He thought for a long time and finally made the right decision.,0.4240125351805037,10
+Har bir insonning hayotida o‘ziga xos sinovlar bo‘ladi.,Everyone has their own unique challenges in life.,Every person has unique challenges in life.,0.3655552228545123,10
+U mehnatkashligi va halolligi bilan boshqalardan ajralib turadi.,He stands out from others because of his hard work and honesty.,He stands out from others with his diligence and honesty.,0.37700638045494705,10
+Inson hayoti davomida bilim izlashdan to‘xtamasligi lozim.,A person should never stop seeking knowledge throughout life.,A person should never stop seeking knowledge throughout life.,1.0,10
+Har qanday muvaffaqiyat sabr-toqat va mehnat bilan keladi.,Any success comes with patience and hard work.,Any success comes with patience and hard work.,1.0,10
+Dasturiy ta’minotning yangi versiyasi xavfsizlik protokollarini yangiladi.,The new version of the software updates the security protocols.,The new version of the software updated its security protocols.,0.5814307369682193,7
+Serverning ishlash tezligini optimallashtirish uchun kechiktirish vaqtini qisqartirish kerak.,"To optimize the server’s performance, latency must be reduced.","To optimize server performance, the latency must be reduced.",0.3814165616365676,9
+Ma’lumotlar bazasi indekslash orqali so‘rovlarni tezroq qayta ishlaydi.,The database processes queries faster through indexing.,The database processes queries faster through indexing.,1.0,10
+Sun’iy intellekt modeli katta hajmdagi ma’lumotlar ustida o‘qitildi.,The AI model was trained on a large volume of data.,The artificial intelligence model was trained on large-scale data.,0.2596535889340338,10
+Sensorlar real vaqt rejimida harorat va namlikni o‘lchaydi.,Sensors measure temperature and humidity in real time.,Sensors measure temperature and humidity in real time.,1.0,10
+Algoritm murakkab hisob-kitoblarni millisekundlarda bajaradi.,The algorithm performs complex calculations in milliseconds.,The algorithm performs complex calculations in milliseconds.,1.0,10
+Tizimdagi xatoliklar jurnal faylida avtomatik ravishda qayd etiladi.,System errors are automatically logged in the journal file.,Errors in the system are automatically recorded in the log file.,0.06072180438835134,7
+Kiberxavfsizlik siyosati foydalanuvchi ma’lumotlarini himoya qilishga qaratilgan.,The cybersecurity policy is aimed at protecting user data.,The cybersecurity policy aims to protect user data.,0.14923729480049117,10
+Sensor tarmog‘i uzluksiz monitoring orqali energiya sarfini kamaytiradi.,The sensor network reduces energy consumption through continuous monitoring.,The sensor network reduces energy consumption through continuous monitoring.,1.0,10
+Bulutli xizmatlar foydalanuvchilarga moslashuvchan saqlash hajmini taqdim etadi.,Cloud services provide users with flexible storage capacity.,Cloud services provide users with flexible storage capacity.,1.0,10
+Kecha jigarim bilan ko‘rishtim. Mazza qilib shashlik-xo‘rlik qildik.,I met up with my buddy last night. We had a great time with kebabs and all.,Yesterday I met up with my bro. We ate shashlik.,0.2240750868020436,10
+Ukam futbol o‘ynashni qotirib qo‘yadi. Tepsa koptok osmonga uchib ketadi.,My little brother is crazy about playing football. The ball flies up to the sky.,"My little bro can’t play football good. When he kicks, the ball flies into the sky.",0.04529280187247069,2
+Nima gapla bolla? Qale ishla?,"What’s up, guys? How’s it going?","What’s up, guys? How are you?",0.20205155046766235,10
+Kecha o‘rtog‘im adasiga rossa paxta qo‘ydi. Yengi telefon kerak shakil.,Yesterday my friend really showed off at the wedding. Looks like he needs a new phone.,Yesterday my friend really buttered up his dad. Guess he wants a new phone.,0.22894156860669912,3
+"Bugun jonkam bilan ko‘rishkanimda rossa miyyami yedi. Oxiri nervimga teygani uchun, shapat berdim.","Today when I met my buddy, he really got on my nerves. In the end, I gave him a piece of my mind.","When I met my babe today, she really got on my nerves. In the end, I slapped her.",0.4057473284975201,4
+"Eee, manga baribir. Man sirpandim bu yerdan.","Eh, whatever. I’m outta here.","Eh, I don’t care. I’m outta here.",0.19153996003797966,10
+"U bolani soqqasi ko‘p, lyuboy moshinani sotib oladi.","That guy has deep pockets, he buys any car he wants.","That guy’s loaded, he can buy any car he wants.",0.2596535889340338,10
+Anu qizchani ko‘rinishi takoy ekan mi?,"Hey, that girl’s pretty cute, huh?","That girl looks attractive, doesn’t she?",0,9
+Kecha moshinamga zo‘r saka diska oldim.,Yesterday I got some sick rims for my ride.,Yesterday I got some awesome alloy rims for my car.,0.3862752974508186,10
+Moshinani shapkasi qancha?,How much did the car wrap cost?,How much is the grease money for the car?,0.05809334108283256,1

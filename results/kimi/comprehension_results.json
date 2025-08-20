@@ -1,0 +1,89 @@
+[
+{
+    "ouput": "Pompey shahrining vulqon kuli ostida ajoyib saqlanib qolishi bizga Rim davri hayotini “vaqt mozaikasi” sifatida ko‘rsatdi. Vulqon kuli shaharni bir zumda qamrab, turar-joy, bozor, choyxona va ibodatxonalarini shunday holatda saqlab qoldiki, arxeologlar har bir hona, surat va buyumlarni tirik hayotning to‘xtab qolgan kadriga aylanishi kabi o‘rganish imkoniga ega bo‘ldi. Bu hodisa tarixni “to‘liq saqlagan” tabiat hodisasi sifatida ochib beradi: vulqon o‘zi halokat keltirgan bo‘lsa-da, uning kuli Rim madaniyati va kun-tun turmushini yuzma-yuz ko‘rsatib beruvchi tarixiy oyna sifatida xizmat qiladi.",
+    "expected:": "Tez ko‘milish artefaktlar va tuzilmalarni saqlab qoldi, Rim hayotini ochib berdi, lekin birdaniga sodir bo‘lgan o‘limlar hodisaning fojiali tezligini ko‘rsatadi."
+},
+{
+    "ouput": "Kvant o‘zaro bog‘lanishi klassik fizikadagi “lokalizm” (ta’sir faqat mahalliy bo‘lishi) va “aniqlik” (zarra holati oldindan aniqlanishi) prinsiplariga to‘g‘ri zid keladi. Klassik tasavvurda bir zarra holati boshqa zarraga masofadan darhol ta’sir qilishi mumkin emas, lekin kvant bog‘lanishda birining o‘lchanishi boshqasining holatini darhol aniqlaydi — bu Eynshteyn “masofadagi sirli harakat” deb atagan hodisa. Ilmiy ilovalari: kvant kriptografiya (xavfsiz aloqa), kvant hisoblash (parallel hisoblashlar), teleportatsiya va kvant sensorlar (yuqori aniqlikdagi o‘lchovlar).",
+    "expected:": "U masofada bir zumda ta’sir qilish orqali ma’lumotning yorug‘likdan tez yurishi mumkin emasligi haqidagi tushunchaga zid keladi; ilovalari xavfsiz aloqa va kvant hisoblashni o‘z ichiga oladi."
+},
+{
+    "ouput": "Gamletning “soxta jinnilik” (aqldan ozgandek ko‘rsatish) syujetda ikki darajada psixologik manipulyatsiya vositasi bo‘lib ishlaydi: bir tomondan, u Podshoh Klaudiyusni o‘zini ochiqcha tekshirayotganidan xabardor qilmaydi, shunday qilib, Klaudiyusning reaksiyasi orqali o‘z aybini fosh qiladi; ikkinchi tomondan, Gamlet o‘z ichki kechinmalarini (otasi qatli, ayol onasining xiyonati) “oqibat” sifatida yashiradi, bu esa uning haqiqiy psixologik holatini yashirishga yordam beradi. Shunday qilib, “jinnilik” syujetda maxfiy tergov va ichki qiyinchilikni birgalikda ko‘rsatuvchi maska sifatida ishlaydi.",
+    "expected:": "Bu unga shubhasiz boshqalarni sinash, podshohning aybini tasdiqlash va intiqom yo‘lida tartibsizlik yaratish imkonini beradi."
+},{
+    "ouput": "Qutb muzliklarining tez-tez erishi global ekologik beqarorlikka uchta asosiy ta’sir ko‘rsatadi: (1) dengiz sathi tez ko‘tarilib, qishloq-joy va infratuzilmalarni suvdan qolgan xavf ostiga qo‘yadi; (2) okean oqimlari va atmosfera aylanishlari buzilib, ekstremal issiq-sovuq, qurg‘oqchilik va yomg‘irli holatlar ko‘payadi; (3) biomaxalliy turli hayvon va o‘simlik turlari uchun yashash muhiti o‘zgaradi, bu esa oziq-ruh zanjirlarining buzilishi va ekologik tizimlarning barqarorligiga zarba beradi.",
+    "expected:": "Dengiz sathining ko‘tarilishi, ekotizimlarning buzilishi va ob-havo o‘zgarishi iqlim isishini kuchaytiradi."
+},{
+    "ouput": "Sanoat inqilobi iqtisodiy jihatdan ishlab chiqarishni mehanizatsiya qilib, ishchi sinfini yaratdi, mahsulot hajmini oshirdi va global savdoni kengaytirdi; ijtimoiy jihatdan esa shaharlarning tez o‘sishi, jamiyat tabaqalashtirilishi (ishchi va burjuaziya), va ekologik ifloslanish (havo, suv, shovqin) bilan birga, keyinchalik mehnat huquqi, jamoat sog‘ligi va ta’lim tizimlarini takomillashtirishga olib keldi. Demak, u iqtisodiy barqarorlik va ijtimoiy muammolar ikki yo‘naltirilgan jarayon bo‘ldi.",
+    "expected:": "Iqtisodiy o‘sish va ixtirolarni rag‘batlantirdi, lekin yomon ish sharoitlari, bolalar mehnati va shahar muammolarini keltirib chiqardi."
+},{
+    "ouput": "Fotosintez samaradorligi (masalan, C3, C4, CAM o‘simliklarining farqi) global uglerod aylanishida muhim ro‘l o‘ynaydi: samaradorlik oshgan sayin o‘simliklar ko‘proq CO₂ ni ozmoqda ushlab qoladi, bu esa atmosferadagi CO₂ miqdorini kamaytiradi va global issiqlikni sezilarli darajada tormozlaydi. Aksincha, samaradorlik pasaygan sayin CO₂ ortib, issiqxona ta’siri kuchayadi. Shunday qilib, fotosintez samaradorligi “karbon balansi”ni yurituvchi biologik kalitdir.",
+    "expected:": "U CO2 ni kamaytirib, iqlimni tartibga soladi; samarasizlik uglerod balansini buzadi."
+},{
+    "ouput": "Blokcheyn markazlashmaganligi bilan tranzaksiyalarni ochiq, o‘zgartirishsiz va ishonchli qiladi, lekin yuqori energiya sarfi (Proof-of-Work) va miqyoslashuv (shartli “trilemma”: decentralizatsiya, xavfsizlik, tezlik) cheklovlar mavjud. Bu muvozanatni topish uchun yangi konsensus mexanizmlari (Proof-of-Stake, sharding) va ikki darajali (Layer-2) yechimlar ishlab chiqilmoqda. Natijada, markazlashmaganlik afzalligi saqlanib, energiya va tezlik muammolari yumshatilmoqda.",
+    "expected:": "Markazlashmaganlik xavfsizlikni oshiradi, lekin energiya sarfi va tranzaksiya tezligi keng qo‘llanilishni cheklaydi"
+},{
+    "ouput": "Tabiiy tanlanish turlarning turli muhitlarda yashash, ko‘payish va o‘z genetik xususiyatlarini avlodga o‘tkazish natijasida “eng yaxshi moslashgan” turlarning qolishini tushuntiradi. Bu jarayon bioxilmaxillikni (genetik turli holatlar) yaratadi, chunki har bir muhit turli genetik kombinatsiyalarni “sinaydi”. Tanqidlari: (1) diniy qarashlar (yaratilish nazariyasi), (2) “to‘liq” arxeologik fosillar yetishmasligi, (3) murakkab a’zolar (ko‘z, qanat) bosqichma-bosqich evolyutsiyasi tushunarsizligi. Biroq, genetika va fosillar yangi dalillar bilan tanqidlarni kamaytirmoqda.",
+    "expected:": "Omon qolishga yordam beradigan xususiyatlarni targ‘ib qiladi; tanqidlar fossillarning yetishmasligi va murakkablikni o‘z ichiga oladi."
+},{
+    "ouput": "Renessans davrida bosmaxona ixtirosi klassik bilimlarni (Yunon va Rim adabiyoti, falsafa, fan) ko‘paytirib, Evropada bilim tarqalishini tezlashtirdi. Bu texnologik yutuqlar (lineyni bosmaxona, chizmachilik, geografik kashfiyotlar) madaniy o‘zgarishlarga olib keldi: (1) odamlar o‘z fikrlarini ochiq ifodalay boshladi, (2) fan va san’atda inson markazli (humanizm) tamoyil o‘rni o‘zgardi, (3) davlat va din tizimlariga yangi tanqidiy yondashuvlar paydo bo‘ldi. Natijada, Renessans “yangi zamon” boshlanishi uchun texnologik va madaniy zamin yaratdi.",
+    "expected:": "Bosmaxona bilimni ommalashtirdi, humanizm va ilmiy izlanishlarni rag‘batlantirdi."
+},{
+    "ouput": "Chuqur o‘qitish (deep learning) katta hajmdagi ma’lumotlar va yuqori hisoblash quvvatini (GPU, TPU klasterlari) talab qiladi. Bu talab AI rivojlanishiga ikki yo‘naltirilgan ta’sir ko‘rsatadi: (1) ijobiy — hisoblash infratuzilmasi (bulutli servislar, maxsus chiplar) tez rivojlanmoqda, bu esa murakkab model va ilovalarni (tabobat, avtonom transport) imkoniyatini kengaytiradi; (2) salbiy — katta energiya va moliyaviy xarajatlar tufayli kichik kompaniyalar va tad",
+    "expected:": "Yuqori talablar faqat resursli tashkilotlarga imkon beradi, tengsizlikni oshiradi."
+},{
+    "ouput": "Fransiya inqilobining boshlang‘ich mafkuraviy asoslari — ozodlik, tenglik, birodarlik — monarxiyani ag‘darish bilan birga, terror hukmronligi (Yakobinlar) va keyinchalik Napoleonning avtoritar rejimiga aylandi. “Xalq suverenligi” g‘oyasi Robespier va Napoleon qo‘lida “xalq nomidan” qat’i nazorat va repressiyalarga aylangan. Demokratik g‘oyalar amalda avtoritar boshqaruvga yo‘l ochdi.",
+    "expected:": "Ozodlik g‘oyalari islohotlarni boshladi, lekin qo‘rquv terrorga, keyin diktaturaga olib keldi."
+},{
+    "ouput": "Qora tuynukning ma’lumot yo‘qotish paradoksi: ichkariga tushgan narsa ma’lumotni yo‘qotadi, chunki hech narsa (hatto yorug‘lik ham) qaytib chiqmaydi. Xoking nurlanishi (Hawking radiation) esa tuynuk chetida virtual zarralar hosil bo‘lib, biri ichkariga tushadi, biri tashqariga chiqadi. Tashqariga chiqgan zarra energiya olib chiqadi, bu esa tuynuk massasini kamaytiradi va ma’lumotni “bosib” chiqaradi — paradoks hal bo‘ladi.",
+    "expected:": "Paradoks ma’lumotning yo‘q qilinishi kvant mexanikasiga zid; Xoking nurlanishi ma’lumotni qaytarishni taklif qiladi."
+},{
+    "ouput": "Ijtimoiy normalar (sinf farqi, nikoh iqtisodiy manfaat asosida bo‘lishi) Elizabet Bennetni boshlang‘ichda Darsi bilan uchrashishiga to‘sqinlik qiladi. Uning motivatsiyasi — muhabbat va hurmatga erishish — ijtimoiy rejalarga zid keladi. Elizabet o‘z qadriyatlariga sodiq qolish orqali ijtimoiy normalarni buzadi va haqiqiy tenglik va sevgi asosida nikoh quradi.",
+    "expected:": "Sinfi va jins normalari nikohni majburlaydi, lekin shaxsiy o‘sish xurofotlarni yengadi."
+},{
+    "ouput": "Qayta tiklanadigan energiya uzluksizligini ta’minlash uchun quyidagi strategiyalar mavjud:  \n- Aqlli tarmoqlar (smart grids) — iste’mol va yetkazib berishni real vaqtda moslashtiradi.  \n- Batareya va boshqa saqlash tizimlari (lithium-ion, havo, suv, gravitasiya) — ortiqcha energiyani saqlab, kerak bo‘lganda chiqaradi.  \n- Turli manbalarni integratsiya qilish (quyosh, shamol, suv) — bir manba uzilsa, boshqasi bilan almashtiradi.  \n- Prognoz va boshqaruv tizimlari — ob-havo ma’lumotlari asosida iste’molni oldindan rejalashtiradi.",
+    "expected:": "Batareyalar, diversifikatsiya va aqlli tarmoqlar talab-ta’minotni muvozanatlashtiradi."
+},{
+    "ouput": "Vakolatli urushlar (proxy wars) Sovuq urush davomida AQSh va SSSR o‘rtasida to‘g‘ridan-to‘g‘ri urush o‘rniga, uchinchi davlatlar (Vetnam, Afg‘oniston, Kuba) orqali olib borildi. Bu urushlar qurol poygasini kuchaytirdi, iqtisodiy bosim oshirdi, ikkala tomonning kuchlarini sarflab, nihoyat SSSR iqtisodiy barqarorligini yo‘qotib, 1991-yilda parchalanishiga olib keldi.",
+    "expected:": "Ular superdavlatlarga bilvosita ta’sir o‘tkazish imkonini berdi, yadroviy eskalatsiyani oldini oldi."
+},{
+    "ouput": "CRISPRning inson ilovalaridagi asosiy axloqiy muammolar:  \n- Dizayner chaqaloqlar — genetik tanlov orqali “ideal” bolalarni yaratish xavfi.  \n- Genetik farqli sinf yaratilishi — boylar genetik yaxshilanadi, kambag‘allar orqada qoladi.  \n- O‘z holiga tashlab qoldirish — kelajakda noma’lum mutatsiyalar va kasalliklar.  \n- Inson huquqlari — sog‘liqni yaxshilash bilan birga, insonning tabiiy holatiga aralashish.",
+    "expected:": "Davolash potentsiali yuqori, lekin evgenika va noaniq mutatsiyalar xavfi mavjud."
+},{
+    "ouput": "Ipak yo‘lining ijobiy oqibatlari: Sharq va G‘arb madaniyati, fani, san’ati va diniy g‘oyalarini almashdi. Salbiy oqibatlari: yuqumli kasalliklar (masalan, qorin chumoli) katta masofalarda tarqalib, aholi kamayishi va iqtisodiy buzilishlarga sabab bo‘ldi.",
+    "expected:": "Bilim va iqtisodiy o‘sishni rag‘batlantirdi, lekin O‘lat kabi kasalliklarni tarqatdi."
+},{
+    "ouput": "Regulyarizatsiya texnikalari (L1, L2, dropout, early stopping) haddan tashqari moslashishni oldini oladi: ular modelni shovqinni eslab qolishdan saqlaydi, parametrlarni kamaytiradi va umumlashtirish qobiliyatini oshiradi. Bu esa modelni yangi ma’lumotlar ustida ham ishonchli ishlashini ta’minlaydi.",
+    "expected:": "L1/L2 jazolari modellarini soddalashtirib, umumlashtirishni rag‘batlantiradi."
+},{
+    "ouput": "Harbiy strategiyalar (blokada, Shermanning “yurish” taktikasi) Konfederatsiyani iqtisodiy jihatdan ezib tashladi. Siyosiy manevrlar (Emansipatsiya deklaratsiyasi) urushni “qullikni bekor qilish” ma’naviy yo‘nalishiga olib keldi, bu esa xalqaro hamda ichki ijtimoiy qo‘llab-quvvatlashni kuchaytirdi. Natijada Konfederatsiya iqtisodiy va moral jihatdan mag‘lubiyatga uchradi.",
+    "expected:": "Ittifoq blokadasi va Emansipatsiya konfederatsiyani zaiflashtirdi va xalqaro yordamni jalb qildi."
+},{
+    "ouput": "Okean kislotalanishi:  \n- Koral riflar va mollyuskalar qobig‘i erib ketadi, bu esa dengiz ekotizimidagi oziq-ovqat zanjirini buzadi.  \n- Balıqlar va boshqa hayvonlar yashash muhitini yo‘qotadi, aholining oziq-ovqat xavfsizligi xavf ostiga qo‘yiladi.  \n- Global miqyosda dengiz biomasi kamayadi, iqlim o‘zgarishiga qarshi tabiiy tampon yo‘qoladi.",
+    "expected:": "Riflar yo‘qolishi oziq-ovqat zanjirini buzadi, baliqchilik va turizmga zarar yetkazadi."
+},{
+    "ouput": "Oruellning “1984” asarida til manipulyatsiyasi (yangi til — Newspeak) odamlarning fikrlash doirasini toraytiradi. Agar so‘z yo‘q bo‘lsa, tushuncha ham yo‘q bo‘ladi. Propaganda esa “ikki xil o‘ylash” (doublethink) orqali odamlarni haqiqatni inkor etishga majburlaydi. Bu esa ijtimoiy nazoratni ichki xavotir va ruhiy qulchilik asosida mustahkamlaydi.",
+    "expected:": "Yangi so‘zlar fikrlarni cheklaydi, ikkiyoqlama fikrlash haqiqatni yo‘q qiladi."
+},{
+    "ouput": "Simlar nazariyasining empirik tasdiqlashdagi qiyinchiliklari:  \n- Zarrani ko‘p o‘lchovli tebranish sifatida ko‘rsatish uchun zarur energiya darajalari hozircha erishilmagan.  \n- Planck masshtabidagi effektlarni o‘lchash uchun zarur aniqlikdagi detektorlar va kolliderlar mavjud emas.  \n- Nazariya hozircha falsifikatsiya qilish mumkin bo‘lgan aniq bashorat bermaydi, bu esa ilmiy sinovni qiyinlashtiradi.",
+    "expected:": "Yuqori energiya talablari va yechimlarning ko‘pligi sinovni qiyinlashtiradi."
+},{
+    "ouput": "Meyji davridagi tanlangan G‘arbiylashtirish: texnologiya, ta’lim va sanoatni G‘arbdan olib, lekin milliy ruhiyat (Shinto, bushido, milliy bayramlar) va ijtimoiy tuzumni (imperator, feodal tizimni modernizatsiya qilish) saqlab qoldi. Bu esa Yaponiyani tez modernlashtirdi, lekin o‘ziga xos madaniy identifikatsiyasini yo‘qotmadi.",
+    "expected:": "Sanoat va harbiy islohotlar qudratni oshirdi, imperator va an’analar o‘ziga xoslikni saqladi."
+},{
+    "ouput": "Kriptovalyutalar afzalliklari: markazlashmaganlik, xavfsizlik, transparantlik. Cheklovlari: narx o‘zgaruvchanligi, miqyoslashuv muammosi, energiya sarfi, qonuniy nazorat etishmovchiligi. Bu esa keng qo‘llanilishni cheklaydi.",
+    "expected:": "Shaffoflik va xavfsizlikni ta’minlaydi, lekin narx o‘zgaruvchanligi va tartibga solish muammolari to‘sqinlik qiladi."
+},{
+    "ouput": "Ijobiy mutatsiyalar: turlarning muhitga moslashishi, yangi xususiyatlar (masalan, antibiotikka chidamlilik). Salbiy mutatsiyalar: kasalliklar (saratoni, genetik anomaliyalar). Bu ikkalasi ham evolyutsiya va sog‘liqni belgilaydi.",
+    "expected:": "Mutatsiyalar moslashishni ta’minlaydi, lekin zararli mutatsiyalar kasalliklarni keltirib chiqaradi."
+},{
+    "ouput": "Internetning aloqa sohasidagi **foydalari**:  \n- Global aloqalarni tezlashtiradi, masofadan qat’i nazar, real vaqtda muloqot imkonini beradi.  \n- Axborot va ta’lim resurslarini ochiq qiladi, xalqaro hamkorlikni osonlashtiradi.  \n- Iqtisodiy jarayonlarni (onlayn savdo, bank, startaplar) rivojlantiradi.  ",
+    "expected:": "Global aloqa va ma’lumot almashishni osonlashtiradi, lekin kiberxujumlar va maxfiylik xavfi mavjud."
+},{
+    "ouput": "Antarktida muzliklarining erishi global iqlimga uchta asosiy ta’sir ko‘rsatadi:  \n1) **Dengiz sathining ko‘tarilishi** – erigan suv okeanlarga qo‘shilib, qishloq-joy, orollarni va past qirg‘oqlar suvdan qolgan xavf ostiga qo‘yadi.  \n2) **Okean oqimlarining buzilishi** – muz va suv massasi o‘zgarishi “Antarktida sovuq oqimi”ni susaytiradi, bu esa boshqa mintaqalarda issiq-sovuq ekstremallarini keltirib chiqaradi.  \n3) **Albedo effektining kamayishi** – oq muz o‘rniga qora okean yuzasi ko‘proq quyosh energiyasini yutadi, bu iqlimni yanada isitadi (musbat qaytish tsikli). Tadqiqotlar qiyin bo‘lsa-da, uzoq masofali sun’iy yo‘ldoshlar va avtonom sensorlar bu ta’sirni kuzatishda yordam beradi.",
+    "expected:": "Dengiz sathining ko‘tarilishi va iqlimning o‘zgarishi global ekotizimlarni buzadi."
+},{
+    "ouput": "Sun’iy intellektning iqtisodiy foydalari:  \n- **Avtomatlashtirish** – ishlab chiqarish, logistika, xizmat sohalarida xarajatlarni kamaytiradi, mahsulot hajmini oshiradi.  \n- **Yangi ish o‘rinlari** – dasturchi, ma’lumotshunos, AI-integrator kabi kasblarni yaratadi.  \n- **Innovatsiya** – tibbiyot, energiya, transportda samaradorlikni oshiradi. ",
+    "expected:": "Ish samaradorligini oshiradi, lekin ish o‘rinlari yo‘qotilishi va qarorlarning adolatsizligi xavfini keltirib chiqaradi."
+}
+] 

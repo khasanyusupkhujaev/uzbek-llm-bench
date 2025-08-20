@@ -1,0 +1,51 @@
+input,output,expected,bleu,gemini_score
+I am hungry.,Men ochqaman.,Men och qoldim.,0.09069748827745895,9
+She is my sister.,U mening singlim.,U mening singlim.,0.5623413251903491,10
+The weather is cold today.,Bugun ob-havo sovuq.,Bugun havo sovuq.,0.13512001548070346,10
+This is my house.,Bu mening uyim.,Bu mening uyim.,0.5623413251903491,10
+We are friends.,Biz do‘stlarimiz.,Biz do‘stmiz.,0.1495348781221221,8
+I want some water.,Menga bir oz suv kerak.,Menga biroz suv kerak.,0.12574334296829354,9
+He is very tall.,U juda baland.,U juda baland bo‘yli.,0.17216896116316355,7
+Where is the bus stop?,Avtobus bekatlari qayerda?,Avtobus bekati qayerda?,0.13512001548070346,6
+I like your car.,Menga sizning mashinangiz yoqadi.,Menga mashinangiz yoqdi.,0.09554427922043669,9
+My name is Ali.,Mening ismim Ali.,Mening ismim Ali.,0.5623413251903491,10
+I go to the gym three times a week.,Men haftada uch marta sport zaliga boraman.,Men haftasiga uch marta sport zaliga boraman.,0.6434588841607617,10
+Yesterday we went shopping at the mall.,Kecha biz savdo markaziga xarid qilishga bordik.,Kecha biz savdo markaziga borib xarid qildik.,0.4347208719449914,9
+"He speaks Uzbek, Russian, and English fluently.","U o‘zbek, rus va ingliz tillarini erkin gapiradi.","U o‘zbek, rus va ingliz tillarida ravon gapiradi.",0.5410822690539396,8
+I forgot my wallet at home this morning.,Men ertalab hamyonimni uyda unutib ketdim.,Ertalab hamyonimni uyda unutib qoldim.,0.20205155046766235,8
+My father works in a bank as a manager.,Mening otam bankda boshqaruvchi sifatida ishlaydi.,Otam bankda menejer bo‘lib ishlaydi.,0.048549177170732344,10
+We are planning to visit Samarkand next month.,Biz kelasi oy Samarqandga sayohat qilishni rejalashtirmoqdamiz.,Keyingi oy Samarqandga borishni rejalashtiryapmiz.,0.06985342056580097,10
+The train leaves at 8:30 in the morning.,Poyezl ertalab soat 8:30 da jo‘naydi.,Poyezd ertalab soat 8:30 da jo‘naydi.,0.7598356856515925,8
+Please call me when you arrive.,"Iltimos, yetib borganingizda menga qo‘ng‘iroq qiling.","Yetib borganingizda iltimos, menga qo‘ng‘iroq qiling.",0.21711852081087685,10
+"I don’t eat meat, but I like fish.","Men go‘sht yemayman, lekin baliqni yaxshi ko‘raman.","Men go‘sht yemayman, lekin baliqni yaxshi ko‘raman.",1.0,10
+There is a big park near my house.,Uyim yaqinida katta bog‘ bor.,Uyim yonida katta bog‘ bor.,0.28574404296988,10
+Education is the most powerful tool to change the world.,Ta’lim dunyoni o‘zgartirish uchun eng kuchli vosita.,Ta’lim — dunyoni o‘zgartirishning eng kuchli vositasidir.,0.08307018474412793,10
+"No matter how difficult the road is, we must keep moving forward.","Yo‘l qanchalik qiyin bo‘lmasin, biz oldinga harakatlanishda davom etishimiz kerak.","Yo‘l qanchalik qiyin bo‘lmasin, biz oldinga yurishda davom etishimiz kerak.",0.6580370064762462,9
+He achieved success thanks to his patience and hard work.,U sabr va mehnat tufayli muvaffaqiyatga erishdi.,U sabr-toqat va mehnati tufayli muvaffaqiyatga erishdi.,0.18575057999133598,9
+Freedom of speech is an important right in every society.,So‘z erkinligi har bir jamiyatda muhim huquqdir.,So‘z erkinligi har bir jamiyatda muhim huquqdir.,1.0,10
+The book discusses the impact of technology on human relationships.,Kitob texnologiyaning inson munosabatlariga taʼsirini muhokama qiladi.,Kitob texnologiyaning inson munosabatlariga ta’sirini muhokama qiladi.,0.488923022434901,10
+People should take responsibility for protecting the environment.,Odamlar atrof-muhitni himoya qilish mas’uliyatini o‘z zimmasiga olishi kerak.,Odamlar atrof-muhitni asrash uchun mas’uliyatni o‘z zimmasiga olishi kerak.,0.3549481056010053,9
+True friendship is based on trust and honesty.,Haqiqiy do‘stlik ishonch va samimiyatga asoslanadi.,Haqiqiy do‘stlik ishonch va halollikka asoslanadi.,0.537284965911771,9
+Our history is full of lessons for future generations.,Bizning tariximiz kelajak avlodlar uchun saboqdur.,Tariximiz kelajak avlodlar uchun saboqlarga boy.,0.20205155046766235,5
+"In difficult times, unity is the key to overcoming challenges.",Qiyin paytlarda birlik qiyinchiliklarni yengish kaliti hisoblanadi.,Qiyin paytlarda birlik sinovlarni yengishning kalitidir.,0.16348126556655487,10
+Success without ethics is an empty achievement.,Ahlokdan holi muvaffaqiyat bo‘sh yutuqdir.,Axloqsiz muvaffaqiyat — bo‘sh yutuqdir.,0.12574334296829354,9
+The new processor architecture increases performance by reducing power consumption.,Yangi protsessor arxitekturasi elektr energiyasini kamaytirish orqali ishlash tezligini oshiradi.,"Yangi protsessor arxitekturasi quvvat sarfini kamaytirib, unumdorlikni oshiradi.",0.1122444464861146,7
+The laboratory uses high-precision instruments to conduct experiments.,Laboratoriya tajribalarni o‘tkazish uchun yuqqi aniqlikdagi asboblardan foydalanadi.,Laboratoriya tajribalarni o‘tkazish uchun yuqori aniqlikdagi asboblardan foydalanadi.,0.5,9
+Renewable energy sources can significantly reduce greenhouse gas emissions.,Yangilanuvchi energiya manbalari issiqxona gazlarining chiqishini sezilarli darajada kamaytirishi mumkin.,Qayta tiklanuvchi energiya manbalari issiqxona gazlari chiqindilarini sezilarli kamaytirishi mumkin.,0.13747081017605653,9
+The robot is programmed to perform repetitive tasks without human intervention.,Robot odamning ishtirokisiz takrorlanuvchi vazifalarni bajarishga dasturlangan.,Robot inson aralashuvisiz takrorlanuvchi vazifalarni bajarishga dasturlangan.,0.4347208719449914,9
+The software automatically backs up data to prevent loss.,Dasturiy ta’minot ma’lumotlarni yo‘qolishdan saqlash uchun avtomatik tarzda zaxira nusxa yaratadi.,Dastur ma’lumotlarning yo‘qolishini oldini olish uchun avtomatik zaxiralashni amalga oshiradi.,0.03986357128268015,9
+The research team analyzed the impact of climate change on crop yields.,Tadqiqot guruhi iqlim o‘zgarishi dehqonchilik hosildorligiga taʼsirini tahlil qildi.,Tadqiqot guruhi iqlim o‘zgarishining hosildorlikka ta’sirini tahlil qildi.,0.14923729480049117,8
+The device uses wireless communication to transmit sensor readings.,Qurilma sensor o‘qishlarini uzatish uchun simsiz aloqa tizimidan foydalanadi.,Qurilma sensor o‘qishlarini uzatish uchun simsiz aloqa texnologiyasidan foydalanadi.,0.7506238537503395,9
+The experiment confirmed the accuracy of the theoretical model.,Tajriba nazariy modelning aniqligini tasdiqladi.,Tajriba nazariy modelning aniqligini tasdiqladi.,1.0,10
+The satellite continuously monitors weather patterns across the globe.,Sun’iy yo‘ldosh dunyo bo‘ylab ob-havo holatini doimiy monitoring qiladi.,Sun’iy yo‘ldosh butun dunyo bo‘ylab ob-havo holatini uzluksiz kuzatib boradi.,0.31762152032055835,7
+The engineers developed a new algorithm to detect network intrusions.,Muhandislar tarmoq yonilg‘ilarini aniqlash uchun yangi algoritm ishlab chiqdilar.,Muhandislar tarmoqdagi ruxsatsiz kirishlarni aniqlash uchun yangi algoritm ishlab chiqdi.,0.4180134288483488,2
+"Bro, last nigh we partied hard till 4 a.m.","Do‘stim, kecha tunda soat 4 gacha qiziq o‘tdik.","Jigar, kecha soat 4gacha dam oldik",0.03303164318013808,5
+"My phone’s dead, can I borrow yours?","Mening telefonim o‘chib qoldi, senikini qarzga olsa bo‘ladimi?","Meni telefonim o’chib qoldi, senikini olib tursam bo’ladimi?",0.06500593260343691,9
+"Man, he talks big but never does anything.","Odam gap ko‘p, lekin hech narsa qilmaydi.","U faqat gapirishi bilar ekan, qo’lidan hech narsa kelmas ekan.",0.04550524645870584,3
+Let’s grab some burgers after work.,Ishdan keyin bir oz burger yeylik.,Ishdan kegin burger yemimizami.,0.048549177170732344,9
+"Dude, your car is sick!","Do‘stim, mashinang zo‘r ekan!","Jigar, moshinen zo’r ku!",0,9
+"I’m broke, can you cover me this time?","Mening hamyonim bo‘sh, bu safar sen toʻlab berolmaysanmi?","Bir tingim yo’q, bus afar sen tolab yubora olasanmi?",0.024512401940754224,7
+She ghosted me after the second date.,U ikkinchi uchrashuvdan keyin meni bloklab qo‘ydi.,"Ikkinchi uchrashuvdan kegin, u meni bortimni berdi.",0.039281465090051315,8
+"That deal is shady, I wouldn’t trust it.","Bu bitim shubhali, ishonmaslik yaxshi.","Bu yerda bir gap bor, men ishonmas edim.",0.029486824119076216,8
+"I’m starving, let’s hit the café.","Och qoldim, kafega kettik.","Qornim rossa och, kafega kirsakchi.",0.06257106818159155,3
+"The guy’s loaded, money isn’t an issue for him.","Odamda pul ko‘p, pul unga muammo emas.","Bu bolani soqqasi ko’p, puldan muammo yo’q.",0.033031643180138064,7

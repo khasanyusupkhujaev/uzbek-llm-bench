@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Provide only the translated text from en to uz: I am hungry.",
+    "output": "I am hungry.",
+    "expected": "Men och qoldim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: She is my sister.",
+    "output": "She is my sister.",
+    "expected": "U mening singlim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The weather is cold today.",
+    "output": "The weather is cold today.",
+    "expected": "Bugun havo sovuq.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: This is my house.",
+    "output": "### My HouseThis is my house.",
+    "expected": "Bu mening uyim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: We are friends.",
+    "output": "We are friends.",
+    "expected": "Biz do‘stmiz.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: I want some water.",
+    "output": "نعم \"جر\" ؟",
+    "expected": "Menga biroz suv kerak.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: He is very tall.",
+    "output": "He is very tall.",
+    "expected": "U juda baland bo‘yli.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Where is the bus stop?",
+    "output": "Où est le stopbus?",
+    "expected": "Avtobus bekati qayerda?",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: I like your car.",
+    "output": "I like your car.",
+    "expected": "Menga mashinangiz yoqdi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: My name is Ali.",
+    "output": "My name is Ali.",
+    "expected": "Mening ismim Ali.",
+    "bleu_score": 0.08034284189446518
+  },
+  {
+    "input": "Provide only the translated text from en to uz: I go to the gym three times a week.",
+    "output": "I go to the gym three times a week.",
+    "expected": "Men haftasiga uch marta sport zaliga boraman.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Yesterday we went shopping at the mall.",
+    "output": "Yesterday, we visited the mall.",
+    "expected": "Kecha biz savdo markaziga borib xarid qildik.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: He speaks Uzbek, Russian, and English fluently.",
+    "output": "Омогуз, русский, и английский в высоком характере.",
+    "expected": "U o‘zbek, rus va ingliz tillarida ravon gapiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: I forgot my wallet at home this morning.",
+    "output": "Je ne savais pas mon wallet à domicile ce matin.",
+    "expected": "Ertalab hamyonimni uyda unutib qoldim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: My father works in a bank as a manager.",
+    "output": ") father bana banna bana.",
+    "expected": "Otam bankda menejer bo‘lib ishlaydi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: We are planning to visit Samarkand next month.",
+    "output": "We are planning to visit Samarkand next month.",
+    "expected": "Keyingi oy Samarqandga borishni rejalashtiryapmiz.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The train leaves at 8:30 in the morning.",
+    "output": "30 в шкладе.",
+    "expected": "Poyezd ertalab soat 8:30 da jo‘naydi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Please call me when you arrive.",
+    "output": "بئراني ، وقتايك لأن تدوحم.",
+    "expected": "Yetib borganingizda iltimos, menga qo‘ng‘iroq qiling.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: I don’t eat meat, but I like fish.",
+    "output": "Non-ingrat, beni zai kweyn, beni fish.",
+    "expected": "Men go‘sht yemayman, lekin baliqni yaxshi ko‘raman.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: There is a big park near my house.",
+    "output": "There is a large park near my home.",
+    "expected": "Uyim yonida katta bog‘ bor.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Education is the most powerful tool to change the world.",
+    "output": "El aprendizaje es la más potente herramienta para cambiar el mundo.",
+    "expected": "Ta’lim — dunyoni o‘zgartirishning eng kuchli vositasidir.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: No matter how difficult the road is, we must keep moving forward.",
+    "output": "Uzçildiğinde, azaltımını çok farklı bir girişmelerini doğru edilmiştir.",
+    "expected": "Yo‘l qanchalik qiyin bo‘lmasin, biz oldinga yurishda davom etishimiz kerak.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: He achieved success thanks to his patience and hard work.",
+    "output": "He achieved success thanks to his patience and hard work.",
+    "expected": "U sabr-toqat va mehnati tufayli muvaffaqiyatga erishdi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Freedom of speech is an important right in every society.",
+    "output": "Глубокий спутник делает вам ценарным ценом в обществе.",
+    "expected": "So‘z erkinligi har bir jamiyatda muhim huquqdir.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The book discusses the impact of technology on human relationships.",
+    "output": "El libro aborda la influencia de la tecnología en las relaciones humanas.",
+    "expected": "Kitob texnologiyaning inson munosabatlariga ta’sirini muhokama qiladi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: People should take responsibility for protecting the environment.",
+    "output": "چرا آبداستان به آن آنور انجام شد.",
+    "expected": "Odamlar atrof-muhitni asrash uchun mas’uliyatni o‘z zimmasiga olishi kerak.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: True friendship is based on trust and honesty.",
+    "output": "True friendship is based on trust and honesty.",
+    "expected": "Haqiqiy do‘stlik ishonch va halollikka asoslanadi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Our history is full of lessons for future generations.",
+    "output": "Our history is full of lessons for future generations.",
+    "expected": "Tariximiz kelajak avlodlar uchun saboqlarga boy.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: In difficult times, unity is the key to overcoming challenges.",
+    "output": "В противовремени, сообщение — это четверть сердца.",
+    "expected": "Qiyin paytlarda birlik sinovlarni yengishning kalitidir.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Success without ethics is an empty achievement.",
+    "output": "Uzistaki nesini basınızın olan etiketlerini izin etmek için azaltısıyla birlikte etkili bir anlayışın.",
+    "expected": "Axloqsiz muvaffaqiyat — bo‘sh yutuqdir.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The new processor architecture increases performance by reducing power consumption.",
+    "output": "Uzbatın procesora arkektürileri büyük bir dönem de konutlamasına vurgular.",
+    "expected": "Yangi protsessor arxitekturasi quvvat sarfini kamaytirib, unumdorlikni oshiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The laboratory uses high-precision instruments to conduct experiments.",
+    "output": "La laboratorio usa instrumentos de alta precisión para llevar a cabo experimentos.",
+    "expected": "Laboratoriya tajribalarni o‘tkazish uchun yuqori aniqlikdagi asboblardan foydalanadi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Renewable energy sources can significantly reduce greenhouse gas emissions.",
+    "output": "Renewable energy sources can significantly reduce greenhouse gas emissions.",
+    "expected": "Qayta tiklanuvchi energiya manbalari issiqxona gazlari chiqindilarini sezilarli kamaytirishi mumkin.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The robot is programmed to perform repetitive tasks without human intervention.",
+    "output": "The robot is programmed to perform repetitive tasks without human intervention.",
+    "expected": "Robot inson aralashuvisiz takrorlanuvchi vazifalarni bajarishga dasturlangan.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The software automatically backs up data to prevent loss.",
+    "output": "La sofisticación automatiza el recopilación de datos para prevenir la pérdida.",
+    "expected": "Dastur ma’lumotlarning yo‘qolishini oldini olish uchun avtomatik zaxiralashni amalga oshiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The research team analyzed the impact of climate change on crop yields.",
+    "output": "The research team analyzed the impact of climate change on crop yields.",
+    "expected": "Tadqiqot guruhi iqlim o‘zgarishining hosildorlikka ta’sirini tahlil qildi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The device uses wireless communication to transmit sensor readings.",
+    "output": "بالتأكيد، الجواب المعنى هي الطريق التي تعبر بإنظم المعنى الأشخاص.",
+    "expected": "Qurilma sensor o‘qishlarini uzatish uchun simsiz aloqa texnologiyasidan foydalanadi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The experiment confirmed the accuracy of the theoretical model.",
+    "output": "Experimientul confirmăm acum exactitudine a modulor teóri.",
+    "expected": "Tajriba nazariy modelning aniqligini tasdiqladi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The satellite continuously monitors weather patterns across the globe.",
+    "output": "The satellite continuously monitors weather patterns across the globe.",
+    "expected": "Sun’iy yo‘ldosh butun dunyo bo‘ylab ob-havo holatini uzluksiz kuzatib boradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The engineers developed a new algorithm to detect network intrusions.",
+    "output": "El ingeniero desarrolló una nueva alígra para detectar intrucciones de la neta.",
+    "expected": "Muhandislar tarmoqdagi ruxsatsiz kirishlarni aniqlash uchun yangi algoritm ishlab chiqdi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Bro, last nigh we partied hard till 4 a.m.",
+    "output": "Bro, last night we partyed hard till 4 a.m. inuz.",
+    "expected": "Jigar, kecha soat 4gacha dam oldik",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: My phone’s dead, can I borrow yours?",
+    "output": "Mi teléfono se disa, ¿me puedo borrowingte tu teléfono?",
+    "expected": "Meni telefonim o’chib qoldi, senikini olib tursam bo’ladimi?",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Man, he talks big but never does anything.",
+    "output": "Man, he talks BIG but NEVER ACTS.",
+    "expected": "U faqat gapirishi bilar ekan, qo’lidan hech narsa kelmas ekan.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Let’s grab some burgers after work.",
+    "output": "Let's grab some burgers after work.",
+    "expected": "Ishdan kegin burger yemimizami.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: Dude, your car is sick!",
+    "output": "Dude, tu coche es enfermo!",
+    "expected": "Jigar, moshinen zo’r ku!",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: I’m broke, can you cover me this time?",
+    "output": "\"Uz bu ne? Izay kuru?\"",
+    "expected": "Bir tingim yo’q, bus afar sen tolab yubora olasanmi?",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: She ghosted me after the second date.",
+    "output": "She ghosted me after the second date.",
+    "expected": "Ikkinchi uchrashuvdan kegin, u meni bortimni berdi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: That deal is shady, I wouldn’t trust it.",
+    "output": "_____ deal is _____ shady, I wouldn’t trust it.",
+    "expected": "Bu yerda bir gap bor, men ishonmas edim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: I’m starving, let’s hit the café.",
+    "output": "Eşekli olay, kafé hale getirir.",
+    "expected": "Qornim rossa och, kafega kirsakchi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Provide only the translated text from en to uz: The guy’s loaded, money isn’t an issue for him.",
+    "output": "El amaní está muy lleno de dinero, no importa si es dinero o notoria.",
+    "expected": "Bu bolani soqqasi ko’p, puldan muammo yo’q.",
+    "bleu_score": 0
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "O'zbekistonning mustaqillik kunini nishonlash haqida qisqa hikoya yozing. Write in Uzbek, ≈200-300 words, in a narrative style about Independence Day of Uzbekistan.",
+    "output": "The air hung thick with anticipation, the scent of freshly baked samsa and the vibrant colors of traditional clothing filling the streets. It was Independence Day, a day that pulsed with the heartbeat of a nation reborn.  A young boy, Gulnoza, clutched a miniature Uzbek flag, its blue and white hues a stark contrast to the bustling crowd. His grandfather, a man whose eyes held the wisdom of a thousand stories, stood beside him, a proud smile gracing his weathered face. \n\nGulnoza looked up at the majestic silhouette of the flag atop the government building, its star a beacon of hope and resilience.  He remembered his grandmother's tales of the struggle, the sacrifices made for freedom, the unwavering spirit of the people.  She had spoken of a time when the very name of their country was a whispered secret, a dream clinging to the edges of hope.  But then, like a phoenix rising from the ashes, a new dawn arrived, a day when",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'lom ovqatlanishning foydalari haqida 6 jumladan iborat maqola parchasi yozing. Write in Uzbek, 6 sentences, in a informative style about benefits of healthy eating.",
+    "output": "## Sog'lom ovqatlanishning foydalari\n\nSog'lom ovqatlanish, insanning sağlığına yaxshi ta'minat qiladigan, o'zgaruvchanliklarni olib qo'yish uchun muhim rol o'ynaydi.  Bu, qimmatli va oson o'rganilgan turlardan iborat, dastur bilan bog'liq.  Sog'lom ovqatlanish, olishda yaxshi his qilish uchun, qimmatli o'zgaruvchilarni olib qo'yishga yordam beradi.  Bu, olishni osonlashtiradi, yumshoqlik va yaxshi his qilishni ta'minlaydi.  Sog'lom ovqatlanish, olishda yaxshi his qilishni ta'minlaydi.  Bu, olish",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yomg'irli kun haqida 5 misradan iborat she'r yozing. Write in Uzbek, 5 lines, in a poetic style about rainy day.",
+    "output": "G'ozlar bo'yicha, qisqa qancha,\nYomning qahramon, qilmagan.\nQizil qancha, qayta,\nQisqa qisqa, qochib chiqib,\nYomg'irli, o'ziga qayta. \n\n**Translation:**\n\nThe sky is a canvas, a short glimpse,\nThe day's hero, silent.\nA splash of blue, a new beginning,\nA short, quick dance, a gentle breeze,\nRainy day, a new day.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Amir Temur hayoti va yutuqlari haqida qisqa biografiya yozing. Write in Uzbek, ≈150 words, in a biographical style about life of Amir Timur.",
+    "output": "Amir Timur, yoki Nodir-Din, 1336-1405 yillar o'rtasida tarqalgan shahzod. U tarixiy va siyosiy muhim shaxslaridan biri bo'lgan. \n\nTimurning asosiy yutuqlari bilan birga, u yillik o'zbeklarning birinchi shahzod sifatida ko'p muammo va shartnoma bilan bo'lgan. U, o'zbek va turkistonlar bilan bog'liq muhim o'zbeklar bilan bog'liq muhim o'zbeklar bilan bog'liq bo'lgan. U, o'zbeklar bilan bog'liq muhim o'zbeklar bilan bog'liq bo'lgan.\n\nTimurning hayotini o'rganish uchun juda muhim. U, o'zbeklarning tarixi",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kelajakdagi texnologiyalar haqida fikringizni bildiruvchi insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about future technologies.",
+    "output": "##  Gelecek İçin Teknoloji:  Bir Gelecek Fikir\n\nSiz, bu gün, teknolojinin devrim niteliğinde bir dönüşümünü yakından gözlemlemekteyiz. Gelecek, bu dönüşümü daha da hızlandıran, daha da güçlü ve daha da genişletilmiş bir teknolojik çağda bulunuyor. Bu çağ, insanlığın evrenle daha derin bir bağlantı kurmasını, hayatımızı daha kolay ve daha mutlu hale getirmek için yeni fırsatlar sunan bir yolculuktur.\n\nİşte bu gelecek teknolojilerinin bazı örnekleri:\n\n* **Yapay Zeka:** Yapay zekanın gelecekteki rolü hayati önem taşımaktadır. Yapay zeka, hastalıklara karşı tedavi yöntemlerimizi değiştirecek, enerji tüketimimizi optimize edecek, hatta gelecek nesiller için güvenli ve sürdürülebilir bir dünya yaratmak için büyük fırs",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek milliy taomlari orasida palovning retsepti haqida batafsil yozing. Write in Uzbek, ≈200 words, in a instructional style about recipe for plov.",
+    "output": "## Plov: O'zbekiston milliy taomlari\n\nPlov, O'zbekistonning yaxshi adabiy taomlaridan biridir. Bu taom, qizil, yoshlar, qizil-qizil, qizil-qo'q, qizil-qizil va qizil-qizil qisqacha bo'lgan qisqa qismi bo'lib, qizil-qizil va qizil-qizil qisqa bo'lgan qisqa qismi bo'lib, qizil-qizil va qizil-qizil qisqa bo'lgan qisqa qismi bo'lgan qisqa qismi bo'lgan qisqa qismi bo'lgan qisqa qismi bo'lgan qisqa qismi bo'lgan qisqa qismi",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tabiatni muhofaza qilish muhimligi haqida 4 paragrafdan iborat matn yozing. Write in Uzbek, 4 paragraphs, in a explanatory style about importance of nature conservation.",
+    "output": "## Tabiatni Muhofaza Qilish Muhimligini Ko'rish\n\nTabiat, bizga o'zgaruvchanlik, hayot va ma'lumotlarni o'ziga xos tarzda qayta qiluvchi qonunlar bilan bog'liq. Bu yoki, tabiatni muhofaza qilish, bizga ma'lumotlarni o'ziga xos tarzda qayta qilishga, bizga qanday qilib muhofaza qilishga qaratilgandir. Bu, bizga ma'lumotlarni o'ziga xos tarzda qayta qilishga, bizga qanday qilib muhofaza qilishga qaratilgandir.\n\nTabiatni muhofaza qilish, bizga ma'lumotlarni o'ziga xos tarzda qayta qilishga, bizga q",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Do'stlik haqida o'zbek maqollaridan foydalanib, qisqa hikoya yozing. Write in Uzbek, ≈150-200 words, in a narrative with proverbs style about friendship.",
+    "output": "Dilavar, u odamdan yaxshi bo'lgan, yaxshi bo'lgan, yaxshi bo'lgan.  Bir yil davomida, ular bir-birimizga qabul qilgan. Bir yil davomida, ular bir-birimizga qabul qilgan. \n \n\"Dostlik, xushbo'l, xushbo'l, xushbo'l,\" dedi Dilavar. \n\"Dostlik, xushbo'l, xushbo'l, xushbo'l,\" dedi Dilavar. \n \nDilavar, u odamdan yaxshi bo'lgan, yaxshi bo'lgan, yaxshi bo'lgan.  Bir yil davomida, ular bir-birimizga qabul qilgan. \n \nBir yil",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Matematikada kvadrat tenglamani yechish usullarini tushuntiruvchi matn yozing. Write in Uzbek, ≈100 words, in a educational style about solving quadratic equations.",
+    "output": "Kvadrat tenglamalar, birinchi darajadagi tenglashning bir nevi bir nevi tenglashidir. Bu tenglamalarni to'g'ri tahlil qilish uchun, ularni xil bir shaxs bilan o'zgartirish mumkin.\n\n**1. Formula:** Kvadrat tenglamalarni to'g'ri tahlil qilish uchun, ularni xil bir shaxs bilan o'zgartirish mumkin.\n**2.  Ya'ni:** Kvadrat tenglamalarni to'g'ri tahlil qilish uchun, ularni xil bir shaxs bilan o'zgartirish mumkin.\n**3.  Ya'ni:** Kvadrat tenglamalarni to'g'ri tahlil qilish uchun, ularni xil bir shaxs bilan o'zgartirish mumkin.\n\nBu tenglamalarni tahlil qilish uchun",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotida Navoiy asarlarining ahamiyati haqida insho yozing. Write in Uzbek, ≈300 words, in a analytical style about importance of Navoi's works.",
+    "output": "## Navoiy asarlari: O'zbek adabiyotining asosiy qismidir\n\nNavoiy, O'zbek adabiyotining yulduzining asosiy qismini tushuntirish uchun muhim bir shaxs. Uning asarlari, tarix, madaniyat va kultura tarixi bilan bog'liq bo'lib, birinchi o'zbekcha adabiyotining asosiy shakllanuvchisi sifatida ko'rib chiqiladi. \n\nNavoiyning asarlarining ahamiyati, ularning o'zbek tilida yaratilganligi va o'zbekcha adabiyotining rivojlanishi bilan bog'liq. Uning hikoyalari, mavzulari va tarjimai o'zbekcha adabiyotining vazifasini o'z ichiga oladi. Navoiyning asar",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kunlik hayotda vaqtni boshqarish bo'yicha maslahatlar yozing. Write in Uzbek, 5-7 tips, in a advisory style about time management.",
+    "output": "## Kunlik Hayotda Vaqtni Boshqarish Maslahatlari:\n\n1. **Vaqtni o'zgartirish uchun ma'lumotlarni qabul qilish:** Vaqtni boshqarish uchun, vaqtni o'zgartirish uchun birinchi bosqich, vaqtni o'zgartirish uchun ma'lumotlarni qabul qilishdir. Bu, vaqtni boshqarish uchun sizning vazifalarini, qisqacha vaqtni o'zgartirish uchun birinchi bosqich.\n2. **Qabul qilingan vaqtni aniqlash:** Vaqtni boshqarish uchun sizning vazifalarini, qisqacha vaqtni o'zgartirish uchun birinchi bosqich, vaqtni o'zgartirish uchun qabul qilingan vaqtni",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Qish fasli haqida tasviriy she'r yozing. Write in Uzbek, 8 lines, in a descriptive poetic style about winter season.",
+    "output": "Gʻarbiy dastur, qisqacha qora,\nQish qur'oq, yuzlar qora.\nYoshlar qayta, kichik, qur'oq,\nYulduzlar qon'oq, qur'oq.\nDastur qayta, qish qur'oq,\nQisqacha qora, qish qur'oq.\nQish qur'oq, yuzlar qora,\nYulduzlar qon'oq, qur'oq.\n\n\n**Translation:**\n\nWinter's touch, a cold embrace,\nThe night's embrace, a black face.\nLittle children, warm and bright,\nStars twinkle, a soft light.\nThe cold returns, a gentle chill,\nThe night is dark, a winter still.\nThe stars shine, a soft light,\nThe night is dark, a winter still.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqlim o'zgarishi sabablari va oqibatlarini muhokama qiluvchi matn yozing. Write in Uzbek, ≈250 words, in a discursive style about causes and effects of climate change.",
+    "output": "## Iklim O'zgarishi: Sabablar va Oqibatlar\n\nIklim o'zgarishi, iklimni o'zgartiradigan qisqacha va ko'p yili davomida o'zgaruvchanliklarni o'z ichiga olgan iklim foydasi bo'lishi mumkin. Bu o'zbekistonda ham ko'p qisqacha va ko'p yili davomida o'zgaruvchanliklarni o'z ichiga olgan iklim foydasi bo'lishi mumkin. Bu o'zbekistonda ham ko'p qisqacha va ko'p yili davomida o'zgaruvchanliklarni o'z ichiga olgan iklim foydasi bo'lishi mumkin. Bu o'zbekistonda ham ko'p qisqacha va ko'p",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning mashhur shaharlari haqida qisqa ta'riflar yozing. Write in Uzbek, 3-5 cities, 2-3 sentences each, in a descriptive style about famous cities of Uzbekistan.",
+    "output": "O'zbekistonda mashhur shaharlar:\n\n**Toshkent:**  Toshkent, o'zbekistonning kapitali va milliy qahramonlarning vaqtini hisoblashdi.  Bu shahar, yaxshi ma'lumot, muhim va yaxshi tartibi bilan tanilgan, tarixi va madaniyatining muhim qismini yaxshilaydi.\n\n**Samarqand:**  Samarqand, milliy madaniyatining yaxshi va muhim qismini yaxshilaydi.  Bu shahar,  qo'shimcha qahramonlarning vaqtini hisoblashdi.\n\n**Bukhara:**  Bukhara, o'zbekistonning tarixi va madaniyatining muhim qismini yaxshilaydi.  Bu shahar,  qo'shimcha qahramonlarning vaqt",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sun'iy intellektning afzalliklari va kamchiliklari haqida insho yozing. Write in Uzbek, ≈200 words, in a balanced argumentative style about pros and cons of AI.",
+    "output": "##  Qarorlashtiruvchilar va O'zbekistonning intellektning afzalliklari va kamchiliklari \n\nQarorlashtiruvchilarning intellektning afzalliklari va kamchiliklari haqida o'zbek tilida ma'lumotni yozish, maqola bilan birga ishlab chiqish uchun juda muhimdir.  \n\n**Intellektning afzalliklari:**\n\n* **Qo'shimcha amal qilish:** AI, masalan,  tashqi vazifalarni o'zgartirish va qiyin va yaxshi ma'lumotni olishda xususiy ko'rsatkichlarni tahlil qilishda yordam berishi mumkin.\n* **O'zgaruvchanlik:** AI, xususiy o'zgaruvchanlikni o'zgarti",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Bolalik xotiralari haqida shaxsiy hikoya yozing. Write in Uzbek, ≈150 words, in a personal narrative style about childhood memories.",
+    "output": "Bolalikimda, mahalliy qishlodagi qishloqda, o'rnatilgan qisqacha bo'linish bo'lgan qishloqda, o'xshashliklarni qayta qayta qanday qilib o'rnatgan, o'xshashliklarni qayta qayta qayta qanday qilib o'rnatgan, o'xshashliklarni qayta qayta qayta qanday qilib o'rnatgan. Ular qizil, qizil, qizil bo'lgan, qizil, qizil, qizil bo'lgan. \n\nBolalikimda, mahalliy qishlodagi qishloqda, o'rnatilgan qisqacha bo'linish bo'lgan qishloq",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Fizikada Nyuton qonunlarini oddiy tilda tushuntiring. Write in Uzbek, 3 laws, 1-2 sentences each, in a simplified explanatory style about Newton's laws of motion.",
+    "output": "## Newton'ın hareket yasaları:\n\n**1.  Qilay qisqacha tug'langan qismi qisqacha tug'langan qismi:**  Harakatni qisqacha tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi bilan birlikda tug'langan qismi",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek folklorida ertaklarning roli haqida matn yozing. Write in Uzbek, ≈100 words, in a informative style about role of folktales in Uzbek folklore.",
+    "output": "Uzbek folklorida ertaklar, milliy adabiyotning muhim qismi boʻlib, oʻzbekiston milliy tarixi, xususiyatlari va madaniyati uchun hayratlanarli rol oʻynaydi. Ertaklar, oʻzbek tillarida muhim maqola, yoki qisqa hikoyalar boʻlishi mumkin. Ertaklarning maqsadlari qahramonlarning muhim oʻrinini oʻzgartirish, tarixiy oʻquv, madaniyat va xususiyatlarni oʻz ichiga olishi mumkin. Ertaklar, oʻzbekistonning milliy xususiyatlarini, tarixinin oʻziga xosliklarini, va milliy adabiyotini yaxshilaydi.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'liqni saqlash uchun sportning ahamiyati haqida insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about importance of sports for health.",
+    "output": "## Sport: Sizning Aqliy va Fizik O’lchamlarini Tushuntirish\n\nSport, hayotning o’zgarish va ehtiyojlardan biri bo’lib, bizning aqliy va fiziki turlari bilan bog’liq. O’zbekistonning qiziqarli tarixida, sport o’ziga xos maqsadi va asosiy rolini o’ziga xos maqsadi va asosiy rolini o’ziga xos maqsadi va asosiy rolini o’ziga xos maqsadi va asosiy rolini o’ziga xos maqsadi va asosiy rolini o’ziga xos maqsadi va asosiy rolini o’ziga xos maqsadi va asosiy rolini o’ziga xos maqsadi va asosi",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yoz faslining go'zalligi haqida she'r yozing. Write in Uzbek, 6 lines, in a poetic style about beauty of summer.",
+    "output": "Yozga faslining, qizil-qol qizg'i,\nG'ozish, o'zida, shash-duman o'zida.\nKuvulgan qayta, yashil, yaxshi,\nTosh-to'z va g'oz, qanday yaxshi.\nMavzuli shoxli, qisqacha yil,\nYoz faslining go'zalligi, qiziqarli. \n\n\n**Translation:**\n\nThe summer sun shines, a golden glow,\nA sweet heat, a sweet, gentle flow.\nGreen fields, a new life to see,\nThe air is clear, a sight to be.\nTime flies, a fleeting year,\nSummer's beauty, a vibrant cheer. \n\n\n**Explanation:**\n\n* **Yozga faslining:** This refers to the beauty of summer.\n* **Qizil-q",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi buyuk kashfiyotlar haqida qisqa ro'yxat yozing. Write in Uzbek, 5 discoveries, brief description each, in a list-based informative style about great historical discoveries.",
+    "output": "##  Tarixdagi Buyuk Koshfiyotlar\n\n1. **Antika Mimarisi:**  Antika Mimarisi, Antik Yurtlarda qurishgan va o'zbekistonda mavjud bo'lgan qonunlarni o'rganish.  Bu yurtdan keyin, bu davrda shaharlar,  madaniyat va maqsadlarni o'rganishga o'zgarish yoki o'zgarishga o'zgarishga o'zgarish.\n2. **Qarniylik:**  Qarniylik, Antik Yurtlarning katta qismini o'rganish.  Bu davrda shaharlar,  madaniyat va maqsadlarni o'rganishga o'zgarish yoki o'zgarishga o'zgarishga o'zgarish",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Oilaviy qadriyatlar haqida fikr-mulohazalar yozing. Write in Uzbek, ≈200 words, in a reflective style about family values.",
+    "output": "## Qadimiylik va Oilaviy Faydalar\n\nQadimiylik, oilaviy va ma'lumotlar bilan bog'liq, to'g'ri ko'rsatish va o'ziga xos xususiyatlar bilan shug'ullanadigan bir muamonda qiziqarli.  Bu muamonda, oilaviy va qadimiy ma'lumotlarning vaqti-vaqt, umumiy va ma'lumotlar bilan bog'liq o'rnini va oilaviy ma'lumotlarning qiziqarli bo'lishi mumkin. \n\nBir oilada qadimiy va oilaviy ma'lumotlarning o'rtasidagi o'zaro aloqasi, oilaviy ma'lumotlarning qiziqarli va oilaviy faydalari uchun muhim. Oila",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Biologiyada o'simliklarning fotosintez jarayonini tushuntiring. Write in Uzbek, ≈150 words, in a scientific explanatory style about photosynthesis in plants.",
+    "output": "## Fotosintez: O'simliklarning Qizil Uyi\n\nFotosintez, o'simliklarning qizil uyi yaratish jarayonidir. Ushbu jarayonda, o'simliklar, kengroq o'rniga,  **qudratli energiyani** o'zining **hlorofil** pigmentlaridan foydalanishga o'rganib, **karbon dioksit** va **uzoq o'tkazish** bilan o'zining **su** va **qisqacha o'tkazish** bilan o'zining **su** va **qisqacha o'tkazish** bilan o'zining **su** va **qisqacha o'tkazish** bilan o'zining **su** va **qisqacha o'tkazish** bilan o'zining **su** va **qis",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek san'ati va hunarmandchiligi haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about Uzbek art and crafts.",
+    "output": "Uzbek san'ati, milliy tarix va ijozi bilan yaxshi bo'lgan, o'zbekistonning o'ziga xos, muhim va muhim bo'lishi mumkin. O'zbek san'ati, milliy yulduzlar bilan yulduzlar bilan birga, shakllangan, yulduzlar bilan birga. \n\nUzbek hunarmandchiligi, o'zbekistonning o'ziga xos, muhim va muhim bo'lishi mumkin. Uning o'ziga xos, muhim va muhim bo'lishi mumkin. \n\nO'zbek san'ati, milliy yulduzlar bilan yulduzlar bilan birga, shakllangan, yulduzlar bilan birga. \n\nO'zbek san'ati, milliy yulduzlar bilan yulduzlar bilan",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Muvaffaqiyatga erishish yo'llari haqida maslahatlar yozing. Write in Uzbek, 4-6 tips, in a motivational style about paths to success.",
+    "output": "## Muvaffaqiyatga Erishish Yo'llari:\n\nMuvaffaqiyatni qabul qilish uchun quyidagi 4-5 bosqichni yaxshi ko'rsatish kerak:\n\n1. **Qiziqish va o'qish:** Sizning ma'lumotlarni o'zlashtirib, o'quv va muammolarni hal qilish uchun katta qiziqishga ega bo'lishingiz kerak.  Sizning maqsadlarini aniqlash va ularga muvofiq o'quvni amalga oshirish sizga mo'ljallangan ma'lumotlarga ega bo'lishni va muvaffaqiyatni qo'shishni yaxshilaydi.\n2. **Qiziqishni kengaytirish:** Sizning o'quv va muammolarni hal",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kuz fasli haqida tasviriy she'r yozing. Write in Uzbek, 7 lines, in a poetic descriptive style about autumn season.",
+    "output": "Qo'sh, qisqacha, o'zgargan,\nZarafshining, qisqacha, yildizlar.\nKichliklar, o'lchagan, qayta,\nMavzuz, o'zgargan, qisqacha.\nShuhrat, qisqacha, qisqacha,\nYildizlar, qisqacha, qisqacha.\nKuz fasli, qisqacha, o'zgargan.\n\n**Translation:**\n\nThe autumn has arrived, a brief and changing season,\nThe leaves, like jewels, shimmer in the light, \nThe air, crisp and cool, carries the scent of decay,\nNature's beauty fades into slumber,\nA melancholic beauty, fleeting and serene,\nStars twinkle, a reminder of the passing year,\nAutumn arrives, a fleeting moment, a change.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqtisodiyotda inflyatsiya sabablari haqida insho yozing. Write in Uzbek, ≈200 words, in a analytical style about causes of inflation.",
+    "output": "##  Inflyatsiya sabablari\n\nInflyatsiya, bir yoki bir nechta muloqotga qarab, bir yoki boshqa turdagi malumotlarni olib chiqib yoki qiyinlashtirishni o'z ichiga olgan, qonunni qayta ko'rish va boshqa o'zgaruvchilarni o'z ichiga olgan, qonunni qayta ko'rish va boshqa o'zgaruvchilarni o'z ichiga olgan, qonunni qayta ko'rish va boshqa o'zgaruvchilarni o'z ichiga olgan, qonunni qayta ko'rish va boshqa o'zgaruvchilarni o'z ichiga olgan, qonunni qayta ko'rish va boshqa o'zgaruvchilar",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston tabiatining go'zal joylari haqida ta'rif yozing. Write in Uzbek, 3 places, 2-3 sentences each, in a descriptive style about beautiful natural sites in Uzbekistan.",
+    "output": "## O'zbekiston tabiatining go'zal joylari:\n\n**1.  Shakhrisabz'da joylashgan  \"Kalta\"  Mavsumligi:**  Bu yer yaxshi bo'lgan tarzda, qushlar va qora shaklida bo'lgan  avlodlarni o'z ichiga oladi.  Bu yerlar o'zbekiston tabiatining qiziqarli joylari.\n\n**2.  Chirchiq qishloqi:**  Bu qishloq o'zbekiston tabiatining  qora, qizil va yashil  ranglarini  o'z ichiga oladi.  Ushbu yerlarda qadimdan  joylashgan  masalalar va  yaxshi bo'lgan tarzda  o'lchangan  mavzu.\n\n**3.  Samarkand shahrida joylashgan",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Psixologiyada stressni boshqarish usullari haqida matn yozing. Write in Uzbek, ≈150 words, in a practical advisory style about stress management techniques.",
+    "output": "## Stresni boshqarish: Sizning tanishingizni o'z ichiga oling!\n\nStres, bizni yaxshi hisoblash va yaxshilikni olib chiqishga yordam beradi. Biroq, o'zgaruvchi va tezlik bilan o'zgaruvchi stresni boshqarishni o'z ichiga oladi. Sizning tanishingizni o'z ichiga olgan stressni boshqarish usullari ham sizga yaxshi yordam berishi mumkin. \n\n**1. Yog'da yordam:** Yoga, stresni olib chiqishda yaxshi yordam beradigan yordam beradi. Yog'da qolgan vaqtda o'zining hisoblanadigan ko'rsatmalarini o'z ichiga oling. \n\n**2. Sharqlashuv:** Sharq",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Adabiyotda fantastik janrning xususiyatlari haqida yozing. Write in Uzbek, ≈100 words, in a informative style about features of fantasy genre.",
+    "output": "Fantasy genre, as a captivating realm of imagination, is characterized by its fantastical elements and imaginative worlds. It often features mythical creatures, magic, and supernatural beings, transporting readers to realms beyond the ordinary. \n\nKey features include:\n\n* **Magic and the supernatural:**  Spells, potions, enchantments, and other magical phenomena are integral to the story, shaping the narrative and creating a sense of wonder. \n* **Unique worlds:** Fantasy stories often transport readers to completely imagined worlds, with their own histories, cultures, and laws, offering a break from the mundane.\n* **Good versus evil:**  A central conflict is often between forces of good and evil, with heroes and villains engaging in epic battles for the fate of the world.\n* **Adventure and exploration:**  Fantasy stories are filled with quests, travels, and explorations, often involving perilous journeys and unexpected encounters.\n\nThese elements combine to create a captivating and immersive experience, captivating readers with their imaginative scope and enth",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek tilining rivojlanishi haqida tarixiy obzor yozing. Write in Uzbek, ≈250 words, in a historical review style about development of Uzbek language.",
+    "output": "## Uzbek Tilining Rivojlanishi: Tarixiy Obzor\n\nUzbek tilining rivojlanishi, o'zbekiston tarixi va ma'lumotlarni o'rganishda o'zimni ko'rib chiqayotgan yodgorliklardan biridir. Bu til, tarixiy davrlarda o'ziga o'xshaydi va turli davlatlarning yordamida rivojlanib borib, o'zining o'rtasida o'ziga xosliklar yaratdi. \n\n**O'zbekiston tarixi**da, Uzbek tilining o'zgarishi, qismati va o'ziga xosliklar bilan o'zaro bog'liqliklarga ega bo'lsa, o'zbekiston tarixi va ma'lumotlarni o'rganishda o'zimni ko'rib",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Hayvonlar dunyosi haqida qiziqarli faktlar yozing. Write in Uzbek, 5 facts, in a factual entertaining style about interesting animal facts.",
+    "output": "## Hayvonlar Dunyosining Hayoti: 5 Foydalanarli Fakt\n\nHayvonlar dunyosi qiziqarli va qiziqarli, ularning hayoti bizning hayotlarimizga o'ziga xos ma'lumotlarni beruvchi.  Ularning bizning hayotlarimizga o'ziga xos ma'lumotlarni beruvchi.  Sizga hayvonlar dunyosi haqida 5 foydalanarli faktlarni berishga harakat qildim.\n\n1. **Yoshlar, qarshi yoki qarshi:** Hayvonlarning yoshining o'ziga xos o'rganilishi muhim.  Bir qancha hayvonlar, ularning yoshining o'ziga xos o'rganilishi muhim.  Bir qancha hayvonlar, ularning yosh",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kimyo fanida atom tuzilishi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a scientific style about atomic structure.",
+    "output": "## Atom Tuzilishi\n\nAtom, maddenin fundamental bo'limi, o'ziga o'xshagan bo'lishi mumkin. Atomning tizimining vazifasi, toshish uchun o'ziga xos bo'lgan atom tuzilishi bo'lishi mumkin. Atomning vazifasi, o'ziga xos bo'lgan atom tuzilishi bo'lishi mumkin.\n\nAtomning tizimi, o'ziga xos bo'lgan atom tuzilishi bo'lishi mumkin. Atomning vazifasi, o'ziga xos bo'lgan atom tuzilishi bo'lishi mumkin. \n\nAtomning tizimi, o'ziga xos bo'lgan atom tuzilishi bo'lishi mumkin. Atomning vazifasi, o'ziga xos bo'lgan atom tuzilishi bo",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek musiqasining an'anaviy asboblari haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about traditional Uzbek musical instruments.",
+    "output": "O'zbek musiqasining an'anaviy asboblari, tarixiy ma'lumotlarga muvofiq, qiziqarli va o'zbek tilida tarjima qilingan mavzularni o'z ichiga olishi mumkin.  Ushbu asboblar, o'zbek tilida \"qalam\" va \"shuhrat\" deb ataladi, o'zbek musiqasining zamonaviy tarjimasiga qarab, muqobil va o'rganish uchun qiziqarli bo'lishi mumkin.  \n\n**Ushbu asboblarning ko'pligi ham, o'zbek musiqasining o'ziga xosligi ham, o'zbek musiqasining an'anaviy asboblarini o'rganish uchun muhimdir.** \n\n* **Kamancha:** Ularning o'z",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Shaxsiy rivojlanish uchun kitob o'qishning foydalari haqida insho yozing. Write in Uzbek, ≈200 words, in a persuasive style about benefits of reading for personal growth.",
+    "output": "## Kitoblarning Shaxsiy Rivojlanishga Harakatlash\n\nShaxsiy rivojlanish uchun kitoblarni o'qish vazifasi muhim bo'lib, ularimizning fikrlarini, yumshoqliklarini, va dunyoviy maqsadlarimizni o'rganish uchun muhim vazifalardir. Kitoblarimizda, shaxslarning o'zgarishi, o'rganish, va muhim fikrlarni o'rganish uchun yaxshi vaqti mavjud.\n\nKitoblarimizda, bizning o'zining muhim xizmatlarini o'rganib, fikrlarimizni o'zgartirib, va dunyoviy maqsadlarimizni o'rganib yordam beriladi. Kitoblarimizda, bizning o'zining muhim",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Dengiz haqida romantik she'r yozing. Write in Uzbek, 10 lines, in a romantic poetic style about the sea.",
+    "output": "Dengiz, qizil bo'lgan, qizil,\nShubalar toshini yubora.\nSen, dengiz, qiziqarli,\nSen, dengiz, qiziqarli.\nQizil qon, qizil qon,\nO'zbekiston, qizil qon.\nYuzlar o'zidan, yuzlar o'zidan,\nQisqacha, qisqacha, qisqacha.\nSen, dengiz, qiziqarli,\nSen, dengiz, qiziqarli. \n\n\n**Explanation:**\n\n* **Dengiz:** This means sea in Uzbek.\n* **Qizil bo'lgan, qizil:** This line describes the sea as blue, emphasizing its beauty.\n* **Shubalar toshini yubora:** This line suggests that the sea is powerful and can even",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi ayollarning roli haqida misollar keltirib yozing. Write in Uzbek, 3 examples, brief each, in a historical illustrative style about role of women in history.",
+    "output": "## Tarixdagi Ayollarning Rolini Misollash\n\n**1.  ** **Qizilbashlar:**  XVI-XIX asrlarda Turkiston savollari qizilbashlar bo'lganlar.  Bu erkin yordamida,  qizilbashlar muhim rol o'ynagan.  **Sultans**ning mustahkamligini ta'minlash, qo'shma yordamida qizilbashlar  **shakhsi** va **tashkilot**  rolini o'z ichiga olgan.  \n\n**2.  ** **Amir Temur:**  Amir Temur 1400-yillarida  **tarixi**  qizilbashlarning rolini ko'rib chiqib, **shakhsi** va **tashkilot**  rolini o'z ichiga olgan.  Amir Temur",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston iqtisodiyoti rivojlanish yo'llari haqida fikr yozing. Write in Uzbek, ≈150 words, in a opinion-based style about paths for Uzbekistan's economic development.",
+    "output": "O'zbekiston iqtisod rivojlanish yo'llarini aniqlash,  to'liq tarzda xususiy usullar va ishlatilgan yo'llarni o'ziga olib, milliy mo'jizalarni o'rganishga o'xshash.  Bu yo'nalishda, tarix, madaniyat va milliy xizmatlarni o'z ichida o'rganish mumkin.  \n\nUzbekistan, katta iqtisodiyot bo'yicha o'zbekistonning milliy ishlarida o'ziga olib, milliy ishlarni o'ziga olib, milliy ishlarni o'ziga olib, milliy ishlarni o'ziga olib, milliy ishlarni o'ziga olib, milliy ishlarni o'ziga olib, milliy is",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Astronomiyada Quyosh tizimi haqida qisqa ma'lumot yozing. Write in Uzbek, ≈100 words, in a informative style about solar system.",
+    "output": "Quyosh tizimi, quyosh tizimining kengaytli va qiziqarli bir elementidir. Bu tizim quyosh tizimi nomi bilan taninilgan. Quyosh tizimi quyoshga to'g'ri yodda bo'lgan, quyoshning yuzasi bilan o'ziga xos bo'lgan. Bu tizimda quyoshning o'ziga xos bo'lgan 8 planet mavjud: Merkur, Venus, Ay, G'azax, G'oz, Saturn, Uran, Neptun. Ularning kabi planetlar o'ziga xos bo'lgan va quyoshga o'ziga xos bo'lgan.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Madaniy merosni saqlash muhimligi haqida insho yozing. Write in Uzbek, ≈250 words, in a argumentative style about importance of preserving cultural heritage.",
+    "output": "##  Qisqacha, tariximizni qisqacha qilmoqchi yoki qidirmoqchi?\n\nMuda qilish uchun, tarixin o'ziga xos xususiyatlariga ega bo'lishi mumkin. Bu, qisqacha, tarixin qisqacha qilishga o'xshab qo'llab-quvvatlash, tarixin o'ziga xos xususiyatlariga ega bo'lishi mumkin. Bu, qisqacha, tarixin qisqacha qilishga o'xshab qo'llab-quvvatlash, tarixin o'ziga xos xususiyatlariga ega bo'lishi mumkin. Bu, qisqacha, tarixin qisqacha qilishga o'xshab qo'llab-quvvatlash, tarixin o",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotidagi zamonaviy yozuvchilar haqida ro'yxat yozing. Write in Uzbek, 4-5 writers, short bio each, in a biographical list style about modern Uzbek writers.",
+    "output": "## O'zbek adabiyoti zamonaviy yozuvchilar ro'yxati:\n\n**1.  ** **Shokhrukh Murodov** (1975- )\n\n   *   Shokhrukh Murodov, O'zbekistonning mashhur adabiyotchisi, \"Uch qayta\" (1997) va \"Qaytib ketgan qahramonlar\" (2002) nomli romanlarida mashhur. \n   *   O'zbek adabiyotining modern va zamonaviy texnologiyalar bilan bog'liqliklarini o'rganishda ishlash bilan shug'ullanib, o'zbek adabiyotini o'zgartirishga va o'zbek tilida mashhurlik qozonib qo'yilgan. \n   *   O'zbekistonning zamonaviy ad",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ekologik muammolarni hal qilish usullari haqida maslahatlar yozing. Write in Uzbek, 5 methods, in a practical style about solutions to ecological problems.",
+    "output": "## Ekologik Muammolarni Hal Qilish Usullarini Ko'rish: 5 Maslahat\n\nEkologik muammolar bizning qobiliytamizni va ma'lumotlarimizni ham, ularni hal qilish uchun bir nechta takliflarni ham aniqlash mumkin. \n\n1. **Ishlab chiqilgan o'zbeklik bilan qanday ishlash kerak?** \n   * **Tashqi ishlash:** Yevropa va Amerika davlatlari, ularning ekologik muamolarini hal qilish uchun ko'plab usullarni ham tushunish kerak. Bu muammolarni hal qilish uchun ularning usullarini o'rganib, ularning maqola, maktab va o'quv usullarini o'rganish kerak.\n2. **O'zbekistonda ekologik",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Geografiyada O'zbekistonning joylashuvi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a geographical descriptive style about geographical location of Uzbekistan.",
+    "output": "## Uzbekistan: A Jewel Nestled Between Continents\n\nUzbekistan, a land of vibrant history and rich culture, finds itself strategically positioned in the heart of Central Asia.  Nestled between the Tian Shan mountains in the north, the Fergana Valley in the east, and the Aral Sea in the west, it's a tapestry woven with diverse landscapes.\n\nThe mighty Amu Darya and Syr Darya rivers, the lifeblood of the region, flow through the country, shaping its fertile plains and shaping its agricultural heritage. This geographic location grants Uzbekistan access to both the Asian and Eurasian continents, making it a crossroads of trade and cultural exchange.\n\nThe country's unique position allows for easy access to neighboring countries like Kazakhstan, Kyrgyzstan, and Tajikistan, fostering strong regional ties.  It boasts a diverse climate, ranging from arid deserts to lush mountain valleys, further enriching its natural beauty. \n\nFrom the towering peaks of the Tien Shan to the fertile plains of the Fergana Valley,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek raqs san'ati haqida qisqa matn yozing. Write in Uzbek, ≈100 words, in a cultural informative style about Uzbek dance art.",
+    "output": "O'zbekiston raqs san'ati, milliy adabiyot, tarix va musiqa bilan bog'liq, o'zbek cho'g'ri va maqsadli tushuntirishni o'rganadi. Uzbekiston tarixi va madaniyatining katta qismini tushuntirish uchun muhim bo'lgan o'zbek raqs san'ati. Uning o'zbek cho'g'ri va maqsadli tushuntirishini o'rganish uchun juda muhim. Uning o'zbek cho'g'ri va maqsadli tushuntirishini o'rganish uchun juda muhim.\n\nUzbek raqs san'ati, o'zbekiston tarixi va madaniyatining katta qismini tushuntirish uchun juda muhim. O'zbekiston tarixi va madani",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ilm-fan rivojlanishidagi ayollarning hissasi haqida insho yozing. Write in Uzbek, ≈200 words, in a highlighting contributions style about women's contributions to science.",
+    "output": "## Yulduzlarni O'zlashtirish: Mustaqil O'limsizlar\n\nUmid, aqliy yutuqlarni to'ldirish, sharafni o'zlashtirish va o'limsizlarni qayta tiklash uchun mustaqil bo'lish, bu odatli ahamiyatga ega.  Milliy tariximizda, shuningdek, o'limsizlarning yulduzlarni o'zlashtirishini ko'rib chiqishga ishonish. \n\n**Yulduzlarni o'zlashtirish**\n\nUshbu qonuniyatni o'lchash uchun, o'limsizlarning ahamiyatini o'rganish kerak.  Ushbu ma'lumotlarga ko'ra, o'limsizlarning ahamiyatini o'rganish kerak",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tog'lar haqida ilhomlantiruvchi she'r yozing. Write in Uzbek, 8 lines, in a inspirational poetic style about mountains.",
+    "output": "Toshchilar so'zlar bilan yuz berishga,\nTug'ilgan qismli, qalbni o'zgartirishga.\nTog'lar yordam, yashash va qiziqarli,\nYaxshi yodda, yaxshi qiziqarli va qiyin.\nToshchilar so'zlar bilan yuz berishga,\nTug'ilgan qismli, qalbni o'zgartirishga.\nTog'lar yordam, yashash va qiziqarli,\nYaxshi yodda, yaxshi qiziqarli va qiyin. \n\n\n**Translation:**\n\nMountains, like words, speak of life,\nA piece of heart, a story they define.\nThey stand tall, a guiding hand,\nChallenges they present, a test to command.\nMountains, like words, speak of life,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Siyosatda demokratiya tamoyillari haqida muhokama yozing. Write in Uzbek, ≈150 words, in a discursive style about principles of democracy.",
+    "output": "Demokratiya, to'liq ma'lumotga va o'z vaqtida qonuniy maqsadlarga olib chiqish uchun muhim bir siyosiy modellardan biridir. Bu modellarda, hukumat, o'z vaqtida o'z mavzu bilan o'zaro bog'liq bo'lib, shaxslar uchun, ma'lumotga qarab, shuningdek, o'z vaqtida ma'lumotga qarab, shuningdek, o'z vaqtida ma'lumotga qarab, shuningdek, o'z vaqtida ma'lumotga qarab, shuningdek, o'z vaqtida ma'lumotga qarab, shuningdek, o'z vaqtida ma'lumotga qarab, shuningdek, o'z vaqtida ma'lumotga qarab, shuningdek,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning turistik joylari haqida reklama matni yozing. Write in Uzbek, ≈100 words, in a promotional style about tourist attractions in Uzbekistan.",
+    "output": "## Uzbekistan: A Journey Through History and Beauty\n\nUzbekistan, a land of ancient wonders and vibrant culture, awaits your discovery! \n\nJourney through time in the grandeur of Samarkand, marvel at the intricate mosaics of Bukhara, and explore the Silk Road's legacy in Tashkent. \n\nExperience the magic of ancient caravanserai, the serenity of majestic Registan Square, and the bustling energy of local markets. \n\nFrom towering minarets to mesmerizing gardens, Uzbekistan offers an unforgettable experience for every traveler. \n\nUnleash your adventurous spirit and immerse yourself in the rich tapestry of Uzbek culture, cuisine, and hospitality. \n\n**Discover Uzbekistan. Discover yourself.**",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Filosofiyada baxt tushunchasi haqida fikr yozing. Write in Uzbek, ≈200 words, in a philosophical reflective style about concept of happiness.",
+    "output": "##  Baxt -  O'z Faydalarini Qanotlash\n\nBaxt,  milliy  ning  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi  ni  o'z  o'rnatish  masalasi",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Zamonaviy ta'lim tizimidagi o'zgarishlar haqida insho yozing. Write in Uzbek, ≈250 words, in a analytical style about changes in modern education system.",
+    "output": "## Modern Education: A Transformation in Progress\n\nThe modern education system is undergoing a significant transformation, driven by a confluence of factors including technological advancements, societal shifts, and globalized demands.  This evolution is characterized by a move away from traditional, rote learning towards a more student-centered approach. \n\nOne key change is the **increasing emphasis on 21st-century skills**.  Students are expected to be not just knowledgeable but also creative, critical thinkers, problem solvers, and communicators. This requires a shift in pedagogy from passive learning to active engagement and collaboration.  The integration of technology is another prominent feature, with digital tools becoming indispensable for learning, teaching, and assessment.  \n\nFurthermore, **the focus on personalized learning** is gaining traction.  Students are no longer confined to a one-size-fits-all approach. They are empowered to pursue their individual interests and learning styles through tailored curricula and individualized support.  This individualized approach promotes deeper understanding and fosters intrinsic motivation",
+    "expected": "",
+    "bleu_score": 0.0
+  }
+]

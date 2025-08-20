@@ -1,0 +1,182 @@
+[
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Pompey shahri 79-yilda Vezuviy vulqonining otilishi natijasida vulqon kuli ostida qoldi. Bu hodisa shaharni ajoyib tarzda saqlab qoldi, arxeologlarga Rim hayoti haqida ma’lumot berdi, ammo minglab odamlarning o‘limiga sabab bo‘ldi. Pompey shahrining saqlanishi vulqon otilishi tabiatini va tarixiy tushunchani qanday ochib beradi?",
+    "output": "Pompey shahri 79-yilda Vezuviy vulqonining otilishi natijasida vulqon koli ostida qoldi. Bu hodisa shaharini ajoyib tarzda saqlab qoldi, arxeologlarga Rim hayoti haqida ma’lumot berdi, ammo minglab odamlarning o‘limiga sabab bo‘ldi. Pompey shahri saqlanishini vulqon otilishi tabiatini va tarixiy tushunchani qanday ochib beradi:\n\n1. Qon otilishining muhimligligi: Qon otilishining muhimligligi shahri tili, tarixi va mihallisi orqada olingan. Qon otilishining saqlanishini Pompey shahri muvaffaqiyonligi va mih",
+    "expected": "Tez ko‘milish artefaktlar va tuzilmalarni saqlab qoldi, Rim hayotini ochib berdi, lekin birdaniga sodir bo‘lgan o‘limlar hodisaning fojiali tezligini ko‘rsatadi.",
+    "bleu_score": 2.9297455106234524e-155
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Kvant o‘zaro bog‘lanish ikki zarra bir-biriga bog‘langan holatda bo‘lib, birining holati boshqasiga masofadan qat’i nazar ta’sir qiladi. Bu Eynshteyn tomonidan 'masofadagi sirli harakat' deb atalgan. Kvant o‘zaro bog‘lanishi klassik fizika tushunchalariga qanday zid keladi va qanday ilovalariga ega?",
+    "output": "Uzbo'rlar, imyo, bu sualga vaqilat.\n\nKvant o‘zaro bog‘lanish holati, masofadan qat‘i nazaridan zid, 1913-yil Eynshteyning fisika tushunchalariga qanday zid keladi. Bu tushuncha, kvant o‘zaro bog‘lanish holati, birningiz holati boshqasiga masofadan qat‘i nazaridan qat‘i tazir etadi. \n\nKvant o‘zaro bog‘lanish holati, birningiz holati boshqasiga masofadan qat‘i nazaridan qat‘i tazir etadi va bu tushuncha, kuantum fiziqa tushunchalariga ega.",
+    "expected": "U masofada bir zumda ta’sir qilish orqali ma’lumotning yorug‘likdan tez yurishi mumkin emasligi haqidagi tushunchaga zid keladi; ilovalari xavfsiz aloqa va kvant hisoblashni o‘z ichiga oladi.",
+    "bleu_score": 8.804363503668162e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Shekspirning 'Gamlet' asarida bosh qahramon otasining o‘ldirilishini tekshirish uchun o‘zini aqldan ozgandek ko‘rsatadi. Uning harakatlari podshohning aybini fosh qiladi. Gamletning soxta jinniligi qanday qilib syujetda psixologik manipulyatsiya vositasi sifatida ishlaydi?",
+    "output": "Jab Shekspirning 'Gamlet' asarida bosh qahramon otasining o‘ldirilishini tekshirish uchun Shekspirning harakatlari podshohning aybini fosh qiladi, o‘zining harakatlari podshohning aybini fosh qiladi. \n\nGamletning soxta jinniligi qanday qilib syujetda psixologik manipulyatsiya vositasi sifatida ishlaydi.",
+    "expected": "Bu unga shubhasiz boshqalarni sinash, podshohning aybini tasdiqlash va intiqom yo‘lida tartibsizlik yaratish imkonini beradi.",
+    "bleu_score": 3.1118147503396668e-155
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Iqlim o‘zgarishi qutb muzliklarining erishini tezlashtirdi, bu dengiz sathining ko‘tarilishiga va ekstremal ob-havo hodisalarining ko‘payishiga olib keldi. Qutb muzliklarining erishi global ekologik beqarorlikka qanday ta’sir qiladi?",
+    "output": "Uzbeqon, Iqlim o‘zgarishi qutb muzliklarining erishini tezlashtiruvchi tufaylasi, dengiz sathining ko‘tarilishiga va ekstremal ob-havo hodisalarining ko‘payishiga olib keldi. Qutb muzliklarining erishi, o‘zgarishning ekologik asosiya tufaylalarini oshirib, global ekologik beqarorlikka qanday ta’sir qiladi.",
+    "expected": "Dengiz sathining ko‘tarilishi, ekotizimlarning buzilishi va ob-havo o‘zgarishi iqlim isishini kuchaytiradi.",
+    "bleu_score": 1.0832677820940877e-231
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Sanoat inqilobi 18-asr oxirida Angliyada boshlanib, bug‘ dvigateli kabi ixtirolar jamiyatni o‘zgartirdi, lekin shaharlarning haddan tashqari to‘lib ketishi va ifloslanishiga olib keldi. Sanoat inqilobining iqtisodiy va ijtimoiy ta’sirini baholang.",
+    "output": "Sanoat inqilobining iqtisodiy va ijtimoiy ta'sirlari tufayl 18-asrlik oxirida Angliyada boshlangan. Bug‘ dvigateli kabi ixtirolar jamiyati, shaharlarning haddan tashqari to‘lib va ifloslanishiga olib keldi.",
+    "expected": "Iqtisodiy o‘sish va ixtirolarni rag‘batlantirdi, lekin yomon ish sharoitlari, bolalar mehnati va shahar muammolarini keltirib chiqardi.",
+    "bleu_score": 9.788429383461836e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Fotosintez o‘simliklarda uglerod dioksid va suvni quyosh nuri yordamida glyukozaga aylantiradi, bu jarayon kislorod ishlab chiqaradi. Fotosintez samaradorligi global uglerod aylanishiga qanday ta’sir qiladi?",
+    "output": "Uzbekce'ye çevirisi:\n\nFotosintez oʻsimliklarda ulyklorod dioksid va suvni quyosh nuri yordamida glyukozaga aylantiradi, bu jarayon kislorod ishlab chiqadi. Fotosintez samaradorligi global ulyklorod aylanishiga qanday ta'sir qoladi.",
+    "expected": "U CO2 ni kamaytirib, iqlimni tartibga soladi; samarasizlik uglerod balansini buzadi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Blokcheyn texnologiyasi markazlashmagan tranzaksiyalarni ta’minlaydi, lekin yuqori energiya sarfi va miqyoslashuv muammolari mavjud. Blokcheynning markazlashmaganligi va amaliy cheklovlari o‘rtasidagi muvozanatni muhokama qiling.",
+    "output": "Uzbekda \"Blokcheyn texnologiyasi markazlashmagan tranzaksiyalarni ta’minlaydi\" ifkasiz tranzaksiyalarning ta'minlashini taqdir edir, lekin \"yuqori energiya sarfi va miqyoslashuv muammolari mavjud\" degenerativ yutunliklarning tashlimini taqdir edir.",
+    "expected": "Markazlashmaganlik xavfsizlikni oshiradi, lekin energiya sarfi va tranzaksiya tezligi keng qo‘llanilishni cheklaydi.",
+    "bleu_score": 1.9566726067414925e-78
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Darvinning tabiiy tanlanish nazariyasi turlarning moslashuvini tushuntiradi, ammo diniy qarashlar bilan bahslarga sabab bo‘ldi. Tabiiy tanlanish bioxilmaxillikni qanday tushuntiradi va qanday tanqidlarga duch keladi?",
+    "output": "Uzvon, Darvinning tabiiy tanlanish nazariyasi turlarning moslashuvini tushuntiradi, ammo diniy qarashlar bilan bahslarga sabab bo‘ldi. Tabiiy tanlanish bioxilmaxillikni qanday tushuntiradi va qanday tanqidlarga duch keladi.",
+    "expected": "Omon qolishga yordam beradigan xususiyatlarni targ‘ib qiladi; tanqidlar fossillarning yetishmasligi va murakkablikni o‘z ichiga oladi.",
+    "bleu_score": 8.147480343967206e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Renessans davrida Evropada klassik bilimlar qayta tiklandi, bosmaxona ixtirosi bilim tarqalishini tezlashtirdi. Renessans davridagi texnologik yutuqlar madaniy o‘zgarishlarga qanday hissa qo‘shdi?",
+    "output": "Uzbeqonchi dil bilimchi (Uzbeqon) shug‘atda:\n\nRenessa davrida Eurapiya (Europada)da klassik bilimlarning aqsa tishlari, bosmaxona ixtirosi bilim tarqalishini tezlashtirdi. Renessa davridagi texnologik yutuqlar manayon madaniy o‘zgarishlarga kanday hissa qo‘shdi.",
+    "expected": "Bosmaxona bilimni ommalashtirdi, humanizm va ilmiy izlanishlarni rag‘batlantirdi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Sun’iy neyron tarmoqlar inson miyasini taqlid qiladi, lekin chuqur o‘qitish katta ma’lumotlar va hisoblash quvvatini talab qiladi. Chuqur o‘qitishning hisoblash talablari AI rivojlanishiga qanday ta’sir qiladi?",
+    "output": "Javab: \n\nSun'iy neyron tarmoqlar, inson miyasini taqlid qiladi, lekin chuqur o‘qitishning hisoblash quvvatini talab qiladi. Chuqur o‘qitishning hisoblash talablari AI rivojlanishiga qanday ta’sir qiladi.",
+    "expected": "Yuqori talablar faqat resursli tashkilotlarga imkon beradi, tengsizlikni oshiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Fransiya inqilobi (1789) monarxiyani ag‘dardi, lekin terror hukmronligi va Napoleonning yuksalishiga olib keldi. Fransiya inqilobining mafkuraviy asoslari avtoritar amaliyotlarga qanday aylandi?",
+    "output": "Jawab: Fransiya inqilobining mafkuraviy asoslari avtoritar amaliyotlarga qanday aylandi.",
+    "expected": "Ozodlik g‘oyalari islohotlarni boshladi, lekin qo‘rquv terrorga, keyin diktaturaga olib keldi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Qora tuynuklar yorug‘lik chiqa olmaydigan kuchli tortishish sohasiga ega bo‘lib, Xoking nurlanishi ularning bug‘lanishini ko‘rsatadi. Qora tuynuklarning ma’lumot yo‘qotish paradoksi nima va Xoking nurlanishi buni qanday hal qiladi?",
+    "output": "Uzvilarning ma'limot yo'konlari bilan bog'da qora tuynuklarning ma'limoti yo'konlari ko'radi.",
+    "expected": "Paradoks ma’lumotning yo‘q qilinishi kvant mexanikasiga zid; Xoking nurlanishi ma’lumotni qaytarishni taklif qiladi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Jeyn Ostinning 'G‘urur va xurofot' asarida ijtimoiy sinf va nikoh muammolari Elizabet Bennetning sevgi hikoyasi orqali ko‘riladi. Ijtimoiy normalar qahramonlar motivatsiyasiga qanday ta’sir qiladi?",
+    "output": "Jeyon Ostinning 'G‘urur va xurofot' asarida Elizabet Bennetning sevgi hikoyasi orqali ko‘rilandi. Jeyon Ostinning 'G‘urur va xurofot' asarida ijtimoiy normalar qahramonlar motivatsiyasiga kanday ta’sir qiladi.",
+    "expected": "Sinfi va jins normalari nikohni majburlaydi, lekin shaxsiy o‘sish xurofotlarni yengadi.",
+    "bleu_score": 8.147480343967206e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Qayta tiklanadigan energiya manbalari uzluksiz emas, ammo aqlli tarmoqlar va batareyalar bu muammoni hal qiladi. Qayta tiklanadigan energiya uzluksizligini ta’minlash uchun qanday strategiyalar mavjud?",
+    "output": "Uzoviston, konservatorlik uchillishuvi uchigacha qayta tiklanadigan energiya uzluksizligi haqida fayllar bilan tushnayot, tashkilotning muammoni hal qiladi. Qayta tiklanadigan energiya uzluksizligi uchiga qayta tiklanadigan energiya uzluksizlik uchigacha qayta tiklanadigan energiya uzluksizligini ta'minlash uchun strategiyalar mavjud:\n\n1. Bina qoydi qayta tiklanadigan energiya uzluksizlik uchiga qayta tiklanadigan energiya uzluksizlik uchiga konservatorlik uchillishuvi tashkilotining muammoni hal qiladi.\n2. Qayta tiklanadigan energiya uzluks",
+    "expected": "Batareyalar, diversifikatsiya va aqlli tarmoqlar talab-ta’minotni muvozanatlashtiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Sovuq urush AQSh va SSSR o‘rtasida vakolatli urushlar va qurol poygasini keltirib chiqardi, 1991-yilda SSSR parchalanishi bilan yakunlandi. Vakolatli urushlar Sovuq urush dinamikasini qanday davom ettirdi?",
+    "output": "Uz-be! \n\nSovuq urush AQSh va SSSR o‘rtasida vakolatli urushlar va qurol poygasini keltirib chiqardi, 1991-yilda SSSR parchalanishi bilan yakunlandi.\n\nVakolatli urushlar Sovuq urush dinamikasini qanday davom ettirdi.",
+    "expected": "Ular superdavlatlarga bilvosita ta’sir o‘tkazish imkonini berdi, yadroviy eskalatsiyani oldini oldi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: CRISPR-Cas9 gen tahrirlash kasalliklarni davolashni va’da qiladi, lekin axloqiy muammolar, masalan, dizayner chaqaloqlar xavfini keltirib chiqaradi. CRISPRning inson ilovalaridagi axloqiy muammolar nimalardan iborat?",
+    "output": "Uzvoning tarkiriga xalobatli CRISPR-Cas9 gen tahrirshun kasalliklarni davolashdi, lekin axloqiy muammolar, masalan, dizayner chaqaloqlar xavfini keltirib chiqaradi.",
+    "expected": "Davolash potentsiali yuqori, lekin evgenika va noaniq mutatsiyalar xavfi mavjud.",
+    "bleu_score": 8.972141065609098e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Ipak yo‘li Sharq va G‘arb o‘rtasida savdo va g‘oyalar almashinuvini ta’minladi, lekin kasalliklar tarqalishiga ham sabab bo‘ldi. Ipak yo‘lining madaniy almashinuvlari qanday ijobiy va salbiy oqibatlarga olib keldi?",
+    "output": "Uzbek darveshon, ipak yo‘linin kasalliklari tarqalishiga sabab boʻldi. Kasalliklar tarafozligi bilan, ipak yo‘lining madaniy almashinuvlari qanday ijobiy va salbiy oqibatlarga olib keldi.",
+    "expected": "Bilim va iqtisodiy o‘sishni rag‘batlantirdi, lekin O‘lat kabi kasalliklarni tarqatdi.",
+    "bleu_score": 8.412065649527267e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Mashinaviy o‘qitish algoritmlari ma’lumotlardan o‘rganadi, lekin haddan tashqari moslashish shovqinni eslab qolishga olib keladi. Regulyarizatsiya texnikalari haddan tashqari moslashishni qanday oldini oladi?",
+    "output": "Uzbekda \"Mashinaviy o'qitish algoritmlari\" terimi \"Mashinaviy o'qitish\" (Uzbekcha:  машинирование) va \"algoritmlar\" (Uzbekcha:  алгебра) shildirishadi, lekin \"algoritmlar ma'lumotlardan o'rganadi\" (Uzbekcha:  алгебраic data) va \"haddan tashqari moslashish shovqinni eslab qolishga olib keladi\" (Uzbekcha:  внешней суетке устранять) koʻpinchalardan \"haddan tashqari moslashish shovqinni\" (Uzbekcha:  внешняя суетка) bilan taniladi.\n\nTavfiol shovqin sh",
+    "expected": "L1/L2 jazolari modellarini soddalashtirib, umumlashtirishni rag‘batlantiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Amerika fuqarolar urushi (1861-1865) qullik va shtatlar huquqlari uchun olib borildi, Emansipatsiya deklaratsiyasi ma’naviy yo‘nalishni o‘zgartirdi. Harbiy strategiyalar va siyosiy manevrlar urush natijasiga qanday ta’sir qildi?",
+    "output": "Amerika fuqarolar urushi (1861-1865) qullik va shahar shtatlar huquqlari uchun olib borildi. Emansipatsiya deklaratsiyasi ma’naviy yo‘nalishni o‘zgartirdi. Harbiy strategiyalar va siyosiy manevrlar urush natijasiga qanday ta’sir qildi.",
+    "expected": "Ittifoq blokadasi va Emansipatsiya konfederatsiyani zaiflashtirdi va xalqaro yordamni jalb qildi.",
+    "bleu_score": 1.1302704678971024e-231
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Okean kislotalanishi CO2 so‘rilishi tufayli koral riflari va mollyuskalar qobig‘ini yo‘q qiladi, oziq-ovqat zanjirini buzadi. Okean kislotalanishining global ekotizimlarga ta’siri nimalardan iborat?",
+    "output": "Uzvet, Okean kislotalanishining global ekotizimlarga ta'siri nimalardan iboratligi ko'pligacha o'zbek tilida \"Okean kislotalanishning global ekotizimlarga ta'siri nimalardan iboratligi bilan tufayli koral riflari va mollyuskalar qobig‘ning buzligi\" deb kalitiladi.",
+    "expected": "Riflar yo‘qolishi oziq-ovqat zanjirini buzadi, baliqchilik va turizmga zarar yetkazadi.",
+    "bleu_score": 7.919883909890055e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Oruellning '1984' asarida totalitar jamiyatda til va propaganda fikrlarni boshqaradi. Til manipulyatsiyasi qanday qilib ijtimoiy nazorat vositasi sifatida ishlaydi?",
+    "output": "Uzbek sayti dan tahrir edimisiz, 1984 asarida totalitar jamiyatta til va propaganda fikrliklarini boshqaradi. Til manipulyatsiyasi ijtimoiy nazorat vositasi sifatida ishlaydi.",
+    "expected": "Yangi so‘zlar fikrlarni cheklaydi, ikkiyoqlama fikrlash haqiqatni yo‘q qiladi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Simlar nazariyasi zarralarni ko‘p o‘lchovli tebranish sifatida tasavvur qiladi, lekin amaliy dalillar yo‘q. Simlar nazariyasining empirik tasdiqlashdagi qiyinchiliklari nimalardan iborat?",
+    "output": "Uzvet, Simlar nazariyalarni ko'p o'lochovli tebranish sifatida tasavvur qiladi, lekin amaliy dalillar yo'q. Simlar nazariyalar empirik tasdiqlashdagi qiyinchiliklari nimalardan iborat.",
+    "expected": "Yuqori energiya talablari va yechimlarning ko‘pligi sinovni qiyinlashtiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Meyji islohoti Yaponiyani 1868-yilda modernlashtirdi, G‘arb texnologiyalarini qabul qildi, lekin milliy o‘ziga xoslikni saqladi. Meyji davridagi tanlangan G‘arbiylashtirish modernizatsiyani qanday muvozanatlashtirdi?",
+    "output": "Meyji davrida G‘arbiylashtirish modernizatsiyasi qanday muvozanatlashtirildi.",
+    "expected": "Sanoat va harbiy islohotlar qudratni oshirdi, imperator va an’analar o‘ziga xoslikni saqladi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Kriptovalyutalar markazlashmagan tarmoqlarda ishlaydi, lekin narxlar o‘zgaruvchanligi keng qo‘llanilishni cheklaydi. Kriptovalyutalarning afzalliklari va cheklovlarini muhokama qiling.",
+    "output": "Uzbekce'de, bu metin \"Kriptovalyutallarda kriptovalyutalar markazlashmagan tarmoqlarda ishlaydi, lekin kriptovalyutallarda o‘zgaruvchanligi keng qo‘llanilishni cheklaydi. Kriptovalyutallarda afzalliklari va cheklovlarini muhokama qiling\".",
+    "expected": "Shaffoflik va xavfsizlikni ta’minlaydi, lekin narx o‘zgaruvchanligi va tartibga solish muammolari to‘sqinlik qiladi.",
+    "bleu_score": 1.1337861261109773e-231
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Genetik mutatsiyalar turlarning rivojlanishida muhim rol o‘ynaydi, lekin zararli mutatsiyalar kasalliklarga olib keladi. Genetik mutatsiyalarning ijobiy va salbiy ta’sirlarini tahlil qiling.",
+    "output": "Uzvet: Tavrit: Mutatsiyalar turlarining rivojlanishida muhim rol o‘ynaydi, lekin xam xatvonlar kasalliklarga olib keladi. Mutatsiyalar ijobiy va salbiy ta’sirlarini tahlil qiling.\n\nUzviy tahlil: Genetik mutatsiyalar turlarining rivojlanishida muhim rol o‘ynaydi, lekin xam xatvonlar kasalliklarga olib keladi. Genetik mutatsiyalarning ijobiy va salbiy ta’sirlarini tahlil qiling.",
+    "expected": "Mutatsiyalar moslashishni ta’minlaydi, lekin zararli mutatsiyalar kasalliklarni keltirib chiqaradi.",
+    "bleu_score": 9.309480961664223e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Internetning rivojlanishi global aloqalarni osonlashtirdi, lekin kiberxavfsizlik muammolarini keltirib chiqardi. Internetning aloqa sohasidagi foydalari va xavf-xatarlari nimalardan iborat?",
+    "output": "Uzbekça'da, buveysa \"Internetning rivojlanishi global aloqalarni osonlashtirdi, lekin kiberxavfsizlik muammolarini keltirib chiqardi\" (inglizce \"Internet's development hindered global communication's security, but hindered cyber threats\").\n\nInternetin sohagidan faydalari va xavf-xatarlari nimalardan iborat:\n\n*   Internetin faydoni va xavf-xatarlari nimalardan iborat: \n    -   Internetin faydoni nimalar nihon kevwezat, rusyalı, amerikalı, kanadakan, afgan, burun, afganistanda, Suriya, Turkestan, Qipchakistan, Afganistan, Afganistan, Afganistan, A",
+    "expected": "Global aloqa va ma’lumot almashishni osonlashtiradi, lekin kiberxujumlar va maxfiylik xavfi mavjud.",
+    "bleu_score": 8.764792329201055e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Antarktida muzliklari erishi global iqlim va dengiz sathiga ta’sir qiladi, ammo uzoq masofalar tufayli tadqiqotlar qiyin. Antarktida muzliklarining erishi global iqlimga qanday ta’sir qiladi?",
+    "output": "Uzvoning tarkhiy qonuniyon hisobiga, Antarktida muzliklari global iqlimni ta'sir etdi, lekin uzoq masofalar tufaylli bilan tadqiqotlar osonlikni tazkir etdi.",
+    "expected": "Dengiz sathining ko‘tarilishi va iqlimning o‘zgarishi global ekotizimlarni buzadi.",
+    "bleu_score": 8.726094729337945e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Sun’iy intellektning rivojlanishi avtomatlashtirishni oshirdi, lekin ish o‘rinlari yo‘qotilishi va axloqiy muammolarni keltirib chiqardi. Sun’iy intellektning iqtisodiy foydalari va ijtimoiy xavf-xatarlari nimalardan iborat?",
+    "output": "Uzbeqon, sun'iy intellektning rivojlanish avtomatlashtirishni oshirdi, lekin ish o'rinlari yo'qotish va axloqiy muammolarni keltirib chiqardi. Sun'iy intellektning iqtisodiy foydalari va ijtimoiy xavf-xatarlari nimalardan iborat.\n\nUzbeqon.",
+    "expected": "Ish samaradorligini oshiradi, lekin ish o‘rinlari yo‘qotilishi va qarorlarning adolatsizligi xavfini keltirib chiqaradi.",
+    "bleu_score": 4.262352868760118e-155
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: O‘rta asrlar Evropasida feodal tuzum hukmron edi, lekin savdo va shaharlarning o‘sishi uni zaiflashtirdi. Shaharlarning o‘sishi feodal tuzumga qanday ta’sir qildi?",
+    "output": "Uzvoda 1: O‘rta asrda Evropa shaharlarida feodal tuzum hukmri (feodalizm) o‘zini o‘zga nisqatlashtirdi.\n\nUzvoda 2: Feodal tuzumda shaharlarning o‘sishi, feodalizmga qanday ta'sir qildi.",
+    "expected": "Savdo va shaharlarning rivojlanishi iqtisodiy mustaqillikni oshirib, feodal tuzumni zaiflashtirdi.",
+    "bleu_score": 9.893133360884868e-232
+  },
+  {
+    "input": "Based on the following context, answer the question in Uzbek: Kosmosni tadqiq qilish insoniyatning olam haqidagi tushunchasini kengaytirdi, lekin yuqori xarajatlarga ega. Kosmos tadqiqotlarining ilmiy foydalari va moliyaviy cheklovlari nimalardan iborat?",
+    "output": "Jabir, insoniyatning olam haqidagi tushunchasini kengaytirdi, lekin yuqori xarajatlarga ega. Kosmos tadqiqotlarining ilmiy foydalari va moliyaviy cheklovlari nimalardan iborat.",
+    "expected": "Ilmiy kashfiyotlar va texnologik yutuqlarni ta’minlaydi, lekin katta xarajatlar resurslarni cheklaydi.",
+    "bleu_score": 1.0377133938315695e-231
+  }
+]

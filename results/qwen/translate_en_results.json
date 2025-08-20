@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: I am hungry.",
+    "output": "<think>\nOkay, the user wants me to translate \"I am hungry.\" from English to Uzbek. Let me start by breaking down the sentence. The main part is \"I am hungry.\" In Uzbek, \"I\" is \"Bugun,\" \"hungry\" is \"sizlik\" or \"taklif.\" The structure should be straightforward. So combining them, it would be \"Bugun sizlik.\" Wait, but \"hungry\" can also be \"taklif\" which is more common. Let me check. Yes, \"taklif\" is the standard term for hunger in Uzbek. So the translation should be \"Bugun taklif.\" That seems correct. I should make sure there's no grammatical issues. The sentence is simple and clear. Yep, that's it.\n</think>\n\nBugun taklif.",
+    "expected": "Men och qoldim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: She is my sister.",
+    "output": "<think>\nOkay, the user wants me to translate \"She is my sister.\" from English to Turkish. Let me start by understanding the sentence structure. The main clause is \"She is my sister,\" so the translation should reflect that relationship.\n\nFirst, \"She\" in Turkish is \"Bana.\" Then \"is\" translates to \"buna.\" So combining them, it would be \"Bana buna.\" But wait, \"my sister\" is \"bana bana.\" Hmm, maybe \"bana bana\" is correct. Alternatively, \"bana bana\" might be more direct. Let me check. The phrase \"my sister\" is \"bana bana.\" So putting it all together, \"Bana bana.\" That seems right.\n\nWait, sometimes people say \"I'm your sister\" but in this case, the original is \"She is my sister.\" So \"She\" is the subject, so the translation should be \"Bana bana.\" Yes",
+    "expected": "U mening singlim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The weather is cold today.",
+    "output": "<think>\nOkay, the user wants me to translate \"The weather is cold today.\" from English to Uzbek. Let me start by breaking down the sentence. The main parts are \"The weather is cold today.\"\n\nIn Uzbek, \"weather\" is \"sahada\" or \"sahada xalq.\" But \"weather\" can also be \"sahada\" when referring to the climate. \"Cold today\" translates to \"sahada xalq xatam\" or \"sahada xalq xatam.\" \n\nWait, maybe \"sahada xalq xatam\" is more accurate. Let me check. \"Cold today\" is \"xatam\" in Uzbek. So putting it all together: \"Sahada xalq xatam.\" \n\nI should make sure there are no grammatical errors. The sentence structure in Uzbek is similar to English, so the translation should be correct. Let me confirm once more. Yes,",
+    "expected": "Bugun havo sovuq.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: This is my house.",
+    "output": "<think>\nOkay, the user wants me to translate \"This is my house.\" from English to Uzbek. Let me start by understanding the sentence. The original is simple and straightforward. \n\nFirst, \"This is\" translates to \"Bu bir\" in Uzbek. Then \"my house\" would be \"soyada.\" So putting it together, \"Bu bir soyada.\" That seems correct.\n\nI should check if there are any nuances or common phrases. In Uzbek, \"house\" can be \"soyada\" or \"sahra,\" but \"soyada\" is more common for a house. Also, the structure is simple, so no need for additional words. \n\nWait, maybe \"my house\" could be \"soyada\" as well. Let me confirm. Yes, \"soyada\" is the correct translation for \"house.\" So the translation is accurate. \n\nI don't see any other parts to translate here. The user only provided the sentence, so",
+    "expected": "Bu mening uyim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: We are friends.",
+    "output": "<think>\nOkay, the user wants me to translate \"We are friends.\" from English to Turkish and only provide the translated text. Let me start by understanding the original sentence. The phrase \"We are friends\" is a simple statement, so the translation should be straightforward.\n\nIn Turkish, the sentence structure is similar. \"Hadi\" is a common way to say \"we are\" and \"fri\" means \"friends.\" So putting it together, \"Hadi fri.\" would be the translation. I need to check if there's any more formal or specific terms required, but since the original is a simple statement, \"Hadi fri.\" should be accurate. Let me double-check for any possible errors. Yes, that seems right. No additional information or context needed here. So the final translation is \"Hadi fri.\"\n</think>\n\nHadi fri.",
+    "expected": "Biz do‘stmiz.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: I want some water.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"I want some water.\" from English to Uzbek. Let me start by understanding the original sentence. The subject is \"I,\" the verb is \"want,\" and the object is \"some water.\" \n\nIn Uzbek, the structure would be similar. The word \"I\" is \"mim.\" Then \"want\" can be \"bund\" or \"sizga.\" Since the sentence is in the present tense, \"want\" is used. \"Some\" translates to \"bosh\" or \"sho\" depending on the context. \"Water\" is \"koyu\" or \"boshqar.\"\n\nPutting it all together: \"Mim bund bosh koyu.\" Let me check if that's correct. Yes, that's a standard translation. I should make sure there are no grammatical errors. Also, confirm that \"bosh\" is the right word for \"some.\" Yes, that's",
+    "expected": "Menga biroz suv kerak.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: He is very tall.",
+    "output": "<think>\nOkay, the user wants me to translate \"He is very tall.\" from English to Uzbek and provide only the translated text. Let me start by understanding the sentence structure.\n\nThe original sentence is a simple statement. In Uzbek, the structure would be similar. The phrase \"He is very tall\" can be translated as \"Biz qaraytirish qilish qilish\" or \"Biz qaraytirish qilish qilish.\" Wait, maybe \"qaraytirish qilish\" is better here. Let me check. \"He is very tall\" translates to \"Biz qaraytirish qilish\" (He is tall) or \"Biz qaraytirish qilish\" (He is tall). Hmm, perhaps \"qaraytirish qilish\" is more accurate. Alternatively, \"Biz qaraytirish qilish\" could be used. I should make",
+    "expected": "U juda baland bo‘yli.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Where is the bus stop?",
+    "output": "<think>\nOkay, the user wants me to translate \"Where is the bus stop?\" from English to Turkish. Let me start by understanding the original sentence. The question is asking for the location of a bus stop. \n\nFirst, I need to make sure the translation is accurate. The word \"bus stop\" in Turkish is \"kazın geçiş\" or \"kazın geçiş noktası\". Since the question is asking for the place, \"kazın geçiş noktası\" sounds right. \n\nNow, the structure of the sentence. In Turkish, questions are usually placed at the beginning, so \"Kazın geçiş noktası?\" would be correct. I should check if there are any other possible translations for \"bus stop\". Maybe \"kazın geçiş\" is more formal, while \"kazın geçiş noktası\" is more general. \n\nAlso, making sure that the translation is concise and natural. The user didn't specify any additional context, so keeping it simple",
+    "expected": "Avtobus bekati qayerda?",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: I like your car.",
+    "output": "<think>\nOkay, the user wants me to translate \"I like your car.\" from English to Turkish and only provide the translated text. Let me start by understanding the original sentence.\n\n\"I like your car.\" The subject is \"I,\" the object is \"your car.\" In Turkish, the structure would be similar. \"I like\" translates to \"İyi mi.\" \"Your car\" would be \"o kadar çok mi?\" Wait, no, in Turkish, \"your car\" is \"o kadar çok mi?\" but maybe more natural phrasing is \"o kadar çok mi?\" or \"o kadar çok mi?\" Hmm, maybe \"o kadar çok mi?\" is better. Let me check. Yes, \"your car\" in Turkish is \"o kadar çok mi?\" but sometimes it's \"o kadar çok mi?\" which is more direct. Alternatively, \"o kadar çok mi?\" could be used. So the correct translation would be \"İyi mi, o kadar çok mi?\" but maybe",
+    "expected": "Menga mashinangiz yoqdi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: My name is Ali.",
+    "output": "<think>\nOkay, the user wants me to translate \"My name is Ali.\" from English to Uzbek and only provide the translated text. Let me start by checking the original sentence. \"My name is Ali.\" is straightforward. \n\nIn Uzbek, \"My name is\" would be \"Bir birini isminim.\" and \"Ali\" would be \"Ali\". So putting it together, it should be \"Bir birini isminim Ali.\" \n\nWait, sometimes in Uzbek, the order of the names might be different. But since \"Ali\" is the name, and the sentence is \"My name is Ali,\" the translation should be correct. I need to make sure there are no typos. Let me double-check. \"Bir birini isminim Ali.\" seems right. Yes, that's the correct translation. \n\nI don't see any other parts of the sentence that need translation. The user just wants the translation of the given sentence. So I'll present",
+    "expected": "Mening ismim Ali.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: I go to the gym three times a week.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"I go to the gym three times a week.\" from English to Uzbek. Let me start by understanding the original sentence.\n\n\"I go to the gym three times a week.\" The key points here are \"I\", \"go to the gym\", \"three times a week\". \n\nTranslating \"I go\" would be \"Soyunimizga\". Then \"to the gym\" is \"gymi\". \"Three times a week\" translates to \"yüzüm qiziq qiziq\". So putting it all together: \"Soyunimizga gymi yuzum qiziq qiziq.\"\n\nWait, let me check if \"yüzum qiziq\" is the correct term. \"Three times a week\" is \"yüzüm qiziq\" in Uzbek. Yes, that's right. \n\nIs there any nuance I'm missing? The sentence is straightforward, so",
+    "expected": "Men haftasiga uch marta sport zaliga boraman.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Yesterday we went shopping at the mall.",
+    "output": "<think>\nOkay, let's see. The user wants me to translate the sentence \"Yesterday we went shopping at the mall.\" from English to Turkish. First, I need to make sure I understand the original sentence correctly. \"Yesterday\" is \"İstersi\" in Turkish, \"we went shopping\" would be \"gördük alışveriş\" or maybe \"gördük alışverişleri yapırdık\". Then \"at the mall\" is \"malla\" or \"malla\" as well. So putting it all together: \"İstersi, malla'da alışveriş yapırdık.\" That seems right. Wait, \"shopping\" is \"alışveriş\" in Turkish, so that's correct. I should check if there's a more natural way to say \"went shopping\" in Turkish. Maybe \"gördük alışverişleri yapırdık\" or \"gördük alışverişleri yapırdık.\" Either way, it's similar. The key is to",
+    "expected": "Kecha biz savdo markaziga borib xarid qildik.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: He speaks Uzbek, Russian, and English fluently.",
+    "output": "<think>\nOkay, let's tackle this translation. The user wants the sentence \"He speaks Uzbek, Russian, and English fluently.\" translated into Turkish. First, I need to make sure I understand the original meaning correctly. The person has fluency in three languages: Uzbek, Russian, and English.\n\nStarting with \"speaks Uzbek, Russian, and English fluently.\" In Turkish, \"speaks\" would be \"çeriyorum\" or \"çeriyorum. He can speak Uzbek, Russian, and English. So the structure would be \"Eğer Çeriyorum Uzbek, Rüsim, ve Engleze beceriyorum.\"\n\nWait, \"fluently\" might be better as \"beceriyorum\" instead of \"fluently.\" Also, \"speaks\" is plural, so using \"çeriyorum\" is correct. Let me check the order. The original says he speaks three languages, so plural. Then the verb \"speaks",
+    "expected": "U o‘zbek, rus va ingliz tillarida ravon gapiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: I forgot my wallet at home this morning.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"I forgot my wallet at home this morning\" from English to Turkish. Let me start by understanding the original sentence. The key points are that the speaker forgot their wallet, located at home, and the time is this morning.\n\nNow, translating \"I forgot my wallet\" – in Turkish, that would be \"Yeni bir sayaçımın hemen bir yerde olmamı kaybetti.\" Wait, \"sayaçım\" is \"wallet\" in Turkish, so that's correct. \n\nNext, \"at home\" translates to \"şehirde\" or \"hemen.\" Since the original says \"at home,\" maybe \"hemen\" is better here. \n\n\"this morning\" is \"yeni saat\" or \"bu gün.\" Using \"bu gün\" is more natural. \n\nPutting it all together: \"Bu gün, hemen, şehirde bir sayaçımın hemen",
+    "expected": "Ertalab hamyonimni uyda unutib qoldim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: My father works in a bank as a manager.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"My father works in a bank as a manager.\" from English to Turkish, and only provide the translated text. Let me start by breaking down the original sentence.\n\nFirst, \"My father\" translates to \"İlerim.\" In Turkish, \"my father\" is commonly \"İlerim.\" Next, \"works in a bank\" would be \"bank'ı çalışır.\" Then, \"as a manager\" is \"yeni bir yöneticidir.\" So putting it all together, it should be \"İlerim, bank'ı çalışır yeni bir yöneticidir.\" \n\nWait, does \"as a manager\" need to be in the same order? Yes, the structure in Turkish is \"as a [noun].\" So \"yeni bir yöneticidir\" makes sense. Let me double-check for any grammatical errors. The verb \"works\" here is \"alışır,\" which is correct",
+    "expected": "Otam bankda menejer bo‘lib ishlaydi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: We are planning to visit Samarkand next month.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"We are planning to visit Samarkand next month.\" from English to Uzbek. Let me start by understanding the original sentence. The main points are that they're planning to visit Samarkand in the next month.\n\nFirst, \"We are planning to visit\" translates to \"Samarkandda kiyalamamiz.\" Next, \"next month\" is \"saharli qaror.\" So putting it together, \"Samarkandda kiyalamamiz saharli qaror.\" \n\nWait, I should check if \"koylamamiz\" is the correct term. \"Visit\" in Uzbek is \"koylamamiz,\" and \"plan\" is \"koylamamiz.\" Yes, that seems right. Also, \"next month\" is \"saharli qaror.\" \n\nI need to make sure the translation is clear and natural in Uzbek. Let",
+    "expected": "Keyingi oy Samarqandga borishni rejalashtiryapmiz.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The train leaves at 8:30 in the morning.",
+    "output": "<think>\nOkay, so the user wants me to translate the sentence \"The train leaves at 8:30 in the morning.\" from English to Uzbek. Let me start by understanding the original sentence. It's a simple statement about a train leaving at a specific time in the morning. \n\nFirst, I need to make sure 30\" is correct. The phrase \"in the morning\" translates to \"kamisda\" or \"hazmatda\". I should check which is more natural. \"Hazmatda\" sounds more like a common time expression. \n\nNext, the structure of the sentence. The original is \"The train leaves at 8:30 in the morning.\" So in Uzbek, it would be \"Sahaba 8:30 hazmatda qayta.\"",
+    "expected": "Poyezd ertalab soat 8:30 da jo‘naydi.",
+    "bleu_score": 5.6645104083792066e-232
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Please call me when you arrive.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"Please call me when you arrive.\" from English to Uzbek and only provide the translated text. Let me start by understanding the original message.\n\nThe sentence is a simple request, so the translation should be straightforward. \"Please call me when you arrive.\" translates to \"Bir biri ənənələmənən ola biləm. Dəyərinə qarə ənənələmənən ola biləm.\" Wait, let me check again. The original says \"when you arrive,\" so \"dəyərinə qarə\" is correct. \"Call me\" is \"birləmənən ola biləm.\" \"Arrive\" is \"ənənələmənən ola biləm.\" \n\nI need to make sure the Uzbek sentence is",
+    "expected": "Yetib borganingizda iltimos, menga qo‘ng‘iroq qiling.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: I don’t eat meat, but I like fish.",
+    "output": "<think>\nOkay, let's see. The user wants me to translate the sentence \"I don’t eat meat, but I like fish.\" from English to Turkish. First, I need to make sure I understand the original sentence correctly. The person doesn't eat meat but likes fish.\n\nSo, translating \"I don’t eat meat\" would be \"Bir şeyi tüketmem\" or \"Bir şeyi içmem\" depending on the context. \"But\" here is \"ve\" or \"ve\" in Turkish. \"I like fish\" translates to \"fikirimde koyu koyu\" or \"fikirimde koyu koyu\". \n\nWait, \"like fish\" could be \"fikirimde koyu koyu\" or \"fikirimde koyu koyu\". Let me check. \"I like\" is \"fikirimde\". \"Fish\" is \"koyu",
+    "expected": "Men go‘sht yemayman, lekin baliqni yaxshi ko‘raman.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: There is a big park near my house.",
+    "output": "<think>\nOkay, the user wants me to translate \"There is a big park near my house.\" from English to Uzbek. Let me start by breaking down the sentence. \n\nFirst, \"There is\" translates to \"Bir xiz qilish\" in Uzbek. The main clause here is \"There is a big park,\" so the structure should be \"Bir xiz qilish xiz qilish qilish.\" \n\nThen \"near my house\" would be \"o məm məsəfəsində.\" So putting it all together, the translation would be \"Bir xiz qilish o məm məsəfəsində.\" \n\nWait, but maybe \"near my house\" could be \"o məm məsəfəsində.\" That's correct. Let me double-check the grammar and word order. Yes, that seems right. The sentence is clear and conveys the",
+    "expected": "Uyim yonida katta bog‘ bor.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Education is the most powerful tool to change the world.",
+    "output": "<think>\nOkay, the user wants me to translate \"Education is the most powerful tool to change the world.\" from English to Uzbek. Let me start by understanding the original sentence. The key points here are \"Education\" and \"most powerful tool,\" followed by \"change the world.\"\n\nFirst, \"Education\" in Uzbek is \"Avtomatizma\" or \"Ismal.\" But \"education\" is more commonly translated as \"Ismal.\" So I'll go with \"Ismal.\" \n\nNext, \"most powerful tool\" – \"most powerful\" can be \"nokomlugu\" or \"nokomlugu yaratish.\" \"Tool\" here refers to a means or method. So \"most powerful tool\" could be \"nokomlugu yaratish\" or \"nokomlugu yaratish.\" Since \"most powerful,\" maybe \"nokomlugu yaratish\" is better. \n\n\"Change the world\"",
+    "expected": "Ta’lim — dunyoni o‘zgartirishning eng kuchli vositasidir.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: No matter how difficult the road is, we must keep moving forward.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"No matter how difficult the road is, we must keep moving forward.\" from English to Uzbek. Let me start by breaking down the original sentence.\n\nFirst, \"No matter how difficult the road is\" – \"No matter\" translates to \"Birikish\" or \"Birikish bo'lgan\" depending on context. \"How difficult the road is\" would be \"qaraytirish\" or \"qaraytirish bo'lgan\". The structure here is a conditional, so maybe \"Birikish bo'lgan qaraytirish\" would work. \n\nThen \"we must keep moving forward\" – \"we\" is \"o'qim\", \"must keep\" is \"oqim qo'lang\", and \"moving forward\" is \"qo'langan\". So putting it together: \"Birikish bo'lgan",
+    "expected": "Yo‘l qanchalik qiyin bo‘lmasin, biz oldinga yurishda davom etishimiz kerak.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: He achieved success thanks to his patience and hard work.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"He achieved success thanks to his patience and hard work.\" from English to Turkish, and only provide the translated text. Let me start by understanding the original sentence.\n\nThe key points here are \"achieved success\", \"thanks to his patience and hard work\". In Turkish, \"success\" can be translated as \"çalışma\" or \"çalışma sonuçları\". \"Patience\" is \"yakınlığını\" or \"dikiliği\", and \"hard work\" is \"karma\". \n\nPutting it together, \"He achieved success thanks to his patience and hard work.\" translates to \"Bu kişi, dikkatli ve karmaşık çalışmasıyla başarıya ulaşmıştır.\" Wait, but \"hard work\" might be better as \"karma\". Let me check again. \"Patience and hard work\" as \"dikkatli ve karmaşık çalışması\" makes sense. \n\nI should make sure",
+    "expected": "U sabr-toqat va mehnati tufayli muvaffaqiyatga erishdi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Freedom of speech is an important right in every society.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"Freedom of speech is an important right in every society.\" from English to Turkish and only provide the translated text. Let me start by understanding the original sentence.\n\n\"Freedom of speech\" translates to \"Açıklama özgürlüğü\" in Turkish. \"Is an important right\" would be \"bir çok bir özgürlüğü\" or \"bir değerli bir özgürlüğü\". \"In every society\" is \"her kivili\" or \"her dili\". \n\nPutting it all together: \"Açıklama özgürlüğü her kivili bir çok bir özgürlüğü.\" Hmm, maybe \"her dili\" is better here because \"society\" in Turkish refers to \"dili\". Wait, \"society\" can also be \"kivili\". Let me check if \"her kivili bir çok bir özgürlüğü\" is correct. Alternatively, \"her kivili bir çok bir özgü",
+    "expected": "So‘z erkinligi har bir jamiyatda muhim huquqdir.",
+    "bleu_score": 5.4817391526732266e-232
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The book discusses the impact of technology on human relationships.",
+    "output": "<think>\nOkay, the user wants me to translate the given English sentence into Turkish and provide only the translated text. Let me start by understanding the original sentence: \"The book discusses the impact of technology on human relationships.\" \n\nFirst, I need to make sure I accurately translate \"The book\" into Turkish. The correct translation for \"the book\" is \"ürün\". Then, \"discusses\" – in Turkish, that's \"anlatır\". \"The impact of technology\" would be \"verilen teknolojik etkisi\". \"On human relationships\" translates to \"human ilişkileri\". \n\nPutting it all together: \"ürün teknolojik etkisi human ilişkileri anlatır.\" \n\nWait, is there any nuance I'm missing? The original sentence is about the impact of technology on human relationships. The translation seems to capture that. Let me double-check each part. \"The book\" is correct, \"discusses\"",
+    "expected": "Kitob texnologiyaning inson munosabatlariga ta’sirini muhokama qiladi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: People should take responsibility for protecting the environment.",
+    "output": "<think>\nOkay, the user wants me to translate \"People should take responsibility for protecting the environment.\" from English to Uzbek. Let me start by understanding the original sentence. The key points here are \"people,\" \"should take responsibility,\" and \"protect the environment.\"\n\nFirst, \"People\" in Uzbek is \"Birinchi.\" Then \"should take responsibility\" would be \"shuqor tashvimi\" or \"shuqor tashvimi qabul qilish.\" \"Protect the environment\" translates to \"sahat qilish\" or \"sahat qilish qilish.\" \n\nPutting it all together: \"Birinchi shuqor tashvimi qabul qilish qilish qilish.\" Wait, maybe \"shuqor tashvimi qabul qilish\" is better. Let me check again. \"People should take responsibility\" is \"Birinchi",
+    "expected": "Odamlar atrof-muhitni asrash uchun mas’uliyatni o‘z zimmasiga olishi kerak.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: True friendship is based on trust and honesty.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"True friendship is based on trust and honesty.\" from English to Turkish, and only provide the translated text. Let me start by understanding the original sentence.\n\nThe key elements here are \"True friendship,\" \"based on,\" \"trust,\" \"and,\" \"honesty.\" So, in Turkish, \"True friendship\" would be \"Daha çok bağıştırılmış ilişkiler.\" \"Is based on\" translates to \"sadece...\" or \"yaklaşık olarak...\" depending on the nuance. \"Trust\" is \"bırakma,\" and \"honesty\" is \"yazılış.\"\n\nPutting it all together: \"Daha çok bağıştırılmış ilişkiler, bırakma ve yazılıştır.\" That seems correct. Let me check if there's a more natural way to phrase it. Maybe \"Daha çok bağıştırılmış ilişkiler, bırak",
+    "expected": "Haqiqiy do‘stlik ishonch va halollikka asoslanadi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Our history is full of lessons for future generations.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"Our history is full of lessons for future generations.\" from English to Turkish, and only provide the translated text. Let me start by understanding the original sentence.\n\nThe main points here are \"Our history\" which translates to \"İçerimimizi\" or \"İçeriğimizi\". Then \"is full of lessons\" could be \"daha çok sınırlar\". \"For future generations\" would be \"geçmişten sonraki doğumlar\". Putting it all together, the translation should be accurate and natural in Turkish.\n\nWait, \"history\" in Turkish is often \"çıkışı\", so maybe \"İçerimimizi\" is better. Also, \"lessons\" as \"sınırlar\" makes sense here. Let me check the structure again. \"Our history is full of lessons for future generations.\" becomes \"İçerimimizi, daha çok sınırların sonr",
+    "expected": "Tariximiz kelajak avlodlar uchun saboqlarga boy.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: In difficult times, unity is the key to overcoming challenges.",
+    "output": "<think>\nOkay, let's tackle this translation. The user wants the English sentence \"In difficult times, unity is the key to overcoming challenges.\" translated into Turkish, and only the translated text should be provided. First, I need to make sure I understand the original sentence correctly. \n\nSo, \"In difficult times, unity is the key to overcoming challenges.\" The key elements here are \"in difficult times\" which translates to \"çok zor zamanlarda,\" \"unity\" as \"birliği,\" and \"the key to overcoming challenges\" as \"söz konusu çalıstırmayı kolaylaştırmak.\" \n\nWait, \"the key\" in this context would be \"söz konusu,\" and \"overcoming challenges\" is \"çalıstırmayı kolaylaştırmak.\" Let me check if that makes sense. \n\nI think that's accurate. Now, I need to structure the sentence in Turkish correctly. The",
+    "expected": "Qiyin paytlarda birlik sinovlarni yengishning kalitidir.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Success without ethics is an empty achievement.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"Success without ethics is an empty achievement.\" from English to Uzbek and only provide the translated text. Let me start by understanding the original sentence.\n\nThe key points here are \"success without ethics\" and \"empty achievement.\" In Uzbek, \"success\" is \"başarı,\" \"ethics\" is \"etiket,\" and \"achievement\" is \"ödeme.\" So the structure would be \"Başarı etiket etmek etkili olmaz. Ödeme olmayan başarı...\" Wait, maybe \"without ethics\" should be \"etiket etmek etkili olmaz\" or \"etiket etmek etkili olmaz.\" Let me check that again. \n\nThe original says \"Success without ethics is an empty achievement.\" So \"Başarı etiket etmek etkili olmaz. Ödeme olmayan",
+    "expected": "Axloqsiz muvaffaqiyat — bo‘sh yutuqdir.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The new processor architecture increases performance by reducing power consumption.",
+    "output": "<think>\nOkay, the user wants me to translate the given English sentence into Turkish. Let me start by understanding the original text: \"The new processor architecture increases performance by reducing power consumption.\" \n\nFirst, I need to make sure I correctly translate each part. \"The new processor architecture\" would be \"Yeni bir işlemçilik yapı\" in Turkish. Then \"increases performance\" – \"çok daha yüksek performans verir\" seems right. \n\nNext, \"by reducing power consumption\" – \"kullanım enerjisi azaltır.\" Putting it all together: \"Yeni bir işlemçilik yapı, kullanıcı kullanım enerjisi azaltır. Performansı çok daha yüksek verir.\" \n\nWait, does \"by reducing\" need to be in the past tense here? The original sentence is in the present tense, so \"verir\" is correct. Let me double-check the grammar. Yes, that looks good. \n\nI should also ensure that the translation",
+    "expected": "Yangi protsessor arxitekturasi quvvat sarfini kamaytirib, unumdorlikni oshiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The laboratory uses high-precision instruments to conduct experiments.",
+    "output": "<think>\nOkay, let's tackle this translation. The original sentence is \"The laboratory uses high-precision instruments to conduct experiments.\" I need to translate it into Turkish.\n\nFirst, \"The laboratory\" would be \"Yabancı laboratuvarı\" or maybe \"Laboratuvar\" since \"laboratory\" is a common term in Turkish. \"uses\" here is \"uğur\" or \"uygular\". \"High-precision instruments\" is \"yüksek精確likli makina\". \"To conduct experiments\" is \"experimentlerini yapan\" or \"experimentları yapan\".\n\nPutting it all together: \"Yabancı laboratuvaru yüksek精確likli makina uygular experimentlerini yapan.\" Wait, but \"high-precision instruments\" in Turkish is \"yüksek精確likli makina\" or \"yüksek精確likli makina\". Maybe \"yüksek精確likli makina\" is",
+    "expected": "Laboratoriya tajribalarni o‘tkazish uchun yuqori aniqlikdagi asboblardan foydalanadi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Renewable energy sources can significantly reduce greenhouse gas emissions.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"Renewable energy sources can significantly reduce greenhouse gas emissions.\" from English to Uzbek and only provide the translated text. Let me start by understanding the original sentence.\n\n\"Renewable energy sources\" translates to \"Renewable mazmumlar.\" Then \"can significantly reduce greenhouse gas emissions\" becomes \"takimizda o'zgarishga o'zgarishga oshirish qilishga teng emas.\" Wait, I need to make sure the verbs are correct. \"Reduce\" here is \"o'zgarishga oshirish\" which means to reduce, so that's right.\n\nPutting it all together: \"Renewable mazmumlar taylizga o'zgarishga oshirish qilishga teng emas.\" Let me check the grammar again. The structure in Uzbek is subject + verb + object, so \"",
+    "expected": "Qayta tiklanuvchi energiya manbalari issiqxona gazlari chiqindilarini sezilarli kamaytirishi mumkin.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The robot is programmed to perform repetitive tasks without human intervention.",
+    "output": "<think>\nOkay, the user wants me to translate a sentence from English to Uzbek. Let me start by understanding the original sentence. The main points are that the robot is programmed to do repetitive tasks without human intervention. \n\nFirst, \"The robot is programmed\" – in Uzbek, that would be \"Robotga programlanish\" or \"Robotga programlanishda.\" \"To perform repetitive tasks\" – \"kuvaytish\" or \"yakimda kuvaytish.\" \"Without human intervention\" – \"hendriyotda\" or \"hendriyotda yoki.\" \n\nPutting it all together: \"Robotga programlanishda yakimda kuvaytish uchun hendriyotda kiyotlanish.\" \n\nWait, maybe \"kuvaytish\" is better here. Also, \"without human intervention\" could be \"hendriyotda\" or \"hendriy",
+    "expected": "Robot inson aralashuvisiz takrorlanuvchi vazifalarni bajarishga dasturlangan.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The software automatically backs up data to prevent loss.",
+    "output": "<think>\nOkay, let's tackle this translation. The original text is \"The software automatically backs up data to prevent loss.\" First, I need to make sure I understand the key points here. The main elements are \"software,\" \"automatically backs up data,\" and \"prevent loss.\"\n\nStarting with \"The software automatically backs up data to prevent loss.\" In English, the structure is a sentence with a subject (the software), a verb (backing up data), and a purpose (to prevent loss). The translation should maintain this structure in the target language.\n\nTranslating \"The software\" would be \"A software.\" Then \"automatically backs up data\" – \"automatically\" is \"automatik\" or \"automatically.\" \"Backs up\" could be \"zamaytirma.\" \"Data\" is \"deyiqli.\" So combining those parts: \"A software automatically backs up data to prevent loss.\"\n\nWait, \"prevent loss\" – \"prevent\"",
+    "expected": "Dastur ma’lumotlarning yo‘qolishini oldini olish uchun avtomatik zaxiralashni amalga oshiradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The research team analyzed the impact of climate change on crop yields.",
+    "output": "<think>\nOkay, the user wants me to translate \"The research team analyzed the impact of climate change on crop yields.\" from English to Uzbek. Let me start by breaking down the sentence.\n\nFirst, \"The research team\" – in Uzbek, that would be \"Odaqasi vaqat\" or \"Odaqasi vaqatlar\". The team is \"vaqat\", so maybe \"Odaqasi vaqat\" is more natural.\n\nNext, \"analyzed the impact of climate change\". \"Analyzed\" here is the verb, so \"oylata\" or \"oylat\". \"Impact\" is \"oyl\". So \"oylatish\" would be correct. The phrase \"impact of climate change\" – \"klima vaqtda\" is a common way to say that. So combining that, \"klima vaqtda oylatish\".\n\nThen \"on crop yields\". \"Crop yields\" is \"soy",
+    "expected": "Tadqiqot guruhi iqlim o‘zgarishining hosildorlikka ta’sirini tahlil qildi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The device uses wireless communication to transmit sensor readings.",
+    "output": "<think>\nOkay, let's tackle this translation. The original sentence is: \"The device uses wireless communication to transmit sensor readings.\" \n\nFirst, I need to make sure I understand the meaning correctly. The device relies on wireless communication to send sensor data. \n\nNow, translating to Turkish. \"The device\" would be \"örnek\", \"uses\" is \"kullanır\", \"wireless communication\" is \"çoklu iletişim\", \"to transmit\" is \"veri taşıyabilmek\", and \"sensor readings\" is \"yazım verileri\". \n\nPutting it all together: \"Önemli araç, çoklu iletişimle yazım verilerini verir.\" \n\nWait, maybe \"örnek\" is a bit too formal. Alternatively, \"örnek araç, çoklu iletişimle yazım verilerini verir.\" That sounds better. Let me check again. \n\nYes, that's accurate. The translation captures the original meaning without any ambiguity",
+    "expected": "Qurilma sensor o‘qishlarini uzatish uchun simsiz aloqa texnologiyasidan foydalanadi.",
+    "bleu_score": 5.5754780543102235e-232
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The experiment confirmed the accuracy of the theoretical model.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"The experiment confirmed the accuracy of the theoretical model.\" from English to Uzbek. Let me start by breaking down the original sentence.\n\nFirst, \"The experiment confirmed\" – in Uzbek, that's \"Xperimentsi xushasiz\" or maybe \"Xperimentsi xushasiz\" which is common. Then \"the accuracy of the theoretical model\" – \"model\" here refers to a theoretical model, so \"teorik modeli\" is correct. The structure in Uzbek usually starts with the subject, so \"Xperimentsi xushasiz teorik modeli modeli xushasiz.\"\n\nWait, maybe \"teorik modeli\" is more accurate. Let me check. The original says \"theoretical model,\" so yes, \"teorik modeli\" is correct. So combining them: \"Xperimentsi xushasiz teorik modeli modeli xushasiz.\"",
+    "expected": "Tajriba nazariy modelning aniqligini tasdiqladi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The satellite continuously monitors weather patterns across the globe.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"The satellite continuously monitors weather patterns across the globe.\" from English to Uzbek. Let me start by breaking down the sentence.\n\nFirst, \"The satellite\" translates to \"Satellite\". Then \"continuously monitors\" – in Uzbek, that's \"kontinuallar ollash\" or \"kontinuallar ollash\". \"Weather patterns\" would be \"hajda qabulshilash\" or \"hajda qabulshilash\". The last part \"across the globe\" is \"karta o'zgarish\" or \"karta o'zgarish\". \n\nPutting it all together: \"Satellite kontinuallar ollash hajda qabulshilash karta o'zgarish\". I should check if \"karta o'zgarish\" is the correct term. Maybe \"karta o'zgar",
+    "expected": "Sun’iy yo‘ldosh butun dunyo bo‘ylab ob-havo holatini uzluksiz kuzatib boradi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The engineers developed a new algorithm to detect network intrusions.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"The engineers developed a new algorithm to detect network intrusions.\" from English to Uzbek and only provide the translated text. Let me start by breaking down the original sentence.\n\nFirst, \"The engineers\" translates to \"Tüməqinlar\". Then \"developed a new algorithm\" is \"yaratmaqda yeni algoritma yaratdı\". The next part is \"to detect network intrusions\", which in Uzbek would be \"kampona quruluvu network intrusions\". \n\nWait, I should check if \"detect\" is correctly translated here. \"Detect\" in this context is \"kampona quruluvu\" or \"quruluvu\". Since it's about detecting, it's \"kampona quruluvu\". \n\nPutting it all together: \"Tüməqinlar yaratmaqda yeni algoritma yaratdı",
+    "expected": "Muhandislar tarmoqdagi ruxsatsiz kirishlarni aniqlash uchun yangi algoritm ishlab chiqdi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Bro, last nigh we partied hard till 4 a.m.",
+    "output": "<think>\nOkay, the user wants me to translate the given English text into Turkish. Let me start by reading the original sentence carefully: \"Bro, last nigh we partied hard till 4 a.m.\" \n\nFirst, I need to make sure I understand the meaning. \"Bro\" is a casual way of addressing someone, so in Turkish, that would be \"İsmininizi.\" Then, \"last nigh\" – \"last\" here probably means \"last time\" or \"last night.\" \"Nigh\" might be a typo for \"night\" or \"nightly.\" So maybe \"böyle\" or \"böylece.\" \n\nThe phrase \"partied hard\" translates to \"yaklaşık olarak sıkıştırılmış olmus\" or \"yaklaşık olarak sıkıştırılmış olmusuz.\" Wait, \"hard\" here means \"hardly,\" so \"yaklaşık olarak sıkıştırılmış olmus\" sounds correct.",
+    "expected": "Jigar, kecha soat 4gacha dam oldik",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: My phone’s dead, can I borrow yours?",
+    "output": "<think>\nOkay, let's start by translating the user's question. The original text is \"My phone’s dead, can I borrow yours?\" The user wants it translated into Turkish.\n\nFirst, I need to make sure I understand the meaning correctly. The person's phone is dead, and they are asking if I can borrow their phone. The translation should be clear and natural in Turkish.\n\nBreaking it down: \"My phone’s dead\" would be \"İkinci telefonun sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sadece sade",
+    "expected": "Meni telefonim o’chib qoldi, senikini olib tursam bo’ladimi?",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Man, he talks big but never does anything.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"Man, he talks big but never does anything.\" from English to Uzbek. Let me start by understanding the original sentence.\n\nThe first part is \"Man, he talks big.\" The word \"man\" here is a possessive pronoun, so in Uzbek, that would be \"Man\" as well. Then \"he talks big.\" \"Talks\" is \"faylalas\" in Uzbek. \"Big\" here probably means \"big\" or \"great.\" So combining these, \"Man, man faylalas, oshad\" (but wait, maybe \"man\" is repeated? Or is it \"man\" here as in the subject? Wait, the original says \"he talks big,\" so maybe \"he\" is the subject. So maybe \"Man, he talks big.\" So the translation could be \"Man, man faylalas.\" But maybe \"man\" here is used",
+    "expected": "U faqat gapirishi bilar ekan, qo’lidan hech narsa kelmas ekan.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Let’s grab some burgers after work.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"Let’s grab some burgers after work.\" from English to Uzbek and provide only the translated text. Let me start by understanding the original sentence.\n\n\"Let’s grab some burgers after work.\" The main components here are \"Let’s\" (to invite someone to do something), \"grab some burgers\" (to get burgers), and \"after work\" (after work hours). In Uzbek, \"after work\" can be translated as \"bosha qo'liy\" or \"bosha qo'liy qilish\" (to work after). \n\nNow, \"grab\" in this context is a verb meaning to get something. So \"grab some burgers\" would be \"bog'la qo'liy burgurlar\". \n\nPutting it all together: \"Bosha qo'liy burgurlar qo'liy qilish\" or \"Bosha",
+    "expected": "Ishdan kegin burger yemimizami.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: Dude, your car is sick!",
+    "output": "<think>\nOkay, let's tackle this translation. The user wants the sentence \"Dude, your car is sick!\" translated into Uzbek. First, I need to understand the original message. \"Dude\" is a casual way to say \"dude\" in English, which is a common way to address someone. The phrase \"your car is sick\" is straightforward.\n\nNow, translating \"Dude\" into Uzbek. The word \"dude\" in Uzbek is \"dud\" or sometimes \"dud.\" But \"dud\" is more commonly used. So I'll go with \"dud.\" \n\nNext, \"your car is sick.\" In Uzbek, \"your car\" would be \"tovu ollasi\" or \"tovu ollasi.\" The verb \"is\" translates to \"idir\" or \"idir.\" So putting it together, \"tovu ollasi idir!\" \n\nWait, but \"sick\" can be translated",
+    "expected": "Jigar, moshinen zo’r ku!",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: I’m broke, can you cover me this time?",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"I’m broke, can you cover me this time?\" from English to Uzbek. Let me start by understanding the original message.\n\n\"I’m broke\" means I'm broke or have no money. The phrase \"can you cover me this time?\" implies that they need help or support now. The key words here are \"broke\" and \"cover me.\" \n\nNow, translating \"I’m broke\" into Uzbek. \"Broke\" is commonly translated as \"broke\" or \"broke.\" So maybe \"Broke\" is the direct translation. The second part, \"can you cover me this time,\" needs to be clear. \"Cover me\" could be \"beyir\" or \"beyir.\" \n\nPutting it together: \"Broke, bir buqurishda birga!\" \n\nWait, \"beyir\" is a bit informal. Maybe \"beyir\" is better here. Let",
+    "expected": "Bir tingim yo’q, bus afar sen tolab yubora olasanmi?",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: She ghosted me after the second date.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"She ghosted me after the second date.\" from English to Uzbek. Let me start by understanding the original sentence. \"Ghosted\" here is a verb, so the translation should convey that she left me after the second date. \n\nFirst, \"She\" is straightforward in Uzbek. \"Ghosted\" – in Uzbek, the verb \"ghost\" is used in the past tense, so \"ghosted\" would be \"hazir\". The phrase \"after the second date\" translates to \"nokrugda ikinci sana\". \n\nPutting it together: \"Sana nokrugda ikinci sana hazir.\" Wait, maybe \"nokrugda ikinci sana hazir\" is correct. Let me check again. \"After the second date\" is \"nokrugda ikinci sana\", and \"ghosted\" is \"hazir\". So the full translation would be \"S",
+    "expected": "Ikkinchi uchrashuvdan kegin, u meni bortimni berdi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: That deal is shady, I wouldn’t trust it.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"That deal is shady, I wouldn’t trust it.\" from English to Uzbek. Let me start by understanding the original sentence. The key points are that the deal is shady (which means it's risky or not trustworthy) and the speaker wouldn't trust it.\n\nFirst, \"That deal is shady\" – in Uzbek, \"shady\" can be translated as \"kamalik\" or \"mugluk\". \"Deal\" here refers to a contract or agreement. So maybe \"Bir kelimeleri\" or \"bir yerleşimi\". \"I wouldn’t trust it\" – \"sonraki\" or \"yakın\" might work. \"I wouldn't trust it\" is \"yakın otsama\" or \"yakın olsam\". \n\nPutting it all together: \"Bir yerleşimi kalmayabilir, sonraki olsam.\" That seems correct",
+    "expected": "Bu yerda bir gap bor, men ishonmas edim.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: I’m starving, let’s hit the café.",
+    "output": "<think>\nOkay, the user wants me to translate the sentence \"I’m starving, let’s hit the café.\" from English to Turkish. Let me start by understanding the original message.\n\n\"I’m starving\" translates to \"Yeni yemek istiyorum\" in Turkish. The second part, \"let’s hit the café,\" is a bit tricky. \"Hit\" here means \"hit\" or \"hit\" in a slang context, so maybe \"yemek istiyorum\" or \"yemek yapmak istiyorum.\" The phrase \"hit the café\" could be \"yemek yapmak için kafemize gelmek\" or \"yemek yapmak için kafemize gelin.\" \n\nPutting it all together, \"Yeni yemek istiyorum, kafemize gelin.\" seems appropriate. Let me check if \"hit\" is correctly used here. Since the original uses \"hit,\" I'll stick with \"hit.\"",
+    "expected": "Qornim rossa och, kafega kirsakchi.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from en to uz and provide only the translated text: The guy’s loaded, money isn’t an issue for him.",
+    "output": "<think>\nOkay, the user wants me to translate the given English sentence into Turkish and only provide the translated text. Let me start by understanding the original sentence: \"The guy’s loaded, money isn’t an issue for him.\"\n\nFirst, I need to make sure I accurately translate each part. \"The guy’s loaded\" – \"guy\" here refers to a person, so \"bir adam\" or \"bir kişinin\" might be better. \"Loaded\" could be \"düşük\" or \"iyi\" depending on context. The phrase \"money isn’t an issue for him\" – \"müdah\" (money) and \"issue\" as \"sahiplik\" or \"dikkatli\" would be appropriate.\n\nPutting it all together: \"Bir adamın düşüğü, mülakatını bu kişiden olmaz.\" Wait, maybe \"düşüğü\" is better here. Let me check again. \"Loaded\" as in burden",
+    "expected": "Bu bolani soqqasi ko’p, puldan muammo yo’q.",
+    "bleu_score": 0
+  }
+]

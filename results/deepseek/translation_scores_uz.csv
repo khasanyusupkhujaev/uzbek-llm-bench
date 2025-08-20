@@ -1,0 +1,337 @@
+input,output,expected,bleu,gemini_score
+Translate the following text from uz to en and provide only the translated text: Men uyda o‘tiribman.,"Okay, so I need to translate ""Men uyda o‘tiribman."" from乌克克语 to英语. Let me think about how to approach this.
+
+First, I should recognize the context. The phrase "" uyda o‘tiribman "" sounds like a title or a name. In乌克克语, it might be a name that's being used in a title or as a name. So, I need to find the correct translation for this term.
+
+I'll start by breaking down the phrase. ""Men"" is the subject, ""uyda"" is a verb, and ""o‘tiribman"" seems like a proper noun or a title. In English, ""o’tiribman"" is a term I've heard before; it's a male name, I think it's similar to ""O’Connor"" but spelled differently. So, ""o’tiribman"" probably means ""O’Connor.""
+
+Putting it",I am sitting at home.,0.0015134978037415192,1
+Translate the following text from uz to en and provide only the translated text: Bu mening kitobim.,"Okay, so I have this user query where they want me to translate ""Bu mening kitobim."" from Croatian to English. Let me first break down the sentence to understand what it means. ""Mening"" in Croatian is ""mening,"" which refers to the brain. ""Kitobim"" translates to ""bank,"" which is a financial institution. So the sentence is saying something like ""The brain is a bank."" That makes sense.
+
+Now, I need to make sure I get the correct translation. I think ""bank"" is the right word here because it's commonly used to refer to financial institutions. The phrase ""is a bank"" is also correct. I don't think ""bank"" has any other meaning in this context, so that should be fine.
+
+I should also consider if there's a more natural or idiomatic way to say it. Sometimes, in English, people might use ""bank"" to refer to a financial institution, so it's a safe bet. I",This is my book.,0.0011816136092459859,1
+Translate the following text from uz to en and provide only the translated text: U maktabga ketdi.,"Okay, the user wants me to translate theuz to en. Let's see, the sentence is ""U maktabga ketdi."" That sounds like a greeting. I think ""kendi"" is the correct term for ""ketdi."" So, I'll translate it to ""U kendi."" That should be straightforward.
+</think>
+
+U kendi.",He went to school.,0.003997395604823099,1
+Translate the following text from uz to en and provide only the translated text: Men choy ichmoqchiman.,"Alright, so I have this task where I need to translate the Chinese text ""Men choy ichmoqchiman."" into English. Hmm, okay, first I need to understand what the Chinese text is saying. The Chinese word ""men"" usually translates to ""men"" in English. ""Choy"" is a term I'm not too familiar with, but I think it's related to food, maybe something like ""chicken"" or ""moussed."" I've heard it used in some contexts, but I'm not sure. Then there's ""ichmoqchiman,"" which sounds like a dialect or a specific term. It might be a regional term in China, perhaps from the Yoruba language or something similar.
+
+I'm not entirely sure what ""ichmoqchiman"" means, so maybe I should look it up. Alternatively, I can try to break it down letter by letter to see if I recognize any patterns or parts of words. Let me",I want to drink tea.,0.0015159931542712084,1
+Translate the following text from uz to en and provide only the translated text: U juda yaxshi inson.,"Alright, the user has a query where they want to translate ""U juda yaxshi inson."" from Hebrew to English. First, I need to understand the context. ""U juda yaxshi inson"" seems to be a name in Hebrew, possibly a name of a person or a figure.
+
+I'll start by breaking down the phrase. ""U"" usually denotes a possessive pronoun, often used in possessive cases. ""juda"" is the Hebrew word for ""you."" ""yaxshi"" might be a term or a name, perhaps a specific term in a cultural or religious context. ""inson"" could be a name or a term, possibly a surname.
+
+I need to find the correct translation for each part. ""Juda"" is straightforward, but ""yaxshi"" might be a term specific to a particular community or tradition. Without more context, it's hard to be certain, but I can assume it might be a name or",He is a very good person.,0.0014840755229451794,1
+Translate the following text from uz to en and provide only the translated text: Havo bugun issiq.,"Alright, let's break down how I approached translating ""Havo bugun issiq."" from Uz to En.
+
+First, I recognized that the user provided the text in Uz and asked for the translation in En. My goal was to ensure an accurate and natural-sounding English equivalent.
+
+I started by identifying the structure of the sentence. The original phrase is a question, so I knew I needed to maintain that form in the translation. I made sure to include the correct question mark and the appropriate structure for a sentence.
+
+Next, I focused on the subject ""bugun."" I translated it to ""bugun"" and added ""is"" to form ""bugun issiq,"" which is the correct form for a question. This part was crucial to maintain the grammatical correctness of the sentence.
+
+I also considered the context. Since ""bugun"" is a term related to health, I translated it to ""bugun"" to preserve its meaning. The rest of the phrase ""issiq",The weather is hot today.,0.0013867536805178273,1
+Translate the following text from uz to en and provide only the translated text: Mening ismim Aziz.,"Alright, so the user has asked me to translate ""Mening ismim Aziz."" from乌mang to English and provide only the translated text. Hmm, let me break this down. 
+
+First, I need to understand the phrase. ""Mening"" sounds like a medical term, probably from Arabic. I think it refers to the brain. ""Aziz"" is a name, so putting it together, it's saying the brain is named after someone named Aziz. 
+
+I should make sure the translation is accurate. In Arabic, ""Mening"" can be ""الغزاء"" which means brain. ""Ismim"" is the Arabic word for name or person. So the full translation would be ""The brain is named after someone named Aziz."" 
+
+Wait, but I should check if there's a more natural way to say it. Sometimes, ""Mening"" is also ""الغزاء"" but in some contexts, it's also ""ال",My name is Aziz.,0.0017663627484527883,1
+Translate the following text from uz to en and provide only the translated text: Bu uy juda katta.,"Okay, so the user has given me a query to translate ""Bu uy juda katta"" from Uy washer (Island of Isolates) to English. First, I need to understand the meaning of the sentence in the original language. ""Bu uy juda katta"" seems to be a title or a name, possibly of a person or place. 
+
+I know that Uy washer is a small island in the Pacific Ocean, known for its unique flora and fauna. The name ""Bu uy juda katta"" doesn't ring a bell immediately, so I might need to look it up or make an educated guess. It could be a name, possibly of a child or a name that's not widely known. 
+
+Since I'm not entirely sure, I'll proceed with the assumption that it's a name. Now, I'll translate it into English. The words ""Bu"" could be ""I"" or ""we,"" so I'll use ""we."" """,This house is very big.,0.001213877951099141,1
+Translate the following text from uz to en and provide only the translated text: Men televizor ko‘ryapman.,"Alright, I need to translate the Russian phrase ""Men televizor ko‘ryapman."" to English. Let me start by understanding the meaning of each word.
+
+""Men"" is straightforward, meaning ""They"" or ""Our."" 
+
+""Televizor"" translates to ""television."" It's the word for a screen that displays live broadcasts.
+
+""Ko‘ryapman"" is a Russian term that means ""the manager"" or ""the operator."" It's used in the context of broadcasting to refer to the person who oversees the production and distribution.
+
+Putting it together, the phrase ""Men televizor ko‘ryapman"" translates to ""They watch the television operator."" 
+
+I should make sure the translation is accurate and maintains the original meaning. It's important to use the correct term for ""televizor"" and ""Ko‘ryapman"" to ensure clarity and professionalism in the translation.
+</think>
+
+They watch the television operator.",I am watching TV.,0.0014170119374941016,1
+Translate the following text from uz to en and provide only the translated text: U mashina haydayapti.,"Alright, the user wants me to translate ""U mashina haydayapti."" from Turkish to English. Let me check the translation first. ""Mashina"" means machine, and ""haydayapti"" is a common term in Turkish that means ""good"" or ""fine."" So, it's saying ""The machine is good."" That seems straightforward.
+
+I should make sure I'm accurate. Sometimes Turkish has nuances that English might not capture perfectly. Let me think if there's any other way to interpret ""haydayapti."" The word ""haydayapti"" can sometimes be used to describe something that is of high quality or in good condition. But in this context, it's most likely just referring to a machine being good.
+
+I don't think there's any other translation that would make sense here. ""The machine is good"" is simple and clear. I should avoid adding any extra words or phrases. It's also worth noting that in some dialects or regions",He is driving a car.,0.0014737329031883637,1
+Translate the following text from uz to en and provide only the translated text: Men har kuni ertalab sport bilan shug‘ullanaman.,"""Men har kuni ertalab sport bilan shug‘ullanaman."" Hmm, let's break it down. First, ""Men har"" is ""men have,"" which is straightforward. 
+
+Next, ""kuni ertalab sport bilan shug‘ullanaman."" Translating each part: ""kuni"" means ""to take,"" ""ertalab"" is ""sport,"" ""sport bilan"" is ""sporting,"" and ""shug‘ullanaman"" translates to ""and they are used in this way."" 
+
+Putting it together, it sounds like ""Men have taken sport and they are used in this way."" That makes sense because the original sentence is inuz, which is auz (urdu) for English. 
+
+Wait, does ""ertalab sport bilan"" mean ""sporting"" or ""sporting style""? I think it's ""sporting style",I exercise every morning.,0.001823996247835891,1
+Translate the following text from uz to en and provide only the translated text: Kecha biz do‘stlar bilan parkda sayr qildik.,"Alright, the user has given me a translation task. The text is in Uzbek and needs to be translated to English. Let me read through the text carefully.
+
+The original text is: ""Kecha biz do‘stlar bilan parkda sayr qildik."" 
+
+Breaking it down, ""Kecha"" means ""Khatam,"" ""izdil"" is ""say,"" ""do‘stlar"" is ""sales,"" ""bilan"" is ""store,"" and "" parkda"" translates to ""in a store,"" ""sayr"" means ""buy,"" and ""qildik"" is ""on."" 
+
+Putting it together, it seems to be saying something like ""Khatam, I sell things in a store."" 
+
+I need to make sure the translation is accurate and maintains the original meaning. I'll translate each part step by step to ensure clarity and correctness.
+
+Finally, I'll present the translated sentence as the answer. I should double-check the translation to",Yesterday we walked in the park with friends.,0.0016851206781117775,1
+Translate the following text from uz to en and provide only the translated text: U yangi telefon sotib oldi va juda xursand bo‘ldi.,"""U yangi telefon sotib oldi va juda xursand bo’ldi."" I need to make sure I understand the meaning of each word in the uz script.
+
+First, ""U"" is straightforward. In English, that's ""You."" ""Yangi"" translates to ""Phone."" ""Sotib"" is ""old,"" so that becomes ""old."" ""Oldi"" is also ""old,"" and ""va"" means ""and."" So putting it together, ""You old Phone and Old.""
+
+Now, ""juda"" is a term that refers to a woman, so that translates to ""woman."" ""Xursand"" is a term I'm less familiar with. I think it means ""to have"" or ""to have a child."" So ""has"" would be ""has,"" and ""bo’ldi"" is ""bo",He bought a new phone and was very happy.,0.0020632861907783676,1
+Translate the following text from uz to en and provide only the translated text: Men ingliz tilini o‘rganishni davom ettiryapman.,"Alright, the user has given me a query to translate ""Men ingliz tilini o‘rganishni davom ettiryapman."" from Turkish to English. First, I need to understand what the original sentence means. It sounds like the user is asking for advice on how to learn English, specifically about English in the context of learning a language. 
+
+The phrase ""Men ingliz tilini o‘rganishni davom ettiryapman"" translates to ""Learn English from the standpoint of English."" So, the user wants a translation that suggests focusing on the language itself rather than the learning process. 
+
+I should make sure the translation is accurate and maintains the original meaning. It's important to keep the structure clear and the sentence flow naturally. I'll avoid any unnecessary words or phrases to ensure clarity. 
+
+After translating, I'll double-check to make sure the translation is correct and that it accurately conveys the intent of the original sentence. It's also a good idea to",I am continuing to learn English.,0.0029716009064684247,1
+Translate the following text from uz to en and provide only the translated text: Biz yozda tog‘larga sayohat qilishni rejalashtiryapmiz.,"Alright, the user has given me a task to translate a piece of text from Russian to English. The original text is ""Biz yozda tog‘larga sayohat qilishni rejalashtiryapmiz."" Let me break this down.
+
+First, I'll look at the structure. It starts with ""Biz"" which means ""For"" in Russian, and it's followed by ""yozda"" meaning ""is"" or ""does."" Then ""tog‘larga"" translates to ""with"" or ""to."" Next, ""sayohat"" is ""a notebook"" in Russian, so in English, it's ""a notebook."" The word ""qilishni"" is a bit tricky. ""Qilish"" means ""to write,"" so it should be ""to write."" ""Rejalashtiriyapmiz"" is ""to impose"" or ""to enforce,"" so that becomes ""to impose.""
+
+Putting it all",We are planning to travel to the mountains in summer.,0.0023395375696551256,1
+Translate the following text from uz to en and provide only the translated text: U o‘zining yangi ishini juda yaxshi ko‘radi.,"Alright, I've got this translation request. The user wants me to translate ""U o‘zining yangi ishini juda yaxshi ko‘radi."" from Uyghur into English. First, I need to understand the context. It seems like it's a religious or cultural reference, possibly related to Uyghur culture or traditions.
+
+I know that ""uyging"" is the standard transliteration for Uyghur, so I'll start with that. ""O’zingining"" is the direct transliteration. ""Yangi"" translates to ""yacht,"" which fits the context. ""Ishini"" is ""isn't"" or ""don't."" ""Juda"" is ""Juda,"" and ""Yaxshi"" is ""Yaxish"" or ""Yaxish."" ""Koradi"" is the surname ""Koradi.""
+
+Putting it together, I think the best translation is ""U o’zingining yangi",She really likes her new job.,0,1
+Translate the following text from uz to en and provide only the translated text: Men kitob o‘qishdan zavq olaman.,"Alright, the user wants me to translate the phrase ""Men kitob o‘qishdan zavq olaman."" from Uz to En. First, I need to understand the meaning of each word. ""Men"" is straightforward, ""kitob"" means ""book,"" and ""o‘qishdan"" is ""to read."" So, it's about not reading a book. ""Zavq"" translates to ""victory"" or ""success."" Putting it together, it means ""Men do not read a book; they win.""
+
+I should make sure the translation is accurate and maintains the original tone. It's important to convey that the speaker believes they shouldn't read a book and that reading leads to success. I'll keep the sentence concise and clear, ensuring it's easy to understand. 
+
+Also, I need to check for any specific cultural nuances in Uz that might affect the translation. If there's a particular context or intention behind the phrase, I should consider",I enjoy reading books.,0.0015380454113971239,1
+"Translate the following text from uz to en and provide only the translated text: Kechasi yomg‘ir yog‘ib, havo salqinlashdi.","""Kechasi yomg‘ir yog‘ib, havo salqinlashdi."" 
+
+First, I'll break it down word by word. ""Kechasi"" translates to ""eat,"" ""yomg‘ir"" is ""have,"" and ""yog‘ib"" is ""yog"" in the context of food. So putting that together, it's ""Eat have a yogurt."" That seems straightforward.
+
+Next, ""havo salqinlashdi"" – I'm a bit unsure about this one. ""Havo"" is a casual form of ""have,"" so that part becomes ""Have."" ""Salqinlashdi"" translates to ""salad,"" but I'm not entirely certain if that's the correct term in Uz. I think it's more commonly called ""salad"" or ""salad dish,"" but I",It rained at night and the weather cooled down.,0.002336910419629112,1
+Translate the following text from uz to en and provide only the translated text: U universitetda informatika bo‘yicha o‘qiyapti.,"Alright, so the user has a query where they want me to translate a piece ofuz to en. The text is ""U universitetda informatika bo‘yicha o‘qiyapti."" 
+
+First, I need to understand the context. It seems like it's a title or description of a university course or program. The word ""bo‘yicha"" is the uz English for ""ta’li,"" which means ""ta’li"" in the context of studying or enrolling. So, the translation should capture that the university is offering a program in informatics.
+
+Looking at the structure of the sentence, ""U universitetda"" is the uz for ""University,"" ""informatika"" is "" informatics,"" and ""bo‘yicha"" is ""ta’li."" The rest is ""o‘qiyapti,"" which means ""ta’li"" or ""ta’li.""
+
+So, the direct translation would be ""University offers informatics program",He is studying computer science at the university.,0.003742536990919744,1
+Translate the following text from uz to en and provide only the translated text: Biz oilamiz bilan hafta oxiri kinoga bordik.,"Alright, let's see. The user has given me a translation task. The text is ""Biz oilamiz bilan hafta oxiri kinoga bordik."" I need to translate this from Turkish to English. 
+
+First, I'll break down the sentence. ""Biz"" means ""For"" or ""In"" in Turkish. So, ""Biz oilamiz bilan hafta oxiri kinoga bordik."" translates to ""In the month of April, the company will have a special event.""
+
+Next, I'll look at each word carefully. ""Biz"" becomes ""In"" in English. ""Olamiz bilan"" means ""will have a special event"" in Turkish. ""Hafta"" is ""month"" and ""oxiri"" is ""on"" or ""the first."" So, ""In the month of April, the company will have a special event.""
+
+Then, ""kinoga bordik"" translates to ""the first day"" and """,We went to the cinema with our family on the weekend.,0.0019750645524709795,1
+Translate the following text from uz to en and provide only the translated text: U o‘z maqsadiga erishish uchun qat’iyat bilan ishladi.,"""U o‘z maqsadiga erishish uchun qat’iyat bilan ishladi."" 
+
+First, I need to understand what eachuz word means. ""U o‘z"" translates to ""I have"" or ""I possess."" ""Mausadiga"" is ""to learn"" or ""to be taught."" ""Erishish"" doesn't seem to have a direct English equivalent, so I'll leave it as is. ""Uchun"" means ""in the course of time"" or ""during the process."" ""Qat’iyat"" is ""to take"" or ""to have."" ""Bilan"" means ""to know"" or ""to understand.""
+
+Putting it all together, the translation should convey that the person has learned something during the process and now knows it. I'll make",He worked with determination to achieve his goal.,0.001862200305035591,1
+Translate the following text from uz to en and provide only the translated text: Hayotda eng katta boylik — sog‘liqdir.,"Okay, so the user has given me a task to translate a piece of uz (Uzbek) text to English. The text is ""Hayotda eng katta boylik — sog‘liqdir."" 
+
+First, I need to understand the meaning of each part. ""Hayot"" means ""book,"" ""eng katta"" is an informal term for ""new,"" and ""boylik"" is ""book."" So the first part is ""Hayotda eng katta boylik,"" which translates to ""A new book in a book.""
+
+Then there's a dash, which in English is often used for emphasis or to indicate separation. ""Sog‘liqdir."" translates to ""is good."" So putting it together, the full translation should be ""A new book in a book is good.""
+
+I should make sure the translation is accurate and maintains the original meaning. The user only wants the translated text, so I need to avoid any additional explanations or context. It's",The greatest wealth in life is health.,0.0016898365186382217,1
+"Translate the following text from uz to en and provide only the translated text: U juda dono inson bo‘lib, har doim to‘g‘ri maslahat beradi.","Alright, so the user wants me to translate ""U juda dono inson bo‘lib, har doim to‘g‘ri maslahat beradi."" from Hebrew to English. Let me break this down.
+
+First, I'll read the text carefully. ""U juda dono"" seems to be a command or a request from a Jewish community. ""Inson"" might be a typo or a mishef, so I'll assume it's ""inonoah,"" which means ""let go"" or ""let go of."" ""Bo‘lib"" could be ""boh"" or ""bohich,"" but in this context, ""bo‘lib"" might be a specific command or an exclamation. 
+
+Next, ""har doim"" is a Hebrew term meaning ""and do it."" ""To‘g‘ri"" is a term for ""you"" or ""you are."" ""Maslahat"" is ""let go"" again. ""Ber",He is a very wise person and always gives good advice.,0.003342923396897083,1
+Translate the following text from uz to en and provide only the translated text: Qiyin vaziyatlarda ham umidni yo‘qotmaslik kerak.,"Okay, the user has given me a query to translate. Let me read it carefully. The text is ""Qiyin vaziyatlarda ham umidni yo‘qotmaslik kerak."" In Russian, it's ""In the Republic of Azerbaijan, to prevent the spread of corruption."" 
+
+First, I need to understand the context. The phrase ""Qiyin vaziyatlarda"" means ""In the Republic of Azerbaijan"" in English. ""Ham umidni yo‘qotmaslik kerak"" translates to ""to prevent the spread of corruption."" 
+
+I should make sure the translation is accurate and natural. Using ""to prevent the spread of corruption"" is appropriate because it conveys the idea of stopping corruption from spreading within the government.
+
+I also need to ensure that the translation maintains the original meaning and that the sentence is grammatically correct. It's important to preserve the nuance of the phrase so that the translation is both clear and precise.
+
+Additionally, I",One should not lose hope even in difficult situations.,0.0015269396640145824,1
+Translate the following text from uz to en and provide only the translated text: Yaxshi do‘st — qiyinchilikda bilinadi.,"Alright, I need to translate ""Yaxshi do‘st — qiyinchilikda bilinadi."" from Russian to English. First, I'll break it down word by word.
+
+""Yaxshi"" means ""young"" or ""younger,"" so I'll use ""young"" for simplicity. Next, ""do‘st"" is a loanword from Russian, and I'm not entirely sure what it means. It seems like it might be a typo or a specific term I'm not familiar with, so I'll leave it as ""dost"" for now.
+
+""qiyinchilikda"" translates to ""in the future,"" so I'll write that. ""bilinadi"" means ""will learn"" or ""will be learned,"" so I'll use ""will learn.""
+
+Putting it all together, I get ""Younger people will learn to embrace the future."" That seems to capture the meaning accurately. I'm not entirely certain about ""do‘st,"" but",A good friend is known in hardship.,0.0014636664239966331,1
+"Translate the following text from uz to en and provide only the translated text: U uzoq o‘ylab, nihoyat to‘g‘ri qarorga keldi.","Alright, the user has given me a task to translate a piece ofuz to en. Let me first understand the context. The sentence starts with ""U uzoq o‘ylab"" which translates to ""You have to be careful."" The next part is ""nihoyat to‘g‘ri qarorga keldi,"" which I think means ""you cannot take anything you want."" So the entire sentence is ""You have to be careful, you cannot take anything you want.""
+
+I need to ensure the translation is accurate. ""U uzoq"" is ""You have to be careful,"" and ""nihoyat to‘g‘ri qarorga keldi"" is the second part. Putting it together, it should read smoothly as ""You have to be careful, you cannot take anything you want.""
+
+I should also check if there's any nuance I might be missing. The first part is about caution, which is clear. The second",He thought for a long time and finally made the right decision.,0.0017272523931557316,1
+Translate the following text from uz to en and provide only the translated text: Har bir insonning hayotida o‘ziga xos sinovlar bo‘ladi.,"Alright, so the user has given me a task to translate a piece ofuz English into English. The text is ""Har bir insonning hayotida o‘ziga xos sinovlar bo‘ladi."" First, I need to understand what this means.
+
+Breaking it down, ""har bir"" translates to ""a single"" or ""one."" ""Insonning"" is ""sinon"" or ""son."" ""Hayotidir"" means ""in the body,"" so it's about the body. ""O‘ziga"" is ""from the back,"" and ""xos sinovlar"" is ""the legs."" Putting it together, it seems to be saying ""One person is in the body with legs from the back.""
+
+Now, translating it directly, I should use the appropriate uz dialect. The user's instruction is clear, so I just need to ensure the translation is accurate and maintains the original tone. I'll make sure to use the right uz",Every person has unique challenges in life.,0.001807285364651697,1
+Translate the following text from uz to en and provide only the translated text: U mehnatkashligi va halolligi bilan boshqalardan ajralib turadi.,"Okay, so the user wants me to translate the text ""U mehnatkashligi va halolligi bilan boshqalardan ajralib turdi"" from Uz to En. First, I need to understand the meaning of the phrase.
+
+Looking at the words, ""U"" is ""I,"" so the translation starts with ""I have..."" Then ""mehnkatskhligi"" translates to ""primary language,"" and ""halolligi"" is ""second language."" So it's ""I have..."" in the primary language and ""I speak..."" in the second language.
+
+Next, ""bilan boshqalardan ajralib turdi"" is a bit tricky. ""Bilan"" means ""notes"" or ""assignments,"" and ""boshqalardan"" is ""from"" or ""on."" ""Ajralib turdi"" means ""so I have."" Putting it together, it seems to be ""I",He stands out from others with his diligence and honesty.,0.0022396950058490295,1
+Translate the following text from uz to en and provide only the translated text: Inson hayoti davomida bilim izlashdan to‘xtamasligi lozim.,"Alright, so I need to translate the phrase ""Inson hayoti davomida bilim izlashdan to’xtamasligi lozim"" from Russian to English. First, I'll break down each word to understand its meaning better.
+
+Starting with ""Inson,"" which means ""I"" in this context. Next, ""hayoti"" is a colloquial term for ""high"" or ""high level."" Then, ""davomida"" translates to ""from whom"" or ""to whom."" The phrase ""bilim izlashdan"" means ""science and art are studies."" 
+
+Moving on, ""to’xtamasligi"" is the Russian equivalent of ""to deal with"" or ""to handle."" Finally, ""lozim"" refers to ""lozenge"" or ""diamond."" Putting it all together, the original phrase seems to be about someone from a high-level position dealing with scientific and artistic studies.
+
+I should make sure the translation is",A person should never stop seeking knowledge throughout life.,0.0015134978037415192,1
+Translate the following text from uz to en and provide only the translated text: Har qanday muvaffaqiyat sabr-toqat va mehnat bilan keladi.,"Okay, so I need to translate theuz text ""Har qanday muvaffaqiyat sabr-toqat va mehnat bilan keladi"" into English. Let me break this down step by step.
+
+First, I'll read the text carefully to understand its meaning. The phrase starts with ""Har qanday muvaffaqiyat sabr-toqat va mehnat bilan keladi."" Breaking it down, ""Har"" is the beginning, which usually means ""we have"" or ""it is our."" ""qanday"" is a casual slang term for ""have,"" so that translates to ""we have."" ""muvaffaqiyat"" is ""to speak,"" so that's ""to speak."" ""sabr-toqat"" is ""to share,"" so that becomes ""to share."" ""va"" is a conjunction meaning ""and."" ""mehnat"" is ""to give,"" so that's ""to",Any success comes with patience and hard work.,0.0016698379449578307,1
+Translate the following text from uz to en and provide only the translated text: Dasturiy ta’minotning yangi versiyasi xavfsizlik protokollarini yangiladi.,"Alright, the user has provided a text in Russian and asked me to translate it to English, specifically mentioning only the translated text. I need to make sure I understand the request correctly. They want the direct translation without any additional explanations or formatting. 
+
+First, I'll read the original text carefully: ""Dasturiy ta’minotning yangi versiyasi xavfsizlik protokollarini yangiladi."" Breaking it down, ""Dasturiy"" means ""Danyu"" in English, ""ta’minotning"" is ""about,"" ""yangi"" translates to ""primary"" or ""primary aspect,"" ""versiyasi"" means ""primary version,"" ""xavfsizlik"" refers to ""primary quality"" or ""primary characteristics,"" and ""protokollarini"" means ""primary stock market."" ""Yangiladi"" is ""is"" or ""is.""
+
+So putting it together, the translation should be ""Danyu ta",The new version of the software updated its security protocols.,0.0016543028803438341,1
+Translate the following text from uz to en and provide only the translated text: Serverning ishlash tezligini optimallashtirish uchun kechiktirish vaqtini qisqartirish kerak.,"""Serverning ishlash tezligini optimallashtirish uchun kechiktirish vaqtini qisqartirish kerak.""
+
+First, I need to understand the context. It seems like it's a command or a request in a technical or professional setting, possibly related to server management. The phrase ""Serverning"" might be a typo or a specific term in the region, so I'll assume it's meant to be ""Server"" or ""Server Management.""
+
+Next, I'll break down the sentence to identify the key components. ""Serverning ishlash tezligini optimallashtirish"" translates to ""Server management is optimizing its performance."" ""Optimallashtirish"" means ""optimizing"" or ""optimizing.""
+
+Then, ""kechiktirish"" is ""implement"" or","To optimize server performance, the latency must be reduced.",0.00253029005308516,1
+Translate the following text from uz to en and provide only the translated text: Ma’lumotlar bazasi indekslash orqali so‘rovlarni tezroq qayta ishlaydi.,"Okay, I need to translate the text ""Ma’lumotlar bazasi indekslash orqali so‘rovlarni tezroq qayta ishlaydi."" from Russian to English. Let's break it down step by step.
+
+First, the original text is in Russian. I know that ""Ma’lumotlar bazasi indekslash"" translates to ""Data bases indexing."" ""Orqali"" means ""with,"" so it becomes ""with."" ""So‘rovlarni"" is ""data items,"" and ""tezroq"" means ""to be stored."" ""Qayta"" is ""into,"" and ""ishlaydi"" is ""is deployed."" Putting it together, it seems to be about deploying data items into data bases indexed.
+
+Next, I'll look at the phrase ""so‘rovlarni tezroq qayta ishlaydi."" It's a bit complex. ""So",The database processes queries faster through indexing.,0,1
+Translate the following text from uz to en and provide only the translated text: Sun’iy intellekt modeli katta hajmdagi ma’lumotlar ustida o‘qitildi.,"Okay, so the user wants me to translate the text ""Sun’iy intellekt modeli katta hajmdagi ma’lumotlar ustida o’qitildi."" from Uzbek to English. Let me break this down.
+
+First, ""Sun’iy"" means ""I"" in Uzbek, so the subject is ""I."" ""Intellekt modeli"" translates to ""intelligent model."" ""Katta hajmdagi"" means ""kata (a large) tower."" So, putting that together, it seems like the subject is I have an intelligent model on a huge tower.
+
+Now, ""ma’lumotlar"" is ""messages,"" so it's about sending messages. ""Ustida o’qitildi"" means ""I am teaching."" So the sentence is ""I have an intelligent model on a huge tower and I am teaching messages.""
+
+I should make sure the translation flows naturally in English. Let me read it",The artificial intelligence model was trained on large-scale data.,0.0018310317004117428,1
+Translate the following text from uz to en and provide only the translated text: Sensorlar real vaqt rejimida harorat va namlikni o‘lchaydi.,"Okay, so I need to translate the phrase ""Sensorlar real vaqt rejimida harorat va namlikni o‘lchaydi."" from Russian to English. Let me break it down step by step.
+
+First, the structure of the sentence: ""Sensorlar real vaqt rejimida harorat va namlikni o’lchaydi."" It seems like a command or an instruction. The subject is ""Sensorlar,"" which is plural, so I should use the singular form ""sensor"" in the translation. 
+
+The phrase starts with ""real vaqt,"" which translates to ""real-time"" or ""real-time."" Then, ""regime"" might mean ""regulation"" or ""system."" The word ""harorat"" is ""harmonic"" in English, so I think it means ""harmonic."" ""Namlik"" is ""name,"" so together ""name"" makes sense.
+
+Putting it together: ""Sensorlar real-time rejimi",Sensors measure temperature and humidity in real time.,0.0018798639730209284,1
+Translate the following text from uz to en and provide only the translated text: Algoritm murakkab hisob-kitoblarni millisekundlarda bajaradi.,"Okay, I need to translate ""Algoritm murakkab hisob-kitoblarni millisekundlarda bajaradi"" from Urdu to English. Let me break it down.
+
+First, ""Algoritm"" means ""algorithm"" in English. Next, ""murakkab hisob"" translates to ""efficient calculation"" or ""optimized calculation."" ""Kitoblarni"" is ""items,"" so together it's ""items."" ""millasekundlarda"" means ""in milliseconds"" or ""in milliseconds,"" so I'll write ""in milliseconds."" Finally, ""bajaradi"" is ""is being downloaded,"" which translates to ""is being downloaded.""
+
+Putting it all together: ""In milliseconds, an efficient algorithm is being downloaded to calculate these items."" That seems to capture the original meaning accurately.
+</think>
+
+In milliseconds, an efficient algorithm is being downloaded to calculate these items.",The algorithm performs complex calculations in milliseconds.,0.0020836165884429818,1
+Translate the following text from uz to en and provide only the translated text: Tizimdagi xatoliklar jurnal faylida avtomatik ravishda qayd etiladi.,"Okay, I need to translate ""Tizasdagi xatoliklar jurnal faylida avtomatik ravishda qayd etiladi."" into English. First, I'll break down the phrase to understand each part.
+
+""Tizasdagi"" means ""about,"" so I'll use ""about"" or ""related to."" ""Xatolik"" translates to ""journal,"" so that becomes ""journal."" ""Jurnal faylida"" is a bit tricky. ""Jurnal"" is ""journal,"" and ""faylida"" means ""in a volume"" or ""in a print edition."" So together, it's ""in a journal volume.""
+
+""Avtomatik"" means ""automatically,"" so I'll use ""automatically."" ""Ravishda"" translates to ""has"" or ""contains,"" and ""qayd"" is ""by"" or ""due to."" Putting it all together, I think the best",Errors in the system are automatically recorded in the log file.,0.00219159013482822,1
+Translate the following text from uz to en and provide only the translated text: Kiberxavfsizlik siyosati foydalanuvchi ma’lumotlarini himoya qilishga qaratilgan.,"Okay, I need to translate the text ""Kiberxavfsizlik siyosati foydalanuvchi ma’lumotlarini himoya qilishga qaratilgan."" from Uz to English. Let me break it down.
+
+First, ""Kiberxavfsizlik"" translates to ""Kibera."" It's a name from the Uzbek language, so I know it means ""golden wire."" 
+
+Next, ""siyosati"" means ""isolate,"" which in English is ""isolate.""
+
+Then, ""foydalanuvchi"" is ""profitable,"" so I'll use that.
+
+""ma’lumotlar"" refers to ""ma’toms,"" which is another term for ""money"" or ""cash.""
+
+So far, ""Kibera is isolated and profitable with ma’toms."" That seems correct.
+
+The last part, ""himoya qilishga qaratilgan,"" is",The cybersecurity policy aims to protect user data.,0.0023897302920903593,1
+Translate the following text from uz to en and provide only the translated text: Sensor tarmog‘i uzluksiz monitoring orqali energiya sarfini kamaytiradi.,"Alright, I need to translate the sentence ""Sensor tarmog‘i uzluksiz monitoring orqali energiya sarfini kamaytiradi"" from Russian to English. Let me break it down.
+
+First, ""Sensor tarmog‘i"" translates to ""Sensor (robotic) sensor."" It's a type of device used in robotics.
+
+Next, ""uzluksiz monitoring orqali energiya sarfini"" can be translated as ""unsupervised monitoring of energy."" So, the robot is monitoring energy without supervision.
+
+Finally, ""kamaytiradi"" means ""will operate"" or ""will function."" Putting it all together, it reads as ""A robotic sensor will operate unsupervised, monitoring energy, and will function."" That seems accurate and maintains the original meaning.
+</think>
+
+A robotic sensor will operate unsupervised, monitoring energy, and will function.",The sensor network reduces energy consumption through continuous monitoring.,0.0019857831650453754,1
+Translate the following text from uz to en and provide only the translated text: Bulutli xizmatlar foydalanuvchilarga moslashuvchan saqlash hajmini taqdim etadi.,"Alright, let me try to figure out how to translate ""Bulutli xizmatlar foydalanuvchilarga moslashuvchan saqlash hajmini taqdim etadi."" from Russian to English. First, I'll break down the phrase to understand each part.
+
+"" bulutli xizmatlar"" means ""high-quality mathematics."" Then ""foyadash"" is ""use for profit."" ""Foydalanuvchilarga"" translates to ""for profit."" ""Moslashuvchan"" is ""profitable profit."" ""saqlash"" means ""sell."" ""hajmini"" is ""to plan"" or ""to arrange."" ""taqdim etadi"" means ""plan a meeting.""
+
+Putting it all together, the sentence is saying that high-quality mathematics can be used for profit, and the speaker plans to sell it, possibly in a meeting.
+
+I need to make sure the translation accurately reflects the original meaning.",Cloud services provide users with flexible storage capacity.,0,1
+Translate the following text from uz to en and provide only the translated text: Kecha jigarim bilan ko‘rishtim. Mazza qilib shashlik-xo‘rlik qildik.,"""Kecha jigarim bilan ko‘rishtim."" Then, ""Mazza qilib shashlik-xo‘rlik qildik.""
+
+First, I'll break down each word to understand their meanings better.
+
+1. ""Kecha"" – This is the Persian word for ""light."" In English, it's often used to refer to a candle or a light source. So, I can translate it as ""light.""
+
+2. ""jigarim"" – This is the Persian term for ""fire."" So, ""fire"" in English.
+
+3. ""bilen"" – This translates to ""lit"" in Urdu, meaning ""lit"" or ""lighted."" So, ""lit"" in English.
+
+4. ""ko‘rishtim"" – This is the Persian word for ""bright"" or ""gl",Yesterday I met up with my bro. We ate shashlik.,0.0019226046773833667,1
+Translate the following text from uz to en and provide only the translated text: Ukam futbol o‘ynashni qotirib qo‘yadi. Tepsa koptok osmonga uchib ketadi.,"Alright, let's tackle this translation. The user wants me to translate ""Ukam futbol o‘ynashni qotirib qo‘yadi. Tepsa koptok osmonga uchib ketadi."" from Uz to En.
+
+First, I'll break down each part. ""Ukam futbol"" translates to ""Ukam football,"" which is straightforward. ""O‘ynashni qotirib qo‘yadi"" means ""further away from the center,"" so ""Ukam football is further from the center.""
+
+Next, ""Tepsa koptok osmonga uchib ketadi."" I'm a bit confused here. ""Tepsa"" is a term I'm not familiar with in this context. Maybe it's ""penalty"" or ""kicks""? ""Koptok"" could be ""corner,"" ""free kick,"" or ""tack."" ""Osmonga""","My little bro can’t play football good. When he kicks, the ball flies into the sky.",0.0025579476037043062,1
+Translate the following text from uz to en and provide only the translated text: Nima gapla bolla? Qale ishla?,"Alright, let's tackle this translation task. The user has given me a sentence in Uz (Uzbek) and wants it translated into English. The sentence is ""Nima gapla bolla? Qale ishla?"" 
+
+First, I need to understand the structure of the sentence. It has two questions: ""Nima gapla bolla?"" which translates to ""Does Nima fail to score?"" and ""Qale ishla?"" which translates to ""Is Qale not present?""
+
+I'll start with the first part. ""Nima gapla bolla"" – ""gapla"" means to score, and ""bolla"" is the football ball. So, ""Nima gapla bolla"" becomes ""Does Nima fail to score?"" That seems straightforward.
+
+Next, ""Qale ishla?"" – ""Qale"" is short for ""Qaleed,"" which means ""what is present."" So, ""Qale ishla"" translates to","What’s up, guys? How are you?",0,1
+Translate the following text from uz to en and provide only the translated text: Kecha o‘rtog‘im adasiga rossa paxta qo‘ydi. Yengi telefon kerak shakil.,"""Kecha o‘rtog‘im adasiga rossa paxta qo‘ydi. Yengi telefon kerak shakil.""
+
+First, I'll break it down into parts to understand each word and its meaning. 
+
+1. ""Kecha o‘rtog‘im"" – This translates to ""I am a man.""
+2. ""adasiga rossa"" – This means ""from Russia.""
+3. ""paxta qo‘ydi"" – This is ""you receive.""
+
+Putting it together, the first part is ""I am a man from Russia."" 
+
+Next, ""Yengi telefon kerak shakil."" I know that ""yengi"" is ""phone,"" ""tomorrow"" might be a typo, but I'll assume it's meant to be ""today"" or ""today."" "" kerak"" is """,Yesterday my friend really buttered up his dad. Guess he wants a new phone.,0.0019226046773833667,1
+"Translate the following text from uz to en and provide only the translated text: Bugun jonkam bilan ko‘rishkanimda rossa miyyami yedi. Oxiri nervimga teygani uchun, shapat berdim.","Alright, the user wants me to translate a piece of text from Uyghur to English. Let me read the text carefully. It says, ""Bugun jonkam bilan ko‘rishkanimda rossa miyyami yedi."" Hmm, that's a bit complicated. I know ""bugun"" is a colloquial term for ""how I'm feeling."" ""Jonkam bilan"" might be a phrase meaning ""how I'm feeling,"" but I'm not entirely sure. Then ""ko‘rishkanimda"" could be ""I'm feeling"" or ""I'm in the mood."" 
+
+Next part: ""rossa miyyami yedi."" ""Rosa"" is ""red,"" and ""miyyami"" is ""meaning"" or ""meaningful."" ""Yedi"" is 7 in Arabic numerals. So putting it together, it seems like the user is sharing that they're feeling red and positive, with a score of","When I met my babe today, she really got on my nerves. In the end, I slapped her.",0.0018967254275021094,1
+"Translate the following text from uz to en and provide only the translated text: Eee, manga baribir. Man sirpandim bu yerdan.","Okay, I need to translate the text ""Eee, manga baribir. Man sirpandim bu yerdan."" from Uz to En. Let's break it down word by word.
+
+First, ""Eee"" is an informal greeting, so I can keep it as is or maybe change it to something more standard. Since it's a greeting, I'll leave it as ""Eee"" for simplicity.
+
+Next, ""manga baribir."" I know ""manga"" in Uz is ""magus."" ""Baribir"" seems like a place name, so I'll look it up. Baribir is a town in Afghanistan, so I can use ""baribir"" directly. So it becomes ""magus baribir.""
+
+Now, the second part: ""Man sirpandim bu yerdan."" ""Man"" is ""man."" ""Sirpandim"" translates to ""go to"" or ""arrive."" ""Bu"" is ""the","Eh, I don’t care. I’m outta here.",0.0015531565012505445,1
+"Translate the following text from uz to en and provide only the translated text: U bolani soqqasi ko‘p, lyuboy moshinani sotib oladi.","Okay, I need to translate the text ""U bolani soqqasi ko‘p, lyuboy moshinani sotib oladi."" from Uze to English. Let me break it down sentence by sentence.
+
+First, ""U bolani soqqasi ko‘p"" translates to ""I have a lot of fun."" The word ""bolani"" means ""I have,"" and ""soqqasi"" means ""fun."" The comma is just a period here, so I'll use a full stop.
+
+Next, ""lyuboy moshinani sotib oladi."" ""Lyuboy"" means ""I love,"" ""moshinani"" is ""love,"" and ""sotib"" means ""I am."" ""Oladi"" is ""I am."" So putting it together, it should be ""I love love love I am.""
+
+Putting it all together: ""I have a lot of fun. I love love love I am.""
+
+I think","That guy’s loaded, he can buy any car he wants.",0,1
+Translate the following text from uz to en and provide only the translated text: Anu qizchani ko‘rinishi takoy ekan mi?,"Okay, so I need to translate the Russian phrase ""Anu qizchani ko’rinishi takoy ekan mi?"" into English. Let me break it down word by word.
+
+First, ""Anu"" is ""any."" That's straightforward. Next, ""qizchani"" translates to ""knights."" ""Ko’rinishi"" is ""on his horse."" So putting that together, it's ""any knights on his horse."" 
+
+Then there's ""takoy."" In Russian, ""takoy"" means ""eaten,"" so I think it should be ""eaten"" in English. ""Ekan"" is the past tense of ""ake,"" which means ""to eat."" So ""ekan"" would be ""have eaten."" Finally, ""mi?"" is the polite way to say ""so"" or ""in conclusion.""
+
+Putting it all together: ""Any knights on his horse have eaten. So, yes, they must be","That girl looks attractive, doesn’t she?",0,1
+Translate the following text from uz to en and provide only the translated text: Kecha moshinamga zo‘r saka diska oldim.,"Alright, let's break this down. The user wants me to translate ""Kecha moshinamga zo‘r saka diska oldim"" from乌语 to English. First, I need to understand the phrase.
+
+""Kecha"" means ""hand"" in English. ""Moshinamga"" translates to ""without a finger."" ""Zo‘r"" is ""on."" ""Saka"" is ""knows."" ""Diska"" is ""disk."" ""Oldim"" is ""old.""
+
+Putting it together, it sounds like ""Hand without a finger knows a disk old."" That makes sense in the context of something needing to be old or used. I think this captures the essence of the original phrase.
+
+I should double-check if there's a more natural translation. Maybe ""A hand without a finger knows a disk."" That's a bit simpler but still conveys the same meaning. However, the first version seems to be more complete and fits the context",Yesterday I got some awesome alloy rims for my car.,0.0013947825762594239,1
+Translate the following text from uz to en and provide only the translated text: Moshinani shapkasi qancha?,"Okay, I need to translate ""Moshinani shapkasi qancha?"" from Uz to English. Let me break this down.
+
+First, ""Moshinani"" translates to ""Moshino"" in English. That's the name of the Japanese province, so I'll keep that as ""Moshino.""
+
+Next, ""shapkasi"" is a loan term. I'm not entirely sure what it means, but I think it's related to ""kura,"" which means ""hand."" So maybe it's ""handy"" or ""handyman."" Alternatively, it could be ""shapkin,"" which I believe means ""handful."" I'll go with ""shapkin"" for this context.
+
+Then there's ""qancha."" I'm not sure about the translation here. It might be ""shop"" or ""shopper."" I think ""qancha"" commonly refers to a shop, so I'll use ""shop.""
+
+Putting it",How much is the grease money for the car?,0.0022555993735920853,1

@@ -1,0 +1,49 @@
+input,output,expected,bleu,gemini_score
+Men uyda o'ritibman,Men are staying in the house,I am sitting at home.,0,1
+Bu menkitobim,This is my book,This is my book.,0.3976353643835253,10
+U maktabga ketdi,I went to the school,He went to school.,0.11362193664674995,3
+Men choy ichmoqchiman,Men are meeting,I want to drink tea.,0,1
+U juda yaxshi inson,The judges are fair,He is a very good person.,0,1
+Havo bugun issiq,The weather is cold,The weather is hot today.,0.3096787331587729,2
+Mening ismim Aziz,My name is Aziz,My name is Aziz.,0.3976353643835253,10
+Bu uy juda katta,This house is big,This house is very big.,0.3096787331587729,7
+Men televizor ko'ryapman,I am watching TV,I am watching TV.,0.3976353643835253,10
+U mashina haydayapti,The car broke down,He is driving a car.,0,1
+Men har kuni ertalab sport bilan shug'ullanaman,I watch sports every day,I exercise every morning.,0.06389431042462725,3
+Kecha biz do'stlar bilan parkda sayr qildik,We walked in the park with our friends,Yesterday we walked in the park with friends.,0.5169731539571706,8
+U yangi telefon sotib oldi va juda xursand bo'ldi,My new phone was broken,He bought a new phone and was very happy.,0.05650012604057985,1
+Men ingliz tilini o'rganishni davom ettiryapman,I am studying English,I am continuing to learn English.,0.10305224267080783,5
+Biz yozda tog'lar sayohat qilishni rejalashtirapmiz,We should take the bus to go to the park,We are planning to travel to the mountains in summer.,0.05307712171072445,1
+U o'zining yangi ishini juda yaxshi ko'radi,My new job is very successful,She really likes her new job.,0.040824829046386304,2
+Men kitob o'qishdan zavq olaman,I am worried about losing my book,I enjoy reading books.,0.033031643180138064,1
+"Kechasi yomg'ir yog'ib, havo salqinlashdi",I am cold and my heart is racing,It rained at night and the weather cooled down.,0.024512401940754224,1
+U universitetda informatika bo'yicha o'qiyapti,I studied computer science at the university,He is studying computer science at the university.,0.35640264633541835,3
+Biz oilamiz bilan hafta oxiri kinoga bordik,We should go back home after our weekend,We went to the cinema with our family on the weekend.,0.022702294218557836,1
+U o'z maqsadiga erishish uchun qat'iyat bilan ishladi,I worked hard to achieve my goal,He worked with determination to achieve his goal.,0.0670144447096575,3
+Hayotda eng katta boylik — sog'liqdir,The greatest wealth is wisdom,The greatest wealth in life is health.,0.19153996003797966,2
+"U juda dono inson bo'lib, har doim to'g'ri maslahat beradi",Both men and women have equal rights,He is a very wise person and always gives good advice.,0.018653567503517977,1
+Qiyin vaziyatlarda ham umidni yo'qotmaslik kerak,It is essential to have faith in difficult situations,One should not lose hope even in difficult situations.,0.050712153369465586,5
+Yaxshi do'st — qiyinchilikda bilinadi,Good people are wise,A good friend is known in hardship.,0,1
+"U uzoq o'ylab, nihoyat to'g'ri qarorga keldi",You are very strong and brave,He thought for a long time and finally made the right decision.,0.01501861529550426,1
+Har bir insonning hayoti davomida bilim izlashdan to'xtamasligi lozim,Every person's life is a test of perseverance,A person should never stop seeking knowledge throughout life.,0,2
+Har qanday muvaffaqiyat sabr-toqat va mehnat bilan keladi,Every person will have perseverance and determination,Any success comes with patience and hard work.,0.028634401465295497,2
+Dasturiy ta'miniyotning yangi versiyasi xavfsizlik protokollarini yangiladi,The new version of the security protocols for cyber attacks,The new version of the software updated its security protocols.,0.4111336169005197,2
+Serverning ishlash tezligini optimallashtirish uchun kechiktirish vaqtini qisqartirish kerak,Server performance should be optimized with more time,"To optimize server performance, the latency must be reduced.",0.024512401940754224,1
+Ma'lumotlar bazasi indekslash orqali so'rovlarni tezroq qayta ishlaydi,The database indexes data in a fast and efficient manner,The database processes queries faster through indexing.,0.0446323613785333,4
+Sun'iy intellekt modeli katta hajmdagi ma'lumotlar ustida o'qitildi,The sun-based intelligence model is able to gather the most valuable information,The artificial intelligence model was trained on large-scale data.,0.03986357128268015,1
+Sensorlar real vaqt rejimida harorat va namlikni o'lchaydi,Sensors measure temperature and humidity in real-time,Sensors measure temperature and humidity in real time.,0.7013967267997694,10
+Algoritm murakkab hisob-kitoblarni millisekundarda bajaradi,Algorithms process data in milliseconds,The algorithm performs complex calculations in milliseconds.,0.036015288308423515,4
+Tizimdagi xatoliklar jurnal faylida avtomatik ravishda qayd etiladi,Errors in the system were detected automatically,Errors in the system are automatically recorded in the log file.,0.24549475440235116,3
+Kiberxavfsizlik siyosati foydalanuvchi ma'lumotlarini himoya qilishga qaratilgan,Cyber security is essential for protecting people's information,The cybersecurity policy aims to protect user data.,0,5
+Sensor tarmog‘i uzluksiz monitoring orqali energiya sarfini kamaytiradi,Sensor monitoring is done without any energy loss,The sensor network reduces energy consumption through continuous monitoring.,0.024512401940754224,2
+Bulutli xizmatlar foydalanuvchilarga moslashuvchan saqlash hajmini taqdim etadi,Bulky services are provided to customers to help them,Cloud services provide users with flexible storage capacity.,0.023980296761827107,1
+Kecha jigarim bilan ko'rishkanim. Mazza qilib shashlik-xo'rlik qildik,I went to the market and bought food,Yesterday I met up with my bro. We ate shashlik.,0.02163211878762423,1
+Ukam futbol o'ynashni qotirib qo'yadi. Tepsa koptok osmonga uchib ketadi,I played football and went to the stadium,"My little bro can’t play football good. When he kicks, the ball flies into the sky.",0.012151662434083681,1
+Nima gapla bolla? Qale ishla?,Did you hear something? What's going on?,"What’s up, guys? How are you?",0,2
+Kecha o'rtog'im adasiga rossa paxta qo'ydi. Yengi telefon kerak shakil,I gave my dog a red collar and a new phone,Yesterday my friend really buttered up his dad. Guess he wants a new phone.,0.03358575137215658,1
+"Bugun jonkam bilan ko'rishkanimda rossa miyyami yedi. Oxiri nervimga teygani uchun, shapat berdim",I saw a new phone in the market and it was very expensive,"When I met my babe today, she really got on my nerves. In the end, I slapped her.",0.0125774279703401,1
+"Eee, manga baribir. Man sirpandim bu yerdan",I'm a bit tired. I'm sitting here,"Eh, I don’t care. I’m outta here.",0,1
+"U bolani soqqasi ko'p, lyuboy moshinani sotib oladi",You put a blanket on the couch and it's very comfortable,"That guy’s loaded, he can buy any car he wants.",0,1
+Anuiz qchani ko'rinishi takoy ekan mi?,Did you take a picture of your daughter?,"That girl looks attractive, doesn’t she?",0,1
+Kecha moshinamga zo'r saka diska oldim,I took the phone and put it on my desk,Yesterday I got some awesome alloy rims for my car.,0.025098621243978974,1
+Moshinani shapkasi qancha?,How big is your phone?,How much is the grease money for the car?,0.028709564316081952,1

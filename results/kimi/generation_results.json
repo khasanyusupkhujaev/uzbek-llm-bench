@@ -1,0 +1,122 @@
+[
+  {
+    "input": "O'zbekistonning mustaqillik kunini nishonlash haqida qisqa hikoya yozing. Write in Uzbek, ≈200-300 words, in a narrative style about Independence Day of Uzbekistan.",
+    "output": "Yomg'ir tomchilarining musiqasi bilan uyg'onib, Sevara oynaga yaqinlashdi. Ko'cha yorug' edi – bayram uchun bezatilgan bayroqlar shamollab turardi. Onasi palov pishirayotgan edi, uydan zira va sabzavotlar hidini tarqalardi. Katta ayol bilan birga ko'cha bo'ylab yurishdi – ayollar milliy liboslarda, bolalar qo'llarida bayram shariqlari. Kechqurun ko'cha markazida olov ko'rsatmalari boshlandi. Sevara o'zining kichkina bayrog'ini ko'tardi va o'zini eng baxtli qiz his qildi."
+  },
+  {
+    "input": "Sog'lom ovqatlanishning foydalari haqida 6 jumladan iborat maqola parchasi yozing. Write in Uzbek, 6 sentences, in a informative style about benefits of healthy eating.",
+    "output": "Sog'lom ovqatlanish organizmni kuchaytirib, immunitetni mustahkamlaydi. Tarkibida vitamin va minerallar ko'p bo'lgan oziq-ovqatlar energiya bilan ta'minlaydi. Fast-fud va shakarli mahsulotlardan saqlanish yurak kasalliklarining oldini oladi. Kunlik racionda sabzavot, meva va oqsil mahsulotlarining bo'lishi muhimdir. Sog'lom ovqatlanish psixologik holatni ham yaxshilaydi. To'g'ri ovqatlanish – uzoq va sifatli umr sari birinchi qadamdir."
+  },
+  {
+    "input": "Yomg'irli kun haqida 5 misradan iborat she'r yozing. Write in Uzbek, 5 lines, in a poetic style about rainy day.",
+    "output": "Yomg'ir tomchilarida g'am yashirilib,  Ko'cha toshlarida she'r o'qilib.  Shamol esib, barglar raqsa keladi,  Bulutlar osmonda gapirib yotadi.  Yomg'ir – osmonning go'zal yig'lamasi."
+  },
+  {
+    "input": "Amir Temur hayoti va yutuqlari haqida qisqa biografiya yozing. Write in Uzbek, ≈150 words, in a biographical style about life of Amir Timur.",
+    "output": "Amir Temur (1336–1405) – buyuk davlat arbobi, strateg va me'mor. U 1370-yilda Samarqandni markaz qilib, katta imperiya barpo etdi. Temur Samarqandni ilm, san'at va savdo markaziga aylantirdi. Uning davrida ko'plab masjidlar, madrasalar va obodonlashgan ko'chalarni qurdi. Temur dunyoning turli burchaklariga yurishlar uyushtirdi va tarixda 'Temuriylar davri' deb nomlangan davrni boshladi."
+  },
+  {
+    "input": "Kelajakdagi texnologiyalar haqida fikringizni bildiruvchi insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about future technologies.",
+    "output": "Kelajakda texnologiyalar inson hayotini tubdan o'zgartiradi. Sun'iy intellekt kasblarni avtomatlashtiradi, lekin yanga imkoniyatlar yaratadi. Avtonom transport vositalari yo'llarni xavfsizroq qiladi. Sun'iy yuraklar va a'zolarni o'stirish orqali sog'liqni tiklash mumkin bo'ladi. Biroq, texnologik rivojlanish bilan birga axloqiy masalalarga ham e'tibor berish kerak. Insoniyat texnologiyani nazorat qiladigan, uning qulligi emas, balki egasi bo'lishi kerak."
+  },
+  {
+    "input": "O'zbek milliy taomlari orasida palovning retsepti haqida batafsil yozing. Write in Uzbek, ≈200 words, in a instructional style about recipe for plov.",
+    "output": "Palov – o'zbek milliy taomlarining qiroli. Retsepti quyidagicha:\n**Mahsulotlar**: 1 kg gosht (qo'y yoki mol), 500 g sho'ra, 500 g sabzi, 500 g piyoz, 500 g guruch, 200 g yog', zira, tuz, no'xat, sariyog'.\n**Tayyorlash**:\n1. Kazonni qizdiring, yog'ni quying va piyozni qovuring.\n2. Goshtni qo'shib, qizil rangga kelguncha qovurish.\n3. Sabzini qo'shib, 10 daqiqa qovurish.\n4. Guruchni yuvib, qazonga qo'shing.\n5. 2 barobar suv quying, zira va tuz qoʻshing.\n6. Olovni past qilib, 20 daqiqa dam qiling.\nPalov tayyor – ta'miga qarang!"
+  },
+  {
+    "input": "Tabiatni muhofaza qilish muhimligi haqida 4 paragrafdan iborat matn yozing. Write in Uzbek, 4 paragraphs, in a explanatory style about importance of nature conservation.",
+    "output": "Tabiat – insoniyatning yagona uyidir. Uning muhofazasi bizning kelajagimizga bevosita ta'sir qiladi. Agar biz hozirdan boshlab choralar koʻrmasak, kelajakda suv, havo va oziq-ovqat muammolari yuzaga kelad. \nTabiatni muhofaza qilish – bu faqat ekologik mas'uliyat emas, balki iqtisodiy ham zaruratdir. Chiqindilarni qayta ishlash, energiya tejash va ekologik toza texnologiyalar ish joylari yaratadi. \nHar bir inson oʻz hissasini qoʻshishi kerak. Daraxt ekish, suvni tejash, plastikdan saqlanish – kichik, lekin samarali choralar. \nTabiat bizga berilgan ne’matni saqlash – farzandlarimizga soxta meros qoldirishdir. Biz bugun choralar koʻrsak, ertaga ular bizga minnatdor boʻladi."
+  },
+  {
+    "input": "Do'stlik haqida o'zbek maqollaridan foydalanib, qisqa hikoya yozing. Write in Uzbek, ≈150-200 words, in a narrative with proverbs style about friendship.",
+    "output": "Bir kuni Alisher bilan Davron orasida nizolar chiqdi. Alisher: “Do’stning qadri yo’qmi?” deb so’radi. Davron esa: “Do’stning qadri yo’qotilganda bilinadi,” dedi. Ular bir-birlariga so’z bermay, bir hafta gaplashmadilar. Bir kuni Alisher kasal bo’lib qoldi. Davron kelib, “Do’stning dardi – o’zing darding,” dedi. Shu gap bilan ular barishib, do’stliklarini yanada mustahkamladilar."
+  },
+  {
+    "input": "Matematikada kvadrat tenglamani yechish usullarini tushuntiruvchi matn yozing. Write in Uzbek, ≈100 words, in a educational style about solving quadratic equations.",
+    "output": "Kvadrat tenglama – ax² + bx + c = 0 shaklidagi tenglama. Uni yechishning uchta asosiy usuli bor:  \n1. **Diskriminant usuli**: D = b² – 4ac. Agar D > 0 – ikkita yechim, D = 0 – bitta yechim, D < 0 – yechim yo’q.  \n2. **Viet teoremasi**: x₁ + x₂ = -b/a, x₁ · x₂ = c/a. Bu usul ko’pincha koefitsientlar butun sonlar bo’lsa qo’llaniladi.  \n3. **Grafik usuli**: Funktsiyani grafikda chizish orqali Ox o’qi bilan kesishish nuqtalarini topish. Bu usul ko’rsatma uchun qulay."
+  },
+  {
+    "input": "O'zbek adabiyotida Navoiy asarlarining ahamiyati haqida insho yozing. Write in Uzbek, ≈300 words, in a analytical style about importance of Navoi's works.",
+    "output": "Alisher Navoiy – o'zbek adabiyotining asoschisi. Uning asarlari – g’azallar, masnavilar, qissalar – insoniyatning yuksak qadriyatlarini aks ettiradi. Navoiy adabiyotda milliy ruhni oshirdi, turk tilini adabiy til sifatida mustahkamladi. Uning “Xamsa”si – Sharqda eng yuksak epik asarlardan biri. Navoiy ijodi bugungi kunda ham o’quvchilarga axloqiy targ’ibot beradi. Uning so’zlari – milliy g’urur va ma’naviyat manbai."
+  },
+  {
+    "input": "Kunlik hayotda vaqtni boshqarish bo'yicha maslahatlar yozing. Write in Uzbek, 5-7 tips, in a advisory style about time management.",
+    "output": "Ertalab turish vaqtingizni belgilab, unga rioya qiling – bu kun tartibini yaratadi. Har bir ish uchun aniq vaqt belgilang va prioritetlarni ajrating. Masalan, eng muhim ishni ertalab qiling, chunki o'sha paytda energiya ko'proq. Telefon va ijtimoiy tarmoqlarni cheklang – ular vaqtni sezmasdan o'g'irlaydi. Kun oxirida ertaga reja tuzing – bu sizni tartibli va mas'uliyatli qiladi. Va nihoyat, dam olish vaqtingizni ham belgilang – bu sizni yanada samarali qiladi."
+  },
+  {
+    "input": "Qish fasli haqida tasviriy she'r yozing. Write in Uzbek, 8 lines, in a descriptive poetic style about winter season.",
+    "output": "Qish keldi – osmon kulrang bo'ldi, \n  Tog'lar o'rtacha oq kiyim kiydi.  \nYaproqlar yig'lab, daraxtlar tinch yotadi,  \nBolalar kulib, qorga o'yin topadi.  \nOlovcha uyda issiq non va issiq gap,  \nQish – uylar ichida yurakni issiq qiladigan fasl."
+  },
+  {
+    "input": "Iqlim o'zgarishi sabablari va oqibatlarini muhokama qiluvchi matn yozing. Write in Uzbek, ≈250 words, in a discursive style about causes and effects of climate change.",
+    "output": "Iqlim o'zgarishi – bu tabiatning eng katta muammolaridan biri. Asosiy sabab – inson faoliyati: zavodlar, avtomobillar va o'rmonlarni kesish. Bu oqibatda havo harorati oshadi, muzlar eriydi, dengiz sathi ko'tariladi. Qishlar qisqaradi, yozlar cho'zilib, qurg'oqchilik va sel ko'payadi. Bu esa oziq-ovqat, suv va yashash joylari muammolarini keltirib chiqaradi. Biz hozirdan boshlab choralar koʻrmasak, kelajakda bu muammolar yanada oshadi."
+  },
+  {
+    "input": "O'zbekistonning mashhur shaharlari haqida qisqa ta'riflar yozing. Write in Uzbek, 3-5 cities, 2-3 sentences each, in a descriptive style about famous cities of Uzbekistan.",
+    "output": "**Toshkent** – davlatning yuragi, zamonaviy shahar va tarixiy yodgorliklar uyi.  \n**Samarqand** – buyuk tarix, Registon va Gur Emir bilan dunyoga tanilgan.  \n**Buxoro** – 2500 yillik tarixga ega, me'moriy yodgorliklar bilan boy.  \n**Xiva** – Itchan qal'asi bilan mashhur, o'rta asr shahariga o'xshaydi.  \n**Farg'ona** – tabiiy go'zallik va hunarmandchilik markazi."
+  },
+  {
+    "input": "Sun'iy intellektning afzalliklari va kamchiliklari haqida insho yozing. Write in Uzbek, ≈200 words, in a balanced argumentative style about pros and cons of AI.",
+    "output": "Sun'iy intellekt (SI) – zamonaviy texnologiyalarning eng yirik yutuqlaridan biri. U tibbiyotda, ta'limda, transportda va ishlab chiqarishda samaradorlikni oshiradi. Masalan, SI orqali kasalliklarni tez aniqlash mumkin. Biroq, SI inson o'rnini bosishi mumkin, bu esa ish o'rinlarining yo'qolishiga olib keladi. Bundan tashqari, SI noto'g'ri foydalanilsa, shaxsiy ma'lumotlar xavfsizligi xatar ostida qoladi. Shuning uchun SI rivojlanishi bilan birga, uning nazorati va axloqiy me'yorlari ham rivojlanishi kerak."
+  },
+  {
+    "input": "Bolalik xotiralari haqida shaxsiy hikoya yozing. Write in Uzbek, ≈150 words, in a personal narrative style about childhood memories.",
+    "output": "Bir qish tongida, dedam bilan tog'ga o't yig'maga ketdik. U yerda qor o'ynab, qor odamini yasaganmiz. Dedam qo'limdan tutib, 'Qor – tabiatning eng go'zal sovg'asi,' dedi. U kunni hozir ham eslayman – issiq non, kulguli gaplar va dedamning yuzidagi tabassum. Bu xotira mening bolalik davrimning eng go'zal sahifasi."
+  },
+  {
+    "input": "Fizikada Nyuton qonunlarini oddiy tilda tushuntiring. Write in Uzbek, 3 laws, 1-2 sentences each, in a simplified explanatory style about Newton's laws of motion.",
+    "output": "1-qonun: Agar narsaga hech qanday kuch ta’sir qilmasa, u harakatda yoki tinch yotadi.  \n2-qonun: Kuch qanchalik katta bo’lsa, tezlanish ham shunchalik katta bo’ladi.  \n3-qonun: Siz narsaga tegaysiz, u ham sizga teng kuch bilan javob beradi.  \nMasalan, yugurayotgan bola to’xtasa – 1-qonun, kuch bilan tezlanadi – 2-qonun, devorga tegib orqaga qaytadi – 3-qonun."
+  },
+  {
+    "input": "O'zbek folklorida ertaklarning roli haqida matn yozing. Write in Uzbek, ≈100 words, in a informative style about role of folktales in Uzbek folklore.",
+    "output": "Ertaklar – bolalikning birinchi o’qituvchisi. Ular orqali bolalar yaxshilik va yomonlikni ajratib o’rganadi. Masalan, “Alpomish” ertagi – adolat va fidoyiylikni o’rgatadi. Ertaklar milliy qadriyatlarni saqlab, bolalarga ona tilini sevdiradi. Ularda qahramonlar – xalqning ma’naviy yuzidir. Bugungi kunda ham ertaklar bolalarni tarbiyalashda muhim rol o’ynaydi."
+  },
+  {
+    "input": "Sog'liqni saqlash uchun sportning ahamiyati haqida insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about importance of sports for health.",
+    "output": "Sport – sog'liqni saqlashning eng oddiy va samarali yo'li. Har kuni 30 daqiqa yugurish yoki piyoda yurish yurakni mustahkamlaydi. Sport stressni kamaytiradi, kayfiyatni yaxshilaydi. Yoshlarda miya rivojlanadi, keksalarda es-hush saqlanadi. Sport – sog'liqni emas, balki hayotni uzaytiradi."
+  },
+  {
+    "input": "Yoz faslining go'zalligi haqida she'r yozing. Write in Uzbek, 6 lines, in a poetic style about beauty of summer.",
+    "output": "Yoz keldi – daraxtlar yashil kiyim kiydi,  \nBulutlar osmonda o'yin topdi.  \nQorako'l suvlarida bolalar suzadi,  \nNon va tarvuz – har uyda mazali ta'm.  \nYoz – yuraklarni ochadigan,  \nBolalikni eslatadigan fasl."
+  },
+  {
+    "input": "Tarixdagi buyuk kashfiyotlar haqida qisqa ro'yxat yozing. Write in Uzbek, 5 discoveries, brief description each, in a list-based informative style about great historical discoveries.",
+    "output": "- Olovning ixtiro qilinishi – insoniyatning birinchi buyuk yutuqlari orasida.  \n- Koleso – transport va savdoni inqilob qildi.  \n- Elektr – Tomas Edison va Nikol Tesla orqali kundalik hayotga kirib keldi.  \n- Penitsillin – Aleksandr Fleming tomonidan kashf qilingan antibiotik.  \n- Internet – Axborot davrining asosiy mexanizmi.  \n- DNK tuzilishi – Fransis Krik va Jeyms Uotson tomonidan kashf qilindi.  \n- Penisilin – antibiotiklar davrini boshladi.  \n- Sun'iy intellekt – zamonaviy texnologiyalar asosini yaratdi."
+  },
+  {
+    "input": "Oilaviy qadriyatlar haqida fikr-mulohazalar yozing. Write in Uzbek, ≈200 words, in a reflective style about family values.",
+    "output": "Oilaviy qadriyatlar – bu insoniyatning eng qadimiy va muqaddas asosidir. Oila – sevgi, ishonch va birlikning manbai. Bu qadriyatlar bolalarga ma’naviyat, axloq va milliy ruhni o’rgatadi. Oilada hurmat va qadrlash orqali jamiyatning poydevori yaratiladi. Zamonaviy hayotda ham oilaviy qadriyatlar – insoniyatning barqarorligi uchun eng muhim omildir."
+  },
+  {
+    "input": "Biologiyada o'simliklarning fotosintez jarayonini tushuntiring. Write in Uzbek, ≈150 words, in a scientific explanatory style about photosynthesis in plants.",
+    "output": "Fotosintez – o'simliklar quyosh nuridan foydalangan holda uglerod dioksid va suvni o'zlashtirib, oksigen va glukoza hosil qiladigan jarayon. Bu jarayon xloroplastlarda sodir bo'ladi. Quyosh nurini energiya sifatida qabul qilib, o'simlik o'zini oziqlantiradi va atmosferaga oksigen chiqaradi. Fotosintez – Yerda hayotni saqlab turuvchi eng muhim biologik jarayonlardan biri."
+  },
+  {
+    "input": "O'zbek san'ati va hunarmandchiligi haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about Uzbek art and crafts.",
+    "output": "O'zbek san'ati – rang-barang ranglar, noyob naqshlar va qo'lda yaratilgan go'zalliklar bilan boy. Hunarmandchilik – bu ko'p avlodlardan o'tib kelgan meros. Rishtlik kasb – gilam to'qish, zargarlik, pardozchilik, kulolchilik va boshqa ko'plab sohalar. Har bir mahsulot – mehnat, sabr va mahoratning namunasi. Bugungi kunda ham bu san'atlar dunyoga o'zbek madaniyatini namoyon qiladi."
+  },
+  {
+    "input": "Muvaffaqiyatga erishish yo'llari haqida maslahatlar yozing. Write in Uzbek, 4-6 tips, in a motivational style about paths to success.",
+    "output": "- Maqsadni aniq belgilang – yoʻl yoʻqotmaslik uchun.  \n- Kunlik rejim tuzing va unga rioya qiling.  \n- Xatolardan qorqmang – ular eng yaxshi o’qituvchidir.  \n- Doimiy o’rganing – bilim – muvaffaqiyatning kaliti.  \n- Atrofingizdagi odamlarni tanlang – ular sizga ta’sir qiladi.  \n- Sabr va ishonch bilan harakat qiling – muvaffaqiyat vaqt talab qiladi."
+  },
+  {
+    "input": "Kuz fasli haqida tasviriy she'r yozing. Write in Uzbek, 7 lines, in a poetic descriptive style about autumn season.",
+    "output": "Kuz keldi – barglar sariq bo'ldi,  \nTog'lar o'rtacha olov rangiga kirib ketdi.  \nYer ostidagi non – ta'mi o'zga,  \nBulutlar osmonda yig'layotgandek.  \nKuz – yig'ilib, yodlarni yig'laydigan fasl."
+  },
+  {
+    "input": "Iqtisodiyotda inflyatsiya sabablari haqida insho yozing. Write in Uzbek, ≈200 words, in a analytical style about causes of inflation.",
+    "output": "Inflyatsiya – bu tovar va xizmatlar narxlarning umumiy darajasining oshishi. Asosiy sabablar – pul massasining ortishi, taklifning kamayishi yoki talabning ortishi. Masalan, davlat pul bosib chiqarsa, pul qiymati pasayadi. Inflyatsiya jamiyatda iqtisodiy barqarorlikni buzadi, jamoatchilik ishonchini kamaytiradi. Buning oldini olish uchun davlat pul-kredit siyosatini to'g'ri boshqarishi kerak."
+  },
+  {
+    "input": "O'zbekiston tabiatining go'zal joylari haqida ta'rif yozing. Write in Uzbek, 3 places, 2-3 sentences each, in a descriptive style about beautiful natural sites in Uzbekistan.",
+    "output": "O'zbekiston tabiati – tog'lar, cho'llar, daryolar va ko'llar bilan boy. Chimgan tog'lari – yozda dam olish uchun eng go'zal joy. Boysun cho'li – tarixiy va tabiiy yodgorliklar bilan to'la. Orol dengizi atrofi – hozir tiklanish jarayonida. Zarafshon daryosi – vodiylarni sugʻorib, yer maydonlarini yashil qiladi. Har bir joy – tabiat bilan insonning go'zal hamjihatligi."
+  },
+  {
+    "input": "Psixologiyada stressni boshqarish usullari haqida matn yozing. Write in Uzbek, ≈150 words, in a practical advisory style about stress management techniques.",
+    "output": "Stress – hayotning ajralmas qismi, lekin uni boshqarish mumkin. Birinchi – nafas mashqlari: chuqur nafas olish orqali jismni tinchlantirish. Ikkinchi – rejalashtirish: ish va dam olishni to'g'ri taqsimlash. Uchinchi – sport va uyqu: tanani mustahkamlash. To'rtinchi – muloqot: do'stlar va oila bilan gaplashish. Beshinchi – pozitiv fikrlash: har bir muammoga yechim borligiga ishonish."
+  },
+  {
+    "input": "Adabiyotda fantastik janrning xususiyatlari haqida yozing. Write in Uzbek, ≈100 words, in a informative style about features of fantasy genre.",
+    "output": "Fantastik janr – haqiqat va tasavvurning uyg’unligi. Bu janrda ilmiy kashfiyotlar, kelajak texnologiyalari va boshqa dunyolar tasvirlanadi. Fantastika – insonning orzularini va qo’rqinchlarini aks ettiradi. U jamiyatga xabar beradi: “Kelajak qanday bo’lishi mumkin?” Masalan, Ray Bredberi va O‘tkir Hoshimov asarlari – fantastikaning milliy va umuminsoniy qadriyatlarini namoyon qiladi."
+  }
+]

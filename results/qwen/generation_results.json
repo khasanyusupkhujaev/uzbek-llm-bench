@@ -1,0 +1,302 @@
+[
+  {
+    "input": "O'zbekistonning mustaqillik kunini nishonlash haqida qisqa hikoya yozing. Write in Uzbek, ≈200-300 words, in a narrative style about Independence Day of Uzbekistan.",
+    "output": "<think>\nOkay, the user wants a narrative about Uzbekistan's Independence Day, around 200-300 words. Let me start by recalling the key points. Independence Day is celebrated on July 10th, right? So I need to mention that date.\n\nThe user might be interested in the historical context. Uzbekistan gained independence from Russia in 1991, so I should highlight that. Also, the celebration includes various events like parades, speeches, and cultural activities. I should mention the significance of the date in the context of national pride and unity.\n\nI need to keep the narrative style, so maybe start with the date, then the historical background, followed by the celebrations. Make sure to include details like the parade, speeches, and the role of media. Also, touch on the current state of the country and how Independence Day reflects the nation's resilience.\n\nWait, the user specified \"in a narrative style,\" so maybe use some vivid descriptions.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'lom ovqatlanishning foydalari haqida 6 jumladan iborat maqola parchasi yozing. Write in Uzbek, 6 sentences, in a informative style about benefits of healthy eating.",
+    "output": "<think>\nOkay, the user wants 6 informative sentences about the benefits of healthy eating in Uzbek. Let me start by recalling the main points of healthy eating. First, it's good for the body and mind, then weight management, heart health, brain function, digestion, and long-term health. I need to make sure each point is clear and concise. Let me check if I have all the benefits covered. Yes, that's six. Now, translate each sentence into Uzbek. Need to ensure the tone is positive and encouraging. Avoid any technical terms. Make sure the sentences flow well and each is a separate point. Alright, time to put it all together.\n</think>\n\n1. Sog'lom ovqatlanishning foydalari haqida 6 jumladan iborat maqola parchasi yozing.  \n2. Sog'lom ovqatlanishning foydalari haqida 6 jumladan ib",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yomg'irli kun haqida 5 misradan iborat she'r yozing. Write in Uzbek, 5 lines, in a poetic style about rainy day.",
+    "output": "<think>\nOkay, the user wants me to write five lines in Uzbek about a rainy day, in a poetic style. Let me start by thinking about the key elements of a rainy day. Maybe the imagery of raindrops, the feeling of being soaked, the atmosphere, and some poetic devices like metaphors or similes.\n\nFirst line: Maybe start with something like \"Yomg'irli kun\" to introduce the rainy day. Then use words like \"sul\" (rain) and \"bodir\" (rainy). Maybe something about the sky being dark and the ground wet. \n\nSecond line: Focus on the feeling. Words like \"yurma\" (sweat) and \"kum\" (soil) could work. Maybe compare it to something else, like a dream or a memory.\n\nThird line: Use a metaphor for the rain. Maybe something about the rain washing away something, like time or memories. \n\nFourth line: Highlight the transformation from",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Amir Temur hayoti va yutuqlari haqida qisqa biografiya yozing. Write in Uzbek, ≈150 words, in a biographical style about life of Amir Timur.",
+    "output": "<think>\nOkay, the user wants a biographical essay about Amir Temur in Uzbek, around 150 words. First, I need to recall who Amir Temur is. He's a well-known Uzbek historian, right? From the information I have, he's the son of Yusha Temur and is part of the Timur family. He was educated in the Timur school and became a prominent historian. His works include \"Timur's History\" and \"The Timur Chronicles.\" I should mention his education, his contributions to Uzbek history, and his legacy.\n\nWait, I need to make sure the translation is accurate. The user specified \"biographical style,\" so it should be formal but concise. Avoid any personal pronouns. Check the word count. Let me structure it: start with his birth and family, education, achievements, and legacy. Keep it around 150 words. Let me double-check for any errors in the Uzbek translation. Also, ensure",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kelajakdagi texnologiyalar haqida fikringizni bildiruvchi insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about future technologies.",
+    "output": "<think>\nOkay, the user wants me to write a persuasive Uzbek text about future technologies, around 250 words. Let me start by understanding the requirements. They specified \"fikringizni bildiruvchi insho\" which translates to \"persuasive style about future technologies.\" So, I need to present future technologies in a compelling way.\n\nFirst, I should identify the key areas of future technologies. Maybe include AI, renewable energy, IoT, and space exploration. Each of these has significant potential and benefits. I need to highlight their advantages and how they will impact society and the environment.\n\nI need to structure the text to start with an engaging opening, then introduce each technology, explain its benefits, and conclude with a call to action. Since it's persuasive, I should emphasize the positive impact on people's lives and the planet's sustainability.\n\nCheck for persuasive elements: using phrases like \"future-proof,\" \"transformative,\" \"innovative,\" and \"sustainable",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek milliy taomlari orasida palovning retsepti haqida batafsil yozing. Write in Uzbek, ≈200 words, in a instructional style about recipe for plov.",
+    "output": "<think>\nOkay, the user wants a recipe for plov in Uzbek, around 200 words, in an instructional style. Let me start by recalling the key elements of a plov recipe. It's a traditional dessert from Uzbekistan, so I need to mention ingredients like flour, water, salt, and maybe some spices. The instructions should be clear, step by step.\n\nFirst, I should outline the main steps: mixing the ingredients, shaping, baking. Maybe include the baking time and temperature. Also, the serving suggestions. Need to keep it simple and ensure that the instructions are easy to follow. Make sure to mention the type of plov, like the style or type, to add context. Check the word count to stay around 200. Avoid any markdown, just plain text. Let me structure it with an introduction, ingredients, steps, baking, and serving. Make sure the language is correct and the instructions are clear. Let me put it all together now",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tabiatni muhofaza qilish muhimligi haqida 4 paragrafdan iborat matn yozing. Write in Uzbek, 4 paragraphs, in a explanatory style about importance of nature conservation.",
+    "output": "<think>\nOkay, the user wants four paragraphs explaining the importance of nature conservation in Uzbek. Each paragraph should be explanatory. Let me start by breaking down the key points.\n\nFirst, the importance of preserving nature can't be overstated. I should mention the role of nature in supporting ecosystems and biodiversity. Maybe use terms like \"ecological balance\" and \"biodiversity.\"\n\nNext, the environmental impact of human activities. Humans can destroy habitats and pollute. I need to highlight how this affects both the environment and human lives. Words like \"pollution\" and \"degradation\" would work here.\n\nThird, the benefits for both people and the planet. Conservation helps protect species, maintain climate, and ensure food security. Emphasize that it's a shared responsibility. Use terms like \"sustainable development\" and \"long-term stability.\"\n\nFinally, the role of individuals and communities in conservation. Encourage actions like reducing waste and supporting local initiatives. Mention community involvement to make it relatable.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Do'stlik haqida o'zbek maqollaridan foydalanib, qisqa hikoya yozing. Write in Uzbek, ≈150-200 words, in a narrative with proverbs style about friendship.",
+    "output": "<think>\nOkay, the user wants a narrative in Uzbek about friendship, starting with \"Do'stlik\" (friendship) and using proverbs. It needs to be around 150-200 words. Let me start by recalling some Uzbek proverbs related to friendship. Maybe something about patience and support. \n\nFirst, I should set the scene. Maybe a person in a challenging situation, like a student facing exams. Then introduce the friendship aspect. Proverbs like \"A friend's hand is a spring of life\" come to mind. Need to make sure the narrative flows smoothly, connecting the personal struggle with the friendship's role.\n\nI should check the word count. Let me outline: start with the problem, introduce the friend, use a proverb, describe their impact, and conclude with the positive outcome. Avoid being too generic. Make sure the Uzbek language is correct, especially in terms of syntax and vocabulary. Let me draft a sample and then refine it to meet the",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Matematikada kvadrat tenglamani yechish usullarini tushuntiruvchi matn yozing. Write in Uzbek, ≈100 words, in a educational style about solving quadratic equations.",
+    "output": "<think>\nOkay, the user wants me to write a 100-word educational Uzbek text about solving quadratic equations. Let me start by recalling the basic concepts. Quadratic equations are of the form ax² + bx + c = 0. The solutions can be found using the quadratic formula, completing the square, or factoring, depending on the equation's structure.\n\nFirst, I need to explain the quadratic equation. Mention that it's a second-degree polynomial. Then, list the methods: factoring, completing the square, quadratic formula. Emphasize that each method has its advantages. Maybe start with an example to make it relatable. Make sure the language is simple and educational, avoiding complex terms. Check the word count to stay around 100 words. Avoid jargon, keep it clear. Let me structure it step by step: define the equation, explain the methods, give an example, and conclude with a summary. That should cover it.\n</think>\n\nMatemat",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotida Navoiy asarlarining ahamiyati haqida insho yozing. Write in Uzbek, ≈300 words, in a analytical style about importance of Navoi's works.",
+    "output": "<think>\nOkay, the user wants me to write an analytical essay in Uzbek about the importance of Navoi's works. Let me start by recalling what I know about Navoi. He's a well-known Uzbek author, right? He wrote several notable works, and the user wants to highlight his importance in the context of the topic.\n\nFirst, I need to structure the essay. Since it's analytical, I should break it into sections. Maybe start with the historical context of Navoi's works, then discuss their themes, and conclude with their impact. The user specified around 300 words, so I need to make sure each section is concise.\n\nI should mention Navoi's contributions to literature, perhaps his unique style or themes. Also, emphasize his role in Uzbek literature. Maybe include examples of his works and how they resonate with readers. I need to ensure the language is formal but clear, avoiding jargon. Let me check if there's any specific details I need to include,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kunlik hayotda vaqtni boshqarish bo'yicha maslahatlar yozing. Write in Uzbek, 5-7 tips, in a advisory style about time management.",
+    "output": "<think>\nOkay, the user wants me to list 5-7 tips for time management in a advisory style in Uzbek. Let me start by recalling common time management strategies. First, prioritizing tasks is a classic tip. Maybe mention breaking them into smaller steps to avoid overwhelm.\n\nNext, using tools like calendars or to-do lists can help organize tasks. That's a solid tip. Then, setting realistic goals to avoid feeling overwhelmed. Also, taking regular breaks to prevent burnout.\n\nWait, the user specified 5-7 tips. Let me check if I have enough. Maybe include setting boundaries between work and personal time. Oh, and maybe the importance of self-care. That adds a holistic approach.\n\nI need to make sure the advice is in Uzbek and the style is advisory. Let me structure each tip clearly, using positive language. Avoid jargon. Make sure each tip is concise but effective. Let me count again to ensure I have 5-7. Yep, that's covered",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Qish fasli haqida tasviriy she'r yozing. Write in Uzbek, 8 lines, in a descriptive poetic style about winter season.",
+    "output": "<think>\nOkay, the user wants a poem in Uzbek about winter, eight lines, poetic and descriptive. Let me start by thinking about the key elements of winter. The cold, snow, maybe the imagery of the snowflakes, the silence, the imagery of the earth.\n\nI need to make sure it's in Uzbek, so I should use appropriate Uzbek words. Let me check some vocabulary. \"Qish fasli\" is the correct term. \"Qish fasli\" is a poetic term for winter. \n\nFirst line: Maybe start with the coldness. \"Qish fasli qarim\" – that's \"Winter is cold.\" Then describe the snow. \"Qish fasli qarim qarim\" – \"Winter is cold and cold.\" Then mention the silence. \"Qish fasli qarim qarim qarim qarim\" – \"Winter is cold and cold and cold.\" \n\nNext lines can talk about the earth. \"",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqlim o'zgarishi sabablari va oqibatlarini muhokama qiluvchi matn yozing. Write in Uzbek, ≈250 words, in a discursive style about causes and effects of climate change.",
+    "output": "<think>\nOkay, the user wants a discursive essay in Uzbek about the causes and effects of climate change, around 250 words. Let me start by outlining the structure. First, I need to define climate change and its main causes. Then, discuss the causes: greenhouse gases, deforestation, industrial activities, etc. Next, the effects: rising sea levels, extreme weather, loss of biodiversity. Finally, a conclusion summarizing the impacts and the need for action. I should check the word count to ensure it's around 250. Also, use terms that are commonly understood in Uzbek. Avoid jargon, keep it clear and concise. Make sure the flow is logical and each section transitions smoothly. Let me start drafting each part and then review for clarity and length.\n</think>\n\nKlimat qo'ng'oni o'zgarishi sabablari va oqibatlarini muhokama qiluvchi matn yozing.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning mashhur shaharlari haqida qisqa ta'riflar yozing. Write in Uzbek, 3-5 cities, 2-3 sentences each, in a descriptive style about famous cities of Uzbekistan.",
+    "output": "<think>\nOkay, the user wants me to write three to five cities, each with two to three sentences in Uzbek, describing famous cities of Uzbekistan. Let me start by recalling some major cities in Uzbekistan.\n\nFirst, Tashkent is the capital. I should mention its significance as a cultural and economic hub. Maybe talk about the city's architecture, like the Uyghur architecture, and its role in trade.\n\nNext, maybe Irkutsk. It's a major industrial center. I can describe its historical significance, the presence of industries, and how it contributes to the country's economy.\n\nThen, maybe Kyzylkum. As a city in the north, it's known for its natural beauty. I should highlight its landscapes, maybe the rivers or mountains, and its cultural aspects.\n\nWait, the user wants 3-5 cities, each with 2-3 sentences. Let me check if I have enough. Tashkent, Irkut",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sun'iy intellektning afzalliklari va kamchiliklari haqida insho yozing. Write in Uzbek, ≈200 words, in a balanced argumentative style about pros and cons of AI.",
+    "output": "<think>\nOkay, the user wants a balanced argumentative essay in Uzbek about the pros and cons of AI, around 200 words. Let me start by understanding the requirements. They specified a balanced argumentative style, so I need to present both sides fairly.\n\nFirst, I should outline the structure. Maybe start with an introduction that sets the context. Then, the pros: automation, efficiency, innovation, etc. But I need to make sure to highlight the positive aspects without being too biased. Then the cons: job displacement, privacy issues, ethical concerns, maybe environmental impact. Need to balance them so the essay doesn't favor one side too much.\n\nWait, the user mentioned \"insho yozing\" which translates to \"write in a balanced argumentative style.\" So the tone should be critical but not overly negative. I should acknowledge the benefits and address the drawbacks in a constructive way.\n\nCheck for Uzbek terms. Make sure the language is correct. Also, ensure that the",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Bolalik xotiralari haqida shaxsiy hikoya yozing. Write in Uzbek, ≈150 words, in a personal narrative style about childhood memories.",
+    "output": "<think>\nOkay, the user wants a personal narrative about childhood memories in Uzbek, around 150 words. They specified \"Bolalik xotiralari\" which translates to \"childhood memories,\" so I need to focus on those. The style should be personal and narrative, so I should include specific, vivid details from my own childhood.\n\nFirst, I need to think of a structure. Start with a strong opening that grabs attention. Maybe a memory that stands out, like a specific event or a place. Then, describe the setting, the emotions involved, and how it connects to the present. Use sensory details: sights, sounds, smells. Make sure to keep it concise but engaging.\n\nCheck the word count. Let me outline: introduce the memory, describe the place, the event, the feelings, and conclude with how it impacts the present. Avoid clichés but keep it authentic. Use Uzbek vocabulary where appropriate. Ensure the tone is personal and heartfelt. Let me draft",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Fizikada Nyuton qonunlarini oddiy tilda tushuntiring. Write in Uzbek, 3 laws, 1-2 sentences each, in a simplified explanatory style about Newton's laws of motion.",
+    "output": "<think>\nOkay, the user wants me to write Newton's laws in Uzbek, simplified. Let me start by recalling the three laws.\n\nFirst law: In an inertial frame, an object at rest stays at rest, and any external force applied causes acceleration. I need to make sure the sentence is clear and in Uzbek. The user mentioned \"oddiy tilda tushuntiring\" which means \"independent\" or \"independent\". So, maybe \"In an inertial frame, objects at rest remain at rest, and any external force causes acceleration.\" That sounds right.\n\nSecond law: Force equals mass times acceleration. In Uzbek, \"Süretilish = m * a\" might be better. Need to explain it as \"The force acting on an object equals the mass of the object multiplied by its acceleration.\" Keep it simple.\n\nThird law: For every action, there's an equal and opposite reaction. Uzbek translation: \"Eyni kiflash, yoki",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek folklorida ertaklarning roli haqida matn yozing. Write in Uzbek, ≈100 words, in a informative style about role of folktales in Uzbek folklore.",
+    "output": "<think>\nOkay, the user wants a 100-word informative Uzbek text about the role of folktales in Uzbek folklore. Let me start by recalling what I know about Uzbek folklore. Folktales are a significant part of the culture, passed down through generations. They tell stories that teach values, lessons, and moral lessons. \n\nI should mention specific examples, like the \"Sizdaq\" or \"Ishq\" stories. Also, they help preserve traditions and identity. Need to ensure the language is correct and flows naturally. Check the word count to stay around 100. Avoid jargon, keep it simple. Make sure to highlight the importance of these tales in connecting the past with the present.\n</think>\n\nO'zbek folklorida ertaklarning roli haqida matn yozing. Ertaklar, folklori darsidagi kiflalar va qarorliklarni o'zgart",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Sog'liqni saqlash uchun sportning ahamiyati haqida insho yozing. Write in Uzbek, ≈250 words, in a persuasive style about importance of sports for health.",
+    "output": "<think>\nOkay, I need to write a persuasive essay in Uzbek about the importance of sports for health, around 250 words. Let me start by understanding the user's query. They want it in Uzbek, persuasive style, and approximate 250 words. \n\nFirst, I should structure the essay. Maybe start with an introduction that highlights the significance of sports in health. Then, break it down into points like physical health, mental well-being, and community. Use persuasive language to encourage readers to engage in sports.\n\nWait, the user mentioned \"sportning ahamiyati haqida insho yozing\" which translates to \"write a persuasive essay about the importance of sports for health.\" So the main points are health benefits. Need to make sure each section connects to the overall message.\n\nIn Uzbek, persuasive style might involve rhetorical questions, repetition, and strong emotional appeal. Maybe start with \"Sog'liqni saqlash uchun...\" to",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Yoz faslining go'zalligi haqida she'r yozing. Write in Uzbek, 6 lines, in a poetic style about beauty of summer.",
+    "output": "<think>\nOkay, the user wants a 6-line poem in Uzbek about the beauty of summer. Let me start by thinking about the key elements of summer: warmth, colors, nature, activities. I need to make it poetic, so maybe use imagery related to the sun, flowers, water, and the changing seasons.\n\nFirst line: \"Yoz faslining go'zalligi haqida she'r yozing.\" That's already a good start. Now, I need to expand each line to include more vivid descriptions. Words like \"sahar\", \"fotografiya\", \"tovush\", \"kum\", \"sahar\", \"kum\" come to mind. Let me check if they fit well.\n\nSecond line: \"Yoz faslining go'zalligi haqida she'r yozing.\" Maybe add something about the sun and heat. Third line: \"Sahar yozig'ning sanaqasi her",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi buyuk kashfiyotlar haqida qisqa ro'yxat yozing. Write in Uzbek, 5 discoveries, brief description each, in a list-based informative style about great historical discoveries.",
+    "output": "<think>\nOkay, the user wants me to create a list of 5 historical discoveries in Uzbek, each with a brief description. Let me start by recalling the most significant discoveries. First, maybe the Inca Empire. They built the Inca Highway, which connected their empire, right? That's a major achievement. Then there's the Magellan's voyage to the Spice Islands, which was a major discovery. The Aztecs' city of Tenochtitlan is another one. The Maya civilization's achievements are also good. Lastly, the American Civil War's impact on global history. I need to make sure each entry is concise and in Uzbek. Let me check the vocabulary to ensure it's correct. Avoid any markdown, just plain text. Alright, that should cover the requirements.\n</think>\n\n1. **Kasparov's Discovery**: The first ever discovered in Uzbekistan, which was a significant step in the history of the country.  \n2. **Magellan's Voyage**:",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Oilaviy qadriyatlar haqida fikr-mulohazalar yozing. Write in Uzbek, ≈200 words, in a reflective style about family values.",
+    "output": "<think>\nOkay, the user wants me to write about family values in Uzbek, around 200 words, in a reflective style. Let me start by understanding the query. They mentioned \"fikr-mulohazalar\" which translates to \"reflective reflections\" or \"reflective thoughts.\" So the content should be about family values with a personal, reflective tone.\n\nFirst, I need to outline the key aspects of family values. Maybe start with the importance of family in personal life, then discuss values like love, respect, and support. Since it's in Uzbek, I have to ensure the vocabulary is correct. Use phrases like \"familiyata\" for family, \"fikr-mulohazalar\" for reflections.\n\nI should structure it in a way that flows smoothly, connecting each idea logically. Maybe start with a personal anecdote to make it relatable. Highlight how family values shape individuals' behavior and life choices. End with a conclusion that ties",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Biologiyada o'simliklarning fotosintez jarayonini tushuntiring. Write in Uzbek, ≈150 words, in a scientific explanatory style about photosynthesis in plants.",
+    "output": "<think>\nOkay, the user wants me to explain photosynthesis in biology in Uzbek, around 150 words, in a scientific explanatory style. Let me start by recalling the basic components of photosynthesis. It's the process by which plants convert light energy into chemical energy. \n\nFirst, I need to mention the two main parts: light-dependent and light-independent reactions. The light-dependent reactions occur in the thylakoid membranes, where chlorophyll absorbs light, leading to the production of ATP and NADPH. Then, the light-independent reactions happen in the Calvin cycle, using ATP and NADPH to fix carbon dioxide into glucose.\n\nI should explain the role of chlorophyll, the importance of chloroplasts, and the overall process. Maybe mention the role of stomata in gas exchange. Also, include some key terms like carbon fixation and the Calvin cycle. Make sure to keep it concise but thorough, around 150 words. Check for scientific accuracy and clarity",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek san'ati va hunarmandchiligi haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about Uzbek art and crafts.",
+    "output": "<think>\nOkay, the user wants a descriptive text about Uzbek art and crafts, around 100 words. Let me start by recalling some key elements. Uzbek art is known for its vibrant colors and traditional techniques. I should mention specific crafts like carpets, textiles, and pottery.\n\nI need to highlight the blend of traditional and modern influences. Maybe talk about how they use natural materials and cultural elements. Also, emphasize the importance of craftsmanship and the role of artisans. Make sure the language is descriptive and flows well. Check the word count to stay within 100. Avoid any jargon and keep it engaging. Let me structure it with an introduction, sections on different crafts, and a conclusion. That should cover it.\n</think>\n\nO'zbek san'ati va hunarmandchiligi haqida matn yozing. Uzbek san'ati, san'atga o'zgarish va hunarmandchiliga kuzatishda qisqa",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Muvaffaqiyatga erishish yo'llari haqida maslahatlar yozing. Write in Uzbek, 4-6 tips, in a motivational style about paths to success.",
+    "output": "<think>\nOkay, the user wants tips on how to succeed in Muvaffaqiyat (which I think translates to art or music, but maybe they meant something else? Wait, no, Muvaffaqiyat is a well-known term in Uzbek, referring to the art of poetry or music. So they want motivational tips related to success in that field. The user wants 4-6 tips in Uzbek, in a motivational style.\n\nFirst, I need to make sure I understand the request correctly. The user is asking for tips on paths to success in the context of Muvaffaqiyat, so they're probably looking for advice on how to excel in poetry or music. The tone should be encouraging and motivational.\n\nI should think of common success strategies in arts. Maybe things like dedication, practice, learning new skills, and persistence. But how to phrase these in Uzbek while maintaining a motivational tone? Also, ensure the tips are concise and not too long.\n\nWait,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kuz fasli haqida tasviriy she'r yozing. Write in Uzbek, 7 lines, in a poetic descriptive style about autumn season.",
+    "output": "<think>\nOkay, the user wants me to describe autumn in seven lines in Uzbek, poetic and descriptive. Let me start by recalling the characteristics of autumn. It's a season of change, with colors fading, leaves turning colors, and cooler temperatures.\n\nFirst line: Maybe start with the first thing that comes to mind, like the first leaves falling. \"Bashkent\" is a good word for autumn. Wait, but the user wants it in Uzbek. So I need to use Uzbek words. Let me check. \"Bashkent\" is the name of a city in Uzbekistan, so that's okay. \n\nSecond line: The color change. Maybe mention the reds and oranges. \"Bashkent\" is the city, so perhaps \"Bashkent\" is a good start. Wait, the user said \"Kuz fasli haqida tasviriy she'r yozing.\" So it's about autumn. Let me think. Maybe \"B",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Iqtisodiyotda inflyatsiya sabablari haqida insho yozing. Write in Uzbek, ≈200 words, in a analytical style about causes of inflation.",
+    "output": "<think>\nOkay, the user wants me to write about causes of inflation in Uzbek, around 200 words, in an analytical style. Let me start by recalling the key factors that contribute to inflation. First, there's supply-side issues. High production costs, maybe from increased wages or raw material prices. Then demand-side factors: population growth, increased consumption, or economic policies that lead to higher spending. Also, government policies play a role, like interest rates or fiscal policies affecting money supply. I need to make sure the language is analytical, so I should break down each cause and explain how they interact. Let me check the word count to stay within 200. Avoid jargon, keep it clear. Make sure each point flows logically. Alright, that should cover the main points. Let me put it all together now.\n</think>\n\nInflations are primarily caused by a combination of supply and demand factors, with supply-side issues often outweighing demand. High production costs,",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston tabiatining go'zal joylari haqida ta'rif yozing. Write in Uzbek, 3 places, 2-3 sentences each, in a descriptive style about beautiful natural sites in Uzbekistan.",
+    "output": "<think>\nOkay, the user wants me to describe three beautiful natural sites in Uzbekistan, each in two to three sentences, in a descriptive style. Let me start by recalling Uzbekistan's natural features. The country has diverse landscapes, so I need to pick three different areas.\n\nFirst, maybe the Pamirs. They're known for their high-altitude peaks and alpine meadows. The first sentence could highlight the snow-capped peaks and the meadows. The second sentence could mention the biodiversity and the unique ecosystem.\n\nNext, the Pamir Mountains. I should focus on the snow-capped peaks and the surrounding valleys. The first sentence can talk about the mountains and their beauty. The second sentence could mention the cultural significance and how they contribute to the country's identity.\n\nLastly, the southern regions like the Saryuk Lake. I need to describe the lake's features and the surrounding areas. The first sentence about the lake and its reflections. The second sentence about the natural beauty and how",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Psixologiyada stressni boshqarish usullari haqida matn yozing. Write in Uzbek, ≈150 words, in a practical advisory style about stress management techniques.",
+    "output": "<think>\nOkay, the user wants a practical advice on stress management in the context of psychology. Let me start by recalling common stress management techniques. Techniques like deep breathing, exercise, time management, mindfulness, and social support come to mind. I need to make sure the advice is in Uzbek and around 150 words.\n\nFirst, I should introduce the topic clearly. Then list the techniques, explaining each briefly. It's important to mention the benefits of each method. Maybe start with breathing exercises as they are simple and effective. Then move to physical activity, which is a big one. Time management is another key point. Mindfulness and social support are also important. Need to check the word count to stay within the limit. Avoid jargon, keep it conversational. Make sure the structure is logical, starting with the most common techniques. Conclude with a summary. Let me verify if all points are covered and the language is appropriate. Alright, that should do it.\n</think>\n\nPs",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Adabiyotda fantastik janrning xususiyatlari haqida yozing. Write in Uzbek, ≈100 words, in a informative style about features of fantasy genre.",
+    "output": "<think>\nOkay, the user wants me to write about the features of the fantasy genre in Uzbek, around 100 words, in an informative style. Let me start by recalling the key elements of a fantasy genre. It usually involves magical or supernatural elements, world-building, exploration of morality, and often epic tales.\n\nFirst, I need to make sure I cover the main aspects: magical elements, world-building, morality, exploration, and epic tales. Let me check if those are all important. Also, the tone should be informative and concise. Avoid any markdown, just plain text. Let me structure each point clearly. Maybe start with the magical aspects, then world-building, then morality, then exploration, and finally epic tales. Keep each sentence short to fit the word count. Let me count the words to ensure it's around 100. Alright, that should cover it.\n</think>\n\nFantasy genre is characterized by magical elements, intricate world-building, exploration of moral dilemmas",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek tilining rivojlanishi haqida tarixiy obzor yozing. Write in Uzbek, ≈250 words, in a historical review style about development of Uzbek language.",
+    "output": "<think>\nOkay, I need to write a historical review in Uzbek about the development of the Uzbek language, around 250 words. Let me start by recalling the key periods and events that shaped Uzbek language evolution. \n\nFirst, the early history of Uzbek people. They were part of the Turkic expansion. So maybe start with the Uyghur and Turkic roots. Then the establishment of the Uzbek state. The Uzbek Khanate was founded in 1230 by the Uyghurs. I should mention the key figures, like Ikhwanat Khan, and the political structure. \n\nNext, the Mongol Empire and the rise of the Uzbek state. The Mongol invasions in the 13th century might have influenced Uzbek culture. Also, the role of the Uzbek court and the spread of the language. Then the medieval period, like the 13th-15th centuries, with the development of the language's grammar and vocabulary. The",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Hayvonlar dunyosi haqida qiziqarli faktlar yozing. Write in Uzbek, 5 facts, in a factual entertaining style about interesting animal facts.",
+    "output": "<think>\nOkay, the user wants me to write five facts in Uzbek about interesting animal facts, in a factual and entertaining style. Let me start by recalling some common animal facts. Maybe start with the biggest animal in the world, the blue whale. They have a lot of energy and sound. Then, there's the polar bear, which is the largest land animal, but I need to check if that's accurate. Also, the penguin is a common one, though they have a unique ability to fly. The dolphin is another, with their complex social structure. The eagle is a good example, as they're known for their speed. I should make sure the facts are accurate and presented in a fun, engaging way. Let me structure each fact clearly, using some humor or exaggeration to keep it entertaining. I need to check for any possible errors and ensure the Uzbek language is correct. Alright, that should cover the requirements.\n</think>\n\n1. **The Blue Whale's Sound** –",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Kimyo fanida atom tuzilishi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a scientific style about atomic structure.",
+    "output": "<think>\nOkay, the user wants me to write in Uzbek about atomic structure in a scientific style, around 150 words. Let me start by recalling the basic concepts. Atomic structure involves protons, neutrons, and electrons. Protons are positive, neutrons neutral, and electrons negative. The nucleus is made of protons and neutrons, while electrons orbit around it. The Aufbau principle is important for filling energy levels. Also, subatomic particles like quarks and leptons play a role. I need to make sure the language is formal and precise. Let me check the word count. Maybe start with protons and electrons, mention the nucleus, then energy levels, quarks, and leptons. Avoid jargon where possible, but still maintain scientific accuracy. Let me draft this and then trim to fit the limit.\n</think>\n\nKimyo fanida atom tuzilishining hevqanida tushuntirish yozing. Kimyo fanida",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek musiqasining an'anaviy asboblari haqida matn yozing. Write in Uzbek, ≈100 words, in a descriptive style about traditional Uzbek musical instruments.",
+    "output": "<think>\nOkay, the user wants a descriptive essay in Uzbek about traditional Uzbek musical instruments, around 100 words. Let me start by recalling some key instruments. The user mentioned \"an'anaviy asboblari,\" which translates to \"traditional Uzbek musical instruments.\" So, I need to focus on instruments like the lute, kavky, qosh, and others.\n\nFirst, I should describe each instrument in detail. For example, the lute is a stringed instrument with a long neck. The kavky is a fretless lute. The qosh is a stringed instrument with a long neck. Maybe mention their use in different genres and how they contribute to the music.\n\nI need to keep it descriptive, so use vivid language. Also, ensure it's around 100 words. Let me check each instrument's characteristics and how they are played. Make sure the flow is smooth and the tone is engaging. Avoid technical jargon but still be",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Shaxsiy rivojlanish uchun kitob o'qishning foydalari haqida insho yozing. Write in Uzbek, ≈200 words, in a persuasive style about benefits of reading for personal growth.",
+    "output": "<think>\nOkay, the user wants a persuasive Uzbek article about the benefits of reading for personal growth. Let me start by understanding the key points. They mentioned personal growth, so I need to highlight how reading contributes to that. \n\nFirst, I should mention the positive impact on self-esteem. Reading can inspire and challenge the reader, leading to confidence. Then, maybe the skill development aspect. Reading teaches problem-solving and critical thinking, which are crucial for personal growth. \n\nAlso, emotional intelligence is a big one. Reading helps in understanding different perspectives, which can improve emotional intelligence. That connects to personal development. \n\nI should structure the essay with an introduction, body paragraphs on each benefit, and a conclusion. Make sure it's persuasive, so use strong, positive language. Avoid jargon to keep it accessible. Check the word count to stay around 200 words. Let me make sure each paragraph flows smoothly and supports the thesis effectively.\n</think>\n\nShaxsiy rivojlan",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Dengiz haqida romantik she'r yozing. Write in Uzbek, 10 lines, in a romantic poetic style about the sea.",
+    "output": "<think>\nOkay, the user wants a romantic poem about the sea in Uzbek, 10 lines. Let me start by thinking about the key elements of a romantic poem. The sea is a symbol of love, so I need to capture that imagery.\n\nFirst, I should set the scene. Maybe start with the morning sun to evoke a sense of beauty and serenity. Then mention the waves as a metaphor for emotions. The sea's depth and the horizon as a place of connection are important. I need to make sure each line flows and uses poetic devices like alliteration and personification.\n\nI should check the structure. Ten lines, so each line should contribute to the overall theme. Avoid clichés but still keep it romantic. Maybe include elements like the sound of waves, the feeling of the sea, and the connection to the horizon. Let me piece it together now, ensuring the language is in Uzbek and the style is poetic.\n</think>\n\nDengiz haqida romantik she'r",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tarixdagi ayollarning roli haqida misollar keltirib yozing. Write in Uzbek, 3 examples, brief each, in a historical illustrative style about role of women in history.",
+    "output": "<think>\nOkay, the user wants three examples of how women played a role in history, in a historical illustrative style. Let me think about different periods and figures. First, maybe the female role in the French Revolution. Women were involved in the revolution, like the women's right to vote, which is a key point. Then, maybe the role in the American Revolution, like the women's suffrage movement. Finally, perhaps the role in the Indian independence movement, such as women leaders. Each example should be brief and in Uzbek, historical style. Need to make sure each example is unique and highlights different aspects of women's contributions.\n</think>\n\n1. **Menghulga o'zgarish** – Tarixdagi ayollarning roli haqida, qurshisda o'zgarishlar o'zgartirishini keltirib yozing. Bu, kuzatib o'zgarishning o'z",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekiston iqtisodiyoti rivojlanish yo'llari haqida fikr yozing. Write in Uzbek, ≈150 words, in a opinion-based style about paths for Uzbekistan's economic development.",
+    "output": "<think>\nOkay, the user wants me to write an opinion-based article about Uzbekistan's economic development paths, around 150 words in Uzbek. Let me start by understanding the requirements. They specified a \"path\" so I need to outline potential strategies.\n\nFirst, I should mention the country's current economic situation. Uzbekistan has a large population and a significant economy, but there are challenges like foreign debt and infrastructure issues. I need to highlight these as key points.\n\nNext, I need to think about the main economic development strategies. Maybe focus on improving infrastructure, especially transportation and energy. That's a common recommendation. Also, promoting trade and investment could be important. Including both domestic and international initiatives would cover different aspects.\n\nI should structure the article with an introduction, then each paragraph addressing a different strategy, and a conclusion. Use terms like \"reforms,\" \"modernization,\" and \"strategic partnerships\" to keep it opinion-based. Make sure the language is clear and flows well",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Astronomiyada Quyosh tizimi haqida qisqa ma'lumot yozing. Write in Uzbek, ≈100 words, in a informative style about solar system.",
+    "output": "<think>\nOkay, the user wants me to write about the Quasi-Solar System in Uzbek, around 100 words, in an informative style. Let me start by understanding the query. The term \"Quyosh tizimi\" refers to the Solar System, but maybe there's a translation error. In Uzbek, \"Quyosh\" might be \"Quasi-Solar\" or \"Quasi-Solar System.\" The user might be referring to the Solar System, but there's a typo. I need to confirm, but since the user provided \"Quyosh tizimi,\" I'll proceed with that.\n\nThe task is to describe the Solar System in Uzbek, approximately 100 words. The user probably wants a concise yet informative overview. I should mention the Sun as the central star, planets like Mercury, Venus, Earth, Mars, and the Kuiper Belt. Also, comets, asteroids, and the Kuiper Belt. I need to ensure the",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Madaniy merosni saqlash muhimligi haqida insho yozing. Write in Uzbek, ≈250 words, in a argumentative style about importance of preserving cultural heritage.",
+    "output": "<think>\nOkay, the user wants me to write an argumentative essay in Uzbek about the importance of preserving cultural heritage. Let me start by understanding the requirements. It needs to be around 250 words and in an argumentative style. First, I should define cultural heritage and its significance.\n\nI need to highlight key points like historical and religious importance, economic benefits, and the role of education. Maybe include examples like traditional crafts or festivals. Also, address potential issues like modernization and how preservation helps maintain identity. Make sure to structure it logically, starting with the problem, then the solution, and conclude with the importance.\n\nWait, the user specified \"Madaniy merosni saqlash muhimligi haqida insho yozing.\" So the topic is preserving cultural heritage. I should focus on that. Need to ensure the Uzbek language is correct. Avoid any markdown, just plain text. Check word count to stay around 250. Let me",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek adabiyotidagi zamonaviy yozuvchilar haqida ro'yxat yozing. Write in Uzbek, 4-5 writers, short bio each, in a biographical list style about modern Uzbek writers.",
+    "output": "<think>\nOkay, the user wants me to list 4-5 modern Uzbek writers with their short biographies, in a biographical list style. Let me start by recalling some well-known Uzbek writers. First, maybe A. A. Aksay. He's a prominent figure, so that's one. Then, maybe I can include some others. For example, A. K. N. Samirov, who wrote many novels. Then, maybe I need to think of some contemporary writers. Maybe A. K. N. Samirov, then another name. Wait, I need to make sure I'm not repeating names. Let me check. A. K. N. Samirov is one. Another could be A. S. A. A. Aksay. Then maybe A. A. A. Aksay. Oh, but that's the same as the first. Hmm, perhaps A. S. A. A. Aksay. Wait",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ekologik muammolarni hal qilish usullari haqida maslahatlar yozing. Write in Uzbek, 5 methods, in a practical style about solutions to ecological problems.",
+    "output": "<think>\nOkay, the user wants me to provide 5 practical methods to solve ecological problems, in Uzbek, and in a practical style. Let me start by recalling common ecological issues. Climate change, deforestation, pollution, overfishing, and water scarcity are all common problems. Each of these needs a solution method.\n\nFirst, I should think of the most effective solutions. For climate change, reducing carbon emissions is key. Maybe a method like promoting renewable energy sources. Then, deforestation—reforestation and sustainable agriculture. Pollution could involve reducing waste and recycling. Overfishing needs to protect marine ecosystems, maybe through sustainable fishing practices. Water scarcity might require improving water management and conservation.\n\nNow, translating these ideas into practical methods. Make sure each method is concise and in Uzbek. Use examples like \"renewable energy sources\" or \"sustainable agriculture\" to keep it clear. Also, check that the language is natural and suitable for a practical approach. Avoid jargon, keep",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Geografiyada O'zbekistonning joylashuvi haqida tushuntirish yozing. Write in Uzbek, ≈150 words, in a geographical descriptive style about geographical location of Uzbekistan.",
+    "output": "<think>\nOkay, the user wants a descriptive Uzbek text about the geographical location of Uzbekistan, around 150 words. Let me start by recalling Uzbek terms. First, the country's name is Uzbekistan. I should mention its location, like in Eurasia. The region is known as the Central Asian region. It's bordered by Russia and Kazakhstan. The capital is Tashkent, so that's important. The area includes deserts, mountains, rivers. The climate varies, with cold winters and hot summers. Maybe include some key geographical features like the Karakum Desert. Also, mention the country's role in the region, like being a crossroads for trade. Need to keep it concise but vivid. Check the word count to ensure it's around 150. Avoid jargon, use clear Uzbek sentences. Make sure the structure flows well, starting with location, then key points like borders, capital, climate, geography, and significance. Double-check for any",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbek raqs san'ati haqida qisqa matn yozing. Write in Uzbek, ≈100 words, in a cultural informative style about Uzbek dance art.",
+    "output": "<think>\nOkay, the user wants me to write a cultural informative style article about Uzbek dance art in Uzbek. Let me start by recalling some key points about Uzbek dance. First, I need to mention the traditional elements, like the \"dolma\" or \"saklam.\" Then, the significance of the dance in the culture, maybe the role of the mother in the dance, or the connection to nature.\n\nI should structure it in a way that flows smoothly. Start with an introduction, then talk about the historical roots, traditional styles, and cultural significance. Make sure to keep it around 100 words. Also, check if there are any specific terms I should use in Uzbek. For example, \"dolma\" is a term I know, but I need to make sure it's correctly translated. Let me verify that. Yes, \"dolma\" is \"dolma\" in Uzbek, so that's correct. \n\nI should also highlight the diversity of",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Ilm-fan rivojlanishidagi ayollarning hissasi haqida insho yozing. Write in Uzbek, ≈200 words, in a highlighting contributions style about women's contributions to science.",
+    "output": "<think>\nOkay, I need to write an Uzbek text in highlighting contributions style about women's contributions to science, around 200 words. The user wants it in a highlighting style, so I should make sure to emphasize key points and use bold or highlighted sections where appropriate.\n\nFirst, I should start by defining the importance of women in science. Maybe mention that women have historically been underrepresented, but they have made significant contributions. I need to highlight specific examples. Maybe include names like Ada Lovelace, Marie Curie, or others. \n\nI should structure the text with an introduction, then sections on different fields, and a conclusion. Each section should be highlighted. Use terms like \"highlighted contributions,\" \"key examples,\" \"historical significance,\" etc. Make sure to keep it around 200 words. Check for any grammar issues and ensure the tone is respectful and positive. Avoid jargon, keep it accessible. Let me start drafting and then refine it.\n</think>",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Tog'lar haqida ilhomlantiruvchi she'r yozing. Write in Uzbek, 8 lines, in a inspirational poetic style about mountains.",
+    "output": "<think>\nOkay, the user wants an 8-line poem in Uzbek about mountains, in an inspirational and poetic style. Let me start by brainstorming themes related to mountains. Mountains are powerful, majestic, maybe connected to nature, spirit, and strength.\n\nFirst line: Maybe something about their height and majesty. \"Tog'lar qaror qaror\" – that's a strong start. Then add something about their power. \"Tog'lar qaror qaror, qaror qaror qaror qaror qaror\" – that's repetition, but it's poetic. Maybe mention their role in nature. \n\nSecond line: Inspiration. \"Tog'lar qaror qaror, qaror qaror qaror qaror qaror\" – same as before. Maybe contrast with something else. \"Tog'lar qaror qaror, qaror qaror qaror",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Siyosatda demokratiya tamoyillari haqida muhokama yozing. Write in Uzbek, ≈150 words, in a discursive style about principles of democracy.",
+    "output": "<think>\nOkay, the user wants me to write about the principles of democracy in Uzbek, around 150 words in a discursive style. Let me start by recalling the key elements of democracy. First, equality and fairness. I need to make sure to mention that all people are equal under the law. Then, representation, right? Each citizen should have a voice in their decisions. Maybe include the idea that representation ensures that people's needs are considered. Next, the rule of law, which is crucial for justice and fairness. Also, the idea of participatory democracy, where people can participate in the process. I should highlight how these principles work together to ensure a just and democratic society. Need to check the word count, keep it concise but thorough. Avoid jargon, use simple Uzbek sentences. Let me structure it with an introduction, body paragraphs on each principle, and a conclusion. Make sure the tone is informative and persuasive, as the user asked for a discursive style.",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "O'zbekistonning turistik joylari haqida reklama matni yozing. Write in Uzbek, ≈100 words, in a promotional style about tourist attractions in Uzbekistan.",
+    "output": "<think>\nOkay, the user wants a promotional ad in Uzbek about tourist attractions in Uzbekistan, around 100 words. Let me start by understanding the key points. Uzbekistan is known for its natural beauty, so I should highlight things like rivers, forests, and cultural sites.\n\nFirst, I need to create an engaging tone. Maybe start with an enthusiastic greeting to grab attention. Mention the country's natural wonders like the Pamir Mountains and the Lake Baikal. Emphasize the combination of nature and culture, perhaps mentioning the ancient temples and historical sites.\n\nI should include specific attractions to make it relatable. Maybe mention the Great Lake and the GOST valley. Also, talk about the cultural experiences, like visiting the Bishkek or the ancient city of Sogdian. Make sure to highlight the overall appeal and how it's a perfect destination for travelers.\n\nCheck the word count. Keep it concise but vivid. Avoid any complex terms. Use phrases like \"vibes",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Filosofiyada baxt tushunchasi haqida fikr yozing. Write in Uzbek, ≈200 words, in a philosophical reflective style about concept of happiness.",
+    "output": "<think>\nOkay, the user wants me to write a philosophical reflection on the concept of happiness in Uzbek, around 200 words. Let me start by breaking down the query. They specified \"baxt tushunchasi\" which translates to \"the concept of happiness.\" So I need to focus on happiness as a philosophical idea.\n\nFirst, I should define happiness in a way that's accessible. Maybe start with its essence, like it's a state of well-being. Then think about its nature—how it's subjective or universal. Maybe mention that happiness can vary between individuals, but it's tied to personal experience.\n\nNext, explore the philosophical perspectives. Existentialists like Sartre might argue that happiness comes from choices and freedom. Also, utilitarianism could be a point, where happiness is about achieving pleasure. Need to balance these views to give a comprehensive view.\n\nI should also consider the limitations of happiness. Even if it's subjective, there might be inherent aspects to",
+    "expected": "",
+    "bleu_score": 0.0
+  },
+  {
+    "input": "Zamonaviy ta'lim tizimidagi o'zgarishlar haqida insho yozing. Write in Uzbek, ≈250 words, in a analytical style about changes in modern education system.",
+    "output": "<think>\nOkay, the user wants me to write an analytical essay about changes in the modern education system, focusing on the impact of these changes. Let me start by breaking down the query. The user specified \"≈250 words\" and wants it in Uzbek, analytical style.\n\nFirst, I need to outline the main points. The modern education system has seen significant changes, so I should mention key areas like curriculum, technology integration, assessment methods, and policy reforms. Each of these areas can be discussed in detail. \n\nI should start with an introduction that sets the context, explaining why modern education changes are important. Then, structure the essay into sections, each covering a specific change. For example, curriculum changes, technology integration, assessment methods, and policy reforms. \n\nI need to ensure the language is analytical, so avoid just listing changes. Instead, analyze how each change affects education, its benefits, and challenges. Also, keep the tone formal but engaging, suitable for an academic audience",
+    "expected": "",
+    "bleu_score": 0.0
+  }
+]

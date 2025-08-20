@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men uyda o‘tiribman.",
+    "output": "\"Men uyda o'tiribman.\"",
+    "expected": "I am sitting at home.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Bu mening kitobim.",
+    "output": "This is my book.",
+    "expected": "This is my book.",
+    "bleu_score": 1.0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U maktabga ketdi.",
+    "output": "I'm sorry, but you haven't provided the text you want to translate. Please provide the text you'd like to have translated from Uzbek to English.",
+    "expected": "He went to school.",
+    "bleu_score": 8.147480343967206e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men choy ichmoqchiman.",
+    "output": "The text \"Men choy ichmoqchiman\" appears to be in a dialect of Uzbek, but it's not clear what the word \"choy\" means. If \"choy\" is a typo or a local dialect-specific term, it would be challenging to provide a direct translation without additional context.\n\nIf \"choy\" is intended to be a standard word in English, then \"Men are mad.\"\n\nHowever, please provide more context or clarify the intended meaning of \"choy\" for a more accurate translation.",
+    "expected": "I want to drink tea.",
+    "bleu_score": 6.17028075639052e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U juda yaxshi inson.",
+    "output": "You are a good person.",
+    "expected": "He is a very good person.",
+    "bleu_score": 7.600394483915427e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Havo bugun issiq.",
+    "output": "The text \"Havo bugun issiq.\" translates to \"Today is today.\" in English.",
+    "expected": "The weather is hot today.",
+    "bleu_score": 1.1640469867513693e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Mening ismim Aziz.",
+    "output": "Mening ismim Aziz.",
+    "expected": "My name is Aziz.",
+    "bleu_score": 9.918892480173173e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Bu uy juda katta.",
+    "output": "\"This is very loud.\"",
+    "expected": "This house is very big.",
+    "bleu_score": 7.422680762211792e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men televizor ko‘ryapman.",
+    "output": "Men watch TV.",
+    "expected": "I am watching TV.",
+    "bleu_score": 9.918892480173173e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U mashina haydayapti.",
+    "output": "The machine has run out of steam.",
+    "expected": "He is driving a car.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men har kuni ertalab sport bilan shug‘ullanaman.",
+    "output": "Men have no knowledge of your sports rules.",
+    "expected": "I exercise every morning.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kecha biz do‘stlar bilan parkda sayr qildik.",
+    "output": "We met our friends at the park.",
+    "expected": "Yesterday we walked in the park with friends.",
+    "bleu_score": 9.709385502639237e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U yangi telefon sotib oldi va juda xursand bo‘ldi.",
+    "output": "\"I just got a new phone and it's very expensive.\"",
+    "expected": "He bought a new phone and was very happy.",
+    "bleu_score": 0.2777619034011791
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men ingliz tilini o‘rganishni davom ettiryapman.",
+    "output": "\"Men English language learning continues.\"",
+    "expected": "I am continuing to learn English.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Biz yozda tog‘larga sayohat qilishni rejalashtiryapmiz.",
+    "output": "We plan to take a road trip together.",
+    "expected": "We are planning to travel to the mountains in summer.",
+    "bleu_score": 1.0032743411283238e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U o‘zining yangi ishini juda yaxshi ko‘radi.",
+    "output": "You are very kind in recognizing your own new work.",
+    "expected": "She really likes her new job.",
+    "bleu_score": 1.0244914152188952e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Men kitob o‘qishdan zavq olaman.",
+    "output": "Men should take care not to waste time in studying books.",
+    "expected": "I enjoy reading books.",
+    "bleu_score": 1.0003688322288243e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kechasi yomg‘ir yog‘ib, havo salqinlashdi.",
+    "output": "\"He has a new job, he has had a good conversation.\"",
+    "expected": "It rained at night and the weather cooled down.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U universitetda informatika bo‘yicha o‘qiyapti.",
+    "output": "In the university, I graduated in informatics.",
+    "expected": "He is studying computer science at the university.",
+    "bleu_score": 9.709385502639237e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Biz oilamiz bilan hafta oxiri kinoga bordik.",
+    "output": "\"We finished the weekend with oil.\"",
+    "expected": "We went to the cinema with our family on the weekend.",
+    "bleu_score": 6.016112399618114e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U o‘z maqsadiga erishish uchun qat’iyat bilan ishladi.",
+    "output": "He worked with determination to achieve his goal.",
+    "expected": "He worked with determination to achieve his goal.",
+    "bleu_score": 1.0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Hayotda eng katta boylik — sog‘liqdir.",
+    "output": "In this context, \"There is no greater joy than happiness.\"",
+    "expected": "The greatest wealth in life is health.",
+    "bleu_score": 1.0244914152188952e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U juda dono inson bo‘lib, har doim to‘g‘ri maslahat beradi.",
+    "output": "U juda dono inson bo‘lib, har doim to‘g‘ri maslahat beradi.",
+    "expected": "He is a very wise person and always gives good advice.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Qiyin vaziyatlarda ham umidni yo‘qotmaslik kerak.",
+    "output": "In difficult situations, we must not lose hope.",
+    "expected": "One should not lose hope even in difficult situations.",
+    "bleu_score": 6.333134513676991e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Yaxshi do‘st — qiyinchilikda bilinadi.",
+    "output": "The translation of the text \"Yaxshi dost — qiyinchilikda bilinadi.\" from Uzbek to English is \"A good friend is known for his honesty.\"",
+    "expected": "A good friend is known in hardship.",
+    "bleu_score": 0.10308675254291907
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U uzoq o‘ylab, nihoyat to‘g‘ri qarorga keldi.",
+    "output": "\"I threw it away, and finally, the correct answer emerged.\"",
+    "expected": "He thought for a long time and finally made the right decision.",
+    "bleu_score": 9.97486269044271e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Har bir insonning hayotida o‘ziga xos sinovlar bo‘ladi.",
+    "output": "\"Every person has unique personal experiences in their life.\"",
+    "expected": "Every person has unique challenges in life.",
+    "bleu_score": 4.335118471269586e-78
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U mehnatkashligi va halolligi bilan boshqalardan ajralib turadi.",
+    "output": "\"He is different from others in terms of morality and values.\"",
+    "expected": "He stands out from others with his diligence and honesty.",
+    "bleu_score": 6.061838450024688e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Inson hayoti davomida bilim izlashdan to‘xtamasligi lozim.",
+    "output": "It is necessary to discontinue the pursuit of knowledge after insomnia.",
+    "expected": "A person should never stop seeking knowledge throughout life.",
+    "bleu_score": 1.0003688322288243e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Har qanday muvaffaqiyat sabr-toqat va mehnat bilan keladi.",
+    "output": "\"He comes with patience and dedication.\"",
+    "expected": "Any success comes with patience and hard work.",
+    "bleu_score": 0.36409302398068727
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Dasturiy ta’minotning yangi versiyasi xavfsizlik protokollarini yangiladi.",
+    "output": "\"Updates the new version of the safety protocols for Dasturiy ta'minot.\"",
+    "expected": "The new version of the software updated its security protocols.",
+    "bleu_score": 0.23462350320528
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Serverning ishlash tezligini optimallashtirish uchun kechiktirish vaqtini qisqartirish kerak.",
+    "output": "To optimize the serving speed, it is necessary to reduce the idle time.",
+    "expected": "To optimize server performance, the latency must be reduced.",
+    "bleu_score": 5.554837769749797e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Ma’lumotlar bazasi indekslash orqali so‘rovlarni tezroq qayta ishlaydi.",
+    "output": "\"Data-based indexing allows for quick reprocessing of queries.\"",
+    "expected": "The database processes queries faster through indexing.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Sun’iy intellekt modeli katta hajmdagi ma’lumotlar ustida o‘qitildi.",
+    "output": "\"Sun'iy intellect modeli katta hajmdagi ma'lumotlar ustida o'qitildi.\"",
+    "expected": "The artificial intelligence model was trained on large-scale data.",
+    "bleu_score": 0
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Sensorlar real vaqt rejimida harorat va namlikni o‘lchaydi.",
+    "output": "\"Sensors measure temperature and humidity at regular intervals.\"",
+    "expected": "Sensors measure temperature and humidity in real time.",
+    "bleu_score": 0.345720784641941
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Algoritm murakkab hisob-kitoblarni millisekundlarda bajaradi.",
+    "output": "\"The algorithm completes the calculation of small books in milliseconds.\"",
+    "expected": "The algorithm performs complex calculations in milliseconds.",
+    "bleu_score": 1.2183324802375697e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Tizimdagi xatoliklar jurnal faylida avtomatik ravishda qayd etiladi.",
+    "output": "\"Defects in the system are recorded automatically in the journal file.\"",
+    "expected": "Errors in the system are automatically recorded in the log file.",
+    "bleu_score": 0.2998221389342337
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kiberxavfsizlik siyosati foydalanuvchi ma’lumotlarini himoya qilishga qaratilgan.",
+    "output": "Cybersecurity policy is aimed at protecting user information.",
+    "expected": "The cybersecurity policy aims to protect user data.",
+    "bleu_score": 1.2882297539194154e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Sensor tarmog‘i uzluksiz monitoring orqali energiya sarfini kamaytiradi.",
+    "output": "\"Thermal sensor reduces energy consumption through continuous monitoring.\"",
+    "expected": "The sensor network reduces energy consumption through continuous monitoring.",
+    "bleu_score": 0.47750342648354643
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Bulutli xizmatlar foydalanuvchilarga moslashuvchan saqlash hajmini taqdim etadi.",
+    "output": "Cloud services providers offer a storage capacity that is suitable for their customers.",
+    "expected": "Cloud services provide users with flexible storage capacity.",
+    "bleu_score": 5.554837769749797e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kecha jigarim bilan ko‘rishtim. Mazza qilib shashlik-xo‘rlik qildik.",
+    "output": "\"With my hands, I rub them. We eat grilled meat and bread.\"",
+    "expected": "Yesterday I met up with my bro. We ate shashlik.",
+    "bleu_score": 1.2882297539194154e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Ukam futbol o‘ynashni qotirib qo‘yadi. Tepsa koptok osmonga uchib ketadi.",
+    "output": "\"He plays football four times a week. He goes to the gym every morning. He goes to the gym every morning.\"",
+    "expected": "My little bro can’t play football good. When he kicks, the ball flies into the sky.",
+    "bleu_score": 1.1200407237786664e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Nima gapla bolla? Qale ishla?",
+    "output": "What's up, buddy? What are you doing?",
+    "expected": "What’s up, guys? How are you?",
+    "bleu_score": 1.331960397810445e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kecha o‘rtog‘im adasiga rossa paxta qo‘ydi. Yengi telefon kerak shakil.",
+    "output": "\"Kecha o‘rtog‘im adasiga rossa paxta qo‘ydi. Yengi telefon kerak shakil.\"\n\nThe translated text in English is: \"The red package was delivered to the oasis. A new phone is needed.\"",
+    "expected": "Yesterday my friend really buttered up his dad. Guess he wants a new phone.",
+    "bleu_score": 7.850707993042515e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Bugun jonkam bilan ko‘rishkanimda rossa miyyami yedi. Oxiri nervimga teygani uchun, shapat berdim.",
+    "output": "Today, I saw the rosa miyami with my eyes. For the nerves that end, I am shaped.",
+    "expected": "When I met my babe today, she really got on my nerves. In the end, I slapped her.",
+    "bleu_score": 5.178759661787199e-155
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Eee, manga baribir. Man sirpandim bu yerdan.",
+    "output": "Sure, here's \"Oh, manga baribir. Man sirpandim bu yerdan.\"\n\n\"Oh, manga baribir. I am coming from this place.\"",
+    "expected": "Eh, I don’t care. I’m outta here.",
+    "bleu_score": 8.844844403089351e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: U bolani soqqasi ko‘p, lyuboy moshinani sotib oladi.",
+    "output": "\"He hit a lot of balls, and he bought the favorite player.\"\n\nThe translated text is just the sentence structure has been changed to follow English grammatical rules, but the meaning remains the same.",
+    "expected": "That guy’s loaded, he can buy any car he wants.",
+    "bleu_score": 7.544641259221007e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Anu qizchani ko‘rinishi takoy ekan mi?",
+    "output": "\"Could a girl be a ko‘rinishi takoy?\"",
+    "expected": "That girl looks attractive, doesn’t she?",
+    "bleu_score": 1.1200407237786664e-231
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Kecha moshinamga zo‘r saka diska oldim.",
+    "output": "\"Kecha moshinamga zo‘r saka diska oldim.\"\n\nHowever, this sentence does not make much sense in English. It seems like there might be a missing word or phrase in the original text. If you can provide more context or clarify the intended meaning, I would be happy to help with the translation.",
+    "expected": "Yesterday I got some awesome alloy rims for my car.",
+    "bleu_score": 6.817352958349419e-232
+  },
+  {
+    "input": "Translate the following text from uz to en and provide only the translated text: Moshinani shapkasi qancha?",
+    "output": "\"Moshinani shapkasi qancha?\" translates to \"How tall is Moshin's hat?\" in English.",
+    "expected": "How much is the grease money for the car?",
+    "bleu_score": 9.788429383461836e-232
+  }
+]
