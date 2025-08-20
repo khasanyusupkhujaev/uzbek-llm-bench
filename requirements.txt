@@ -1,0 +1,6 @@
+torch
+transformers
+nltk
+accelerate
+sacremoses
+protobuf
